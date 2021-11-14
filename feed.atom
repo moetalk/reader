@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-13T01:05:20.953Z</id>
+    <id>urn:2021-11-14T01:08:51.335Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-13T01:05:20.953Z</updated>
+    <updated>2021-11-14T01:08:51.335Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -530,16 +530,6 @@ Chore: Dependency updates
 Thank you: @hirdot]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tips And Tricks For Evaluating UX/UI Designers]]></title>
-        <id>https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/</id>
-        <link href="https://smashingmagazine.com/2021/10/tips-tricks-evaluating-ux-ui-designers/"/>
-        <updated>2021-10-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Customers may start using your app because you offer a unique product, but user experience is what makes them stay. For that, you need excellent UX designers, and the know-how to spot them when hiring.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nataliya Sambir)</name>
         </author>
     </entry>
 </feed>
