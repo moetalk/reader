@@ -1,10 +1,121 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-02T01:08:16.979Z</id>
+    <id>urn:2021-12-03T01:07:35.932Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-02T01:08:16.979Z</updated>
+    <updated>2021-12-03T01:07:35.932Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Test Your Site With Real Users]]></title>
+        <id>https://css-tricks.com/?p=357368</id>
+        <link href="https://css-tricks.com/test-your-site-with-real-users/"/>
+        <updated>2021-12-02T22:13:27.000Z</updated>
+        <summary type="html"><![CDATA[A few years ago, there was this French book publisher. They specialize in technical books and published an author who wrote a book about CSS3, HTML5 and jQuery. The final version, however, a glaring typo on the cover where “HTML5” …]]></summary>
+        <author>
+            <name>Stéphanie Walter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Yourself Against SIM Swapping Attacks]]></title>
+        <id>5fff3e8b98be260817e495e9</id>
+        <link href="https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/"/>
+        <updated>2021-12-02T20:05:26.000Z</updated>
+        <summary type="html"><![CDATA[What is a SIM swap?SIM swapping is when a hacker convinces your cell phone carrier to switch your phone number to a different SIM - one that they own.  This is a relatively normal thing for a retail employee to do, which means that someone asking for a swap]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Mixins in Sass and Pass Arguments – With Code Examples]]></title>
+        <id>61951bb111d3cb08287a7bae</id>
+        <link href="https://www.freecodecamp.org/news/how-to-pass-arguments-to-mixins/"/>
+        <updated>2021-12-02T18:45:59.000Z</updated>
+        <summary type="html"><![CDATA[Mixins are my favorite thing about Sass. They made my life so much easier, so I wanted to show you how they can do the same for you. Mixins can be a bit tricky to understand at first, but don't worry. You'll get the hang of it by practicing and]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make a Simple Async GET REST API call in SwiftUI]]></title>
+        <id>61a683330c0c7407b2b3e88f</id>
+        <link href="https://www.freecodecamp.org/news/make-rest-api-call-in-swiftui-in-2-minutes/"/>
+        <updated>2021-12-02T18:32:23.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial for beginners, you will learn the basics of using SwiftUI to make API calls using the popular Internet Chuck Norris DataBase (ICNDB) as an example. It will display a joke quickly and easily using Swift and SwiftUI.  You'll see how the cross-platform framework SwiftUI lets us use]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTC Connecting Discord – How to Fix the Server Error]]></title>
+        <id>61a8e0bb0c0c7407b2b3f52a</id>
+        <link href="https://www.freecodecamp.org/news/rtc-connecting-discord-how-to-fix-the-server-error/"/>
+        <updated>2021-12-02T17:10:47.000Z</updated>
+        <summary type="html"><![CDATA[Discord is an instant messaging app that lets you communicate through voice, video, and texts. It is available in a web-based form, a desktop app, and a mobile app.  But sometimes, when you're trying to establish a voice call connection, you'll get an error that says “RTC Connecting Discord”. This]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Redux for Application-Wide State Management]]></title>
+        <id>61a0677125888a07c3e1b835</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-redux-for-application-wide-state-management/"/>
+        <updated>2021-12-02T15:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Let's face it – state management across multiple components isn't easy. Sometimes we might set up the state or logic handling properly, but fail to consume the states. Or we might get everything working, but clutter up the codebase in the process, making it hard to read, adapt, and extend.   The]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace your code’s transience]]></title>
+        <id>https://css-tricks.com/?p=357600</id>
+        <link href="https://css-tricks.com/embrace-your-codes-transience/"/>
+        <updated>2021-12-02T15:45:52.000Z</updated>
+        <summary type="html"><![CDATA[Websites change. Healthy codebases are constantly being updated. Legacy code dies when it eventually goes down with the ship. Recognizing that my code is transient allows me to be more practical about my code and what guides my decision-making as …]]></summary>
+        <author>
+            <name>Jake Albaugh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fractional SVG stars with CSS]]></title>
+        <id>https://css-tricks.com/?p=358210</id>
+        <link href="https://css-tricks.com/fractional-svg-stars-with-css/"/>
+        <updated>2021-12-02T15:42:37.000Z</updated>
+        <summary type="html"><![CDATA[Some ⭐️⭐️⭐️⭐️⭐️ star rating systems aren’t always exactly even stars. Say you want to support rating something 2.25 stars. To do that you could “fill” the shape of the stars partially. I like this idea by Samuel Kraft. The tricky …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streaming Optimized Videos From AWS S3 in Minutes]]></title>
+        <id>https://css-tricks.com/?p=357012</id>
+        <link href="https://css-tricks.com/streaming-optimized-videos-from-aws-s3-in-minutes/"/>
+        <updated>2021-12-02T15:41:22.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Videos appeal to humans in a way no other form of the content does. A video includes motion, music, still images, text, speech, and a few other elements, all of which combine to deliver …]]></summary>
+        <author>
+            <name>ImageKit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Advent Calendars For Web Designers And Developers (December 2021 Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/</id>
+        <link href="https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/"/>
+        <updated>2021-12-02T14:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Protect Your API Key In Production With Next.js API Route]]></title>
+        <id>https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/</id>
+        <link href="https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/"/>
+        <updated>2021-12-02T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
         <id>https://css-tricks.com/?p=357985</id>
@@ -145,26 +256,6 @@ It
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Improve the Accuracy of Your Image Recognition Models]]></title>
-        <id>61a0dae325888a07c3e1bee6</id>
-        <link href="https://www.freecodecamp.org/news/improve-image-recognition-model-accuracy-with-these-hacks/"/>
-        <updated>2021-11-29T17:09:30.000Z</updated>
-        <summary type="html"><![CDATA[These 7 tricks and tips will take you from 50% to 90% accuracy for your image recognition models in literally minutes. So, you have gathered a dataset, built a neural network, and trained your model. But despite the hours (and sometimes days) of work you've invested to create the model,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Convert String to Int – How to Cast a String in Python]]></title>
-        <id>61a3882925888a07c3e1ce6d</id>
-        <link href="https://www.freecodecamp.org/news/python-convert-string-to-int-how-to-cast-a-string-in-python/"/>
-        <updated>2021-11-29T16:47:01.000Z</updated>
-        <summary type="html"><![CDATA[When you're programming, you'll often need to switch between data types.  The ability to convert one data type to another gives you great flexibility when working with information.  There are different built-in ways to convert, or cast, types in the Python programming language.  In this article, you'll learn how to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Recreating the Apple Music Hits Playlist Animation in CSS]]></title>
         <id>https://css-tricks.com/?p=357565</id>
         <link href="https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/"/>
@@ -184,36 +275,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
 …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams]]></title>
-        <id>61924f5811d3cb08287a6648</id>
-        <link href="https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/"/>
-        <updated>2021-11-29T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn About NoSQL Databases in This 3-hour Course]]></title>
-        <id>6140e027852f4307d372d933</id>
-        <link href="https://www.freecodecamp.org/news/learn-nosql-in-3-hours/"/>
-        <updated>2021-11-29T15:47:00.000Z</updated>
-        <summary type="html"><![CDATA[NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spell Check Not Working in Word [Fixed on Windows 10 PC]]]></title>
-        <id>61a4b12225888a07c3e1d240</id>
-        <link href="https://www.freecodecamp.org/news/spell-check-not-working-in-word-fixed-on-windows-10-pc/"/>
-        <updated>2021-11-29T14:53:48.000Z</updated>
-        <summary type="html"><![CDATA[Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -281,26 +342,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Which SVG technique performs best for way too many icons?]]></title>
-        <id>https://css-tricks.com/?p=357412</id>
-        <link href="https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/"/>
-        <updated>2021-11-23T19:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Control Layout in a Multi-Directional Website]]></title>
-        <id>https://css-tricks.com/?p=356977</id>
-        <link href="https://css-tricks.com/control-layout-in-a-multi-directional-website/"/>
-        <updated>2021-11-23T16:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …]]></summary>
-        <author>
-            <name>Alaa Abd El-Rahim</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adding A Dyslexia-Friendly Mode To A Website]]></title>
         <id>https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/</id>
         <link href="https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/"/>
@@ -308,36 +349,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
         <summary type="html"><![CDATA[With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (John C Barstow)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On User Tracking and Industry Standards on Privacy]]></title>
-        <id>https://css-tricks.com/?p=357149</id>
-        <link href="https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/"/>
-        <updated>2021-11-22T21:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:
-There was a line that really stood out to me: 
-The idea that it’s alright to do whatever unethical thing is currently the 
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS “decorations”]]></title>
-        <id>https://css-tricks.com/?p=357046</id>
-        <link href="https://css-tricks.com/css-decorations/"/>
-        <updated>2021-11-22T18:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:
-.mw-collapsible-leftside-toggle .mw-collapsible-toggle {
-  /* @noflip */
-  float: left;
-  /* @noflip */
-  text-align: left;
-}
-What’s that @noflip business? That’s …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -478,16 +489,6 @@ What’s that @noflip business? That’s …]]></summary>
         <summary type="html"><![CDATA[Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (David Atanda)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Deep Dive Into Serverless UI With TypeScript]]></title>
-        <id>https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/</id>
-        <link href="https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/"/>
-        <updated>2021-11-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ikeh Akinyemi)</name>
         </author>
     </entry>
 </feed>
