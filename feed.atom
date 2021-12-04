@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-03T01:07:35.932Z</id>
+    <id>urn:2021-12-04T01:07:29.292Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T01:07:35.932Z</updated>
+    <updated>2021-12-04T01:07:29.292Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Low framerate in Safari on M1 Mac]]></title>
+        <id>https://css-tricks.com/?p=358206</id>
+        <link href="https://css-tricks.com/low-framerate-in-safari-on-m1-mac/"/>
+        <updated>2021-12-03T21:44:40.000Z</updated>
+        <summary type="html"><![CDATA[John James Jacoby:
+I recently noticed that animations in Safari were stuttering pretty badly on my M1 powered 2020 MacBook Air, and dove in to figure out why.
+
+
+
+
+The why:
+This wasn’t a bug. This was a feature.
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them]]></title>
+        <id>61a7b9390c0c7407b2b3f076</id>
+        <link href="https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/"/>
+        <updated>2021-12-03T19:14:57.000Z</updated>
+        <summary type="html"><![CDATA[As programmers, we will inevitably make mistakes. Even the most accomplished specialists make them. But you'll become a better programmer faster if you don't make the same mistakes over and over. There are many types of mistakes you might make when you're coding. The majority of them usually come from]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ain’t No Party Like a Third Party]]></title>
+        <id>https://css-tricks.com/?p=356844</id>
+        <link href="https://css-tricks.com/aint-no-party-like-a-third-party/"/>
+        <updated>2021-12-03T15:45:19.000Z</updated>
+        <summary type="html"><![CDATA[I’d like to tell you something not to do to make your website better. Don’t add any third-party scripts to your site.
+That may sound extreme, but at one time it would’ve been common sense. On today’s …]]></summary>
+        <author>
+            <name>Jeremy Keith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bartosz Ciechanowski’s Interactive Blog Posts]]></title>
+        <id>https://css-tricks.com/?p=358092</id>
+        <link href="https://css-tricks.com/bartosz-ciechanowskis-interactive-blog-posts/"/>
+        <updated>2021-12-03T15:41:11.000Z</updated>
+        <summary type="html"><![CDATA[I saw Bartosz Ciechanowski’s “Curves and Surfaces” going around the other day and was like, oh hey, this is the same fella that did that other amazingly interactive blog post on the Internal Combustion Engine the other day. I …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Test Your Site With Real Users]]></title>
         <id>https://css-tricks.com/?p=357368</id>
@@ -246,16 +295,6 @@ It
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSON for Beginners – JavaScript Object Notation Explained in Plain English]]></title>
-        <id>60c08938d3126007592d56f5</id>
-        <link href="https://www.freecodecamp.org/news/what-is-json-a-json-file-example/"/>
-        <updated>2021-11-29T19:16:16.000Z</updated>
-        <summary type="html"><![CDATA[Many software applications need to exchange data between a client and server.  For a long time, XML was the preferred data format when it came to information exchange between the two points. Then in early 2000, JSON was introduced as an alternate data format for information exchange. In this article,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Recreating the Apple Music Hits Playlist Animation in CSS]]></title>
         <id>https://css-tricks.com/?p=357565</id>
         <link href="https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/"/>
@@ -288,30 +327,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is it “Right” to Reach for  contain and will-change in CSS?]]></title>
-        <id>https://css-tricks.com/?p=357271</id>
-        <link href="https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/"/>
-        <updated>2021-11-26T20:43:05.000Z</updated>
-        <summary type="html"><![CDATA[I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:
-.el {
-  will-change: opacity;
-
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Handy Little System for Animated Entrances in CSS]]></title>
-        <id>https://css-tricks.com/?p=357239</id>
-        <link href="https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/"/>
-        <updated>2021-11-26T16:12:33.000Z</updated>
-        <summary type="html"><![CDATA[I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …]]></summary>
-        <author>
-            <name>Neale Van Fleet</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Maintain A Large Next.js Application]]></title>
         <id>https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/</id>
         <link href="https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/"/>
@@ -319,16 +334,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
         <summary type="html"><![CDATA[In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nirmalya Ghosh)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Generative Patterns with The CSS Paint API]]></title>
-        <id>https://css-tricks.com/?p=357294</id>
-        <link href="https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/"/>
-        <updated>2021-11-24T15:49:08.000Z</updated>
-        <summary type="html"><![CDATA[The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …]]></summary>
-        <author>
-            <name>George Francis</name>
         </author>
     </entry>
     <entry>
@@ -479,16 +484,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
         <summary type="html"><![CDATA[In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Drew McLellan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL On The Front-End (React And Apollo)]]></title>
-        <id>https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/</id>
-        <link href="https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/"/>
-        <updated>2021-11-04T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (David Atanda)</name>
         </author>
     </entry>
 </feed>
