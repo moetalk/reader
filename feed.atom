@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-04T01:07:29.292Z</id>
+    <id>urn:2021-12-05T01:13:58.391Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-04T01:07:29.292Z</updated>
+    <updated>2021-12-05T01:13:58.391Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -464,26 +464,6 @@ The average favicon network request takes 130ms, at least from our speedy cloud 
         <summary type="html"><![CDATA[A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Ilya Grigorik)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Value Of Concept Testing As Part Of Product Design]]></title>
-        <id>https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/</id>
-        <link href="https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/"/>
-        <updated>2021-11-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Victor Yocco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?]]></title>
-        <id>https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/</id>
-        <link href="https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/"/>
-        <updated>2021-11-04T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Drew McLellan)</name>
         </author>
     </entry>
 </feed>
