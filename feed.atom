@@ -1,10 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-06T01:10:21.935Z</id>
+    <id>urn:2021-12-07T01:12:04.026Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-06T01:10:21.935Z</updated>
+    <updated>2021-12-07T01:12:04.026Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use an iPad for WordPress Theme Development]]></title>
+        <id>https://css-tricks.com/?p=357869</id>
+        <link href="https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/"/>
+        <updated>2021-12-06T23:28:03.000Z</updated>
+        <summary type="html"><![CDATA[I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …]]></summary>
+        <author>
+            <name>Jakob Bouchard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Props (and Custom Properties as a System)]]></title>
+        <id>https://css-tricks.com/?p=358263</id>
+        <link href="https://css-tricks.com/open-props-and-custom-properties-as-a-system/"/>
+        <updated>2021-12-06T21:43:28.000Z</updated>
+        <summary type="html"><![CDATA[Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hhhelpers]]></title>
+        <id>https://css-tricks.com/?p=358325</id>
+        <link href="https://css-tricks.com/hhhelpers/"/>
+        <updated>2021-12-06T21:43:15.000Z</updated>
+        <summary type="html"><![CDATA[I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Type Erasure in TypeScript?]]></title>
+        <id>61a1322f25888a07c3e1c124</id>
+        <link href="https://www.freecodecamp.org/news/what-is-type-erasure-in-typescript/"/>
+        <updated>2021-12-06T19:21:41.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Better Links For Websites And Emails: A Guideline]]></title>
+        <id>https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/</id>
+        <link href="https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/"/>
+        <updated>2021-12-06T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]]]></title>
+        <id>61ae22d7946db661defb7d18</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-rid-of-the-activate-windows-watermark-windows-10-pc-activation-message-removal/"/>
+        <updated>2021-12-06T16:00:21.000Z</updated>
+        <summary type="html"><![CDATA[If you're a Windows user, you might have seen the "Activate Windows" message that displays over every other thing – including your cursor. I guess they gave it a z-index of infinity.  This message gets displayed when you use a Windows OS that has an invalid or expired license.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reduce Your Website’s Environmental Impact With a Carbon Budget]]></title>
+        <id>https://css-tricks.com/?p=356833</id>
+        <link href="https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/"/>
+        <updated>2021-12-06T15:57:09.000Z</updated>
+        <summary type="html"><![CDATA[As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …]]></summary>
+        <author>
+            <name>Michelle Barker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Low framerate in Safari on M1 Mac]]></title>
         <id>https://css-tricks.com/?p=358206</id>
@@ -221,31 +291,7 @@ Is there an experimental API that you’ve been wanting to try out?
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Using the Reflog to Restore Lost Commits]]></title>
-        <id>https://css-tricks.com/?p=357728</id>
-        <link href="https://css-tricks.com/using-the-reflog-to-restore-lost-commits/"/>
-        <updated>2021-11-30T15:53:27.000Z</updated>
-        <summary type="html"><![CDATA[This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!
-The “Reflog” is one of Git’s lesser-known features—but one that can be extremely …]]></summary>
-        <author>
-            <name>Tobias Günther</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Look at the Cloudinary WordPress Plugin]]></title>
-        <id>https://css-tricks.com/?p=357679</id>
-        <link href="https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/"/>
-        <updated>2021-11-30T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Cloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:
-It 
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it]]></title>
+        <title type="html"><![CDATA[Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit]]></title>
         <id>61783ffa33422e07df364d2c</id>
         <link href="https://www.freecodecamp.org/news/rust-in-replit/"/>
         <updated>2021-11-30T14:35:18.000Z</updated>
@@ -272,48 +318,6 @@ It
         <summary type="html"><![CDATA[Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Valuable Skills Developers Should Learn in 2022]]></title>
-        <id>61a0f98125888a07c3e1bfbc</id>
-        <link href="https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/"/>
-        <updated>2021-11-30T01:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy]]></title>
-        <id>61a39f3025888a07c3e1cf08</id>
-        <link href="https://www.freecodecamp.org/news/types-of-software-development-training/"/>
-        <updated>2021-11-29T21:06:01.000Z</updated>
-        <summary type="html"><![CDATA[How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreating the Apple Music Hits Playlist Animation in CSS]]></title>
-        <id>https://css-tricks.com/?p=357565</id>
-        <link href="https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/"/>
-        <updated>2021-11-29T16:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Analyzed 425,909 Favicons]]></title>
-        <id>https://css-tricks.com/?p=357976</id>
-        <link href="https://css-tricks.com/we-analyzed-425909-favicons/"/>
-        <updated>2021-11-29T16:38:07.000Z</updated>
-        <summary type="html"><![CDATA[This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.
-The average favicon network request takes 130ms, at least from our speedy cloud instance.
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
