@@ -1,10 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-07T01:12:04.026Z</id>
+    <id>urn:2021-12-08T01:11:02.456Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-07T01:12:04.026Z</updated>
+    <updated>2021-12-08T01:11:02.457Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The 2021 New Coder Survey – More than 18,000 People Share How and Why They are Learning to Code]]></title>
+        <id>61a43b7925888a07c3e1d115</id>
+        <link href="https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/"/>
+        <updated>2021-12-07T22:40:42.000Z</updated>
+        <summary type="html"><![CDATA[More than 18,000 people responded to the 2021 freeCodeCamp New Coder Survey. This grants us all significant insight into how thousands of people all around the world are learning to code, and why they are choosing to do so.  We’ve released the entire dataset of participants’ responses to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spicy Sections]]></title>
+        <id>https://css-tricks.com/?p=356433</id>
+        <link href="https://css-tricks.com/spicy-sections/"/>
+        <updated>2021-12-07T22:03:19.000Z</updated>
+        <summary type="html"><![CDATA[What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Code Splitting in React – Loadable Components to the Rescue]]></title>
+        <id>61a9ff36946db661defb7472</id>
+        <link href="https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/"/>
+        <updated>2021-12-07T20:41:40.000Z</updated>
+        <summary type="html"><![CDATA[Code splitting is a way to split up your code from a large file into smaller code bundles. These can then be requested on demand or in parallel.  Now, it isn't a new concept, but it can be tricky to understand. When you're doing code splitting, it is important to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Your Product on a Crappy Laptop]]></title>
+        <id>https://css-tricks.com/?p=357637</id>
+        <link href="https://css-tricks.com/test-your-product-on-a-crappy-laptop/"/>
+        <updated>2021-12-07T19:01:05.000Z</updated>
+        <summary type="html"><![CDATA[There is a huge and ever-widening gap between the devices we use to make the web and the devices most people use to consume it. It’s also no secret that the average size of a website is huge, and …]]></summary>
+        <author>
+            <name>Eric Bailey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Bootstrap 5 Tutorial for Beginners]]></title>
+        <id>61af976e946db661defb881f</id>
+        <link href="https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/"/>
+        <updated>2021-12-07T17:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Bootstrap is the most popular CSS framework. It allows web developers to quickly design and customize responsive mobile-first sites. We just published a 3-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Bootstrap 5. Dawid Adach developed this course. Dawid has been working with]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Print Variable – How to Print a String and Variable]]></title>
+        <id>61a776fd0c0c7407b2b3eeba</id>
+        <link href="https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/"/>
+        <updated>2021-12-07T17:26:18.000Z</updated>
+        <summary type="html"><![CDATA[Python is a versatile and flexible language – there is often more than one way to achieve something.  In this tutorial, you'll see some of the ways you can print a string and a variable together.  Let's get started!  How to use the print() function in Python To print anything in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Technical Certification Guide – Are They Worth It, and How to Choose One]]></title>
+        <id>61a648220c0c7407b2b3e7e3</id>
+        <link href="https://www.freecodecamp.org/news/technical-certification-guide/"/>
+        <updated>2021-12-07T16:31:49.000Z</updated>
+        <summary type="html"><![CDATA[If you've been wondering whether you should go for a technical certification or not, then this article is for you.  In it, I will share with you how I approach such dilemmas to help you decide what to pursue.  Why You Should Get Technical Certifications The main reasons to get]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inertia]]></title>
+        <id>https://css-tricks.com/?p=358321</id>
+        <link href="https://css-tricks.com/inertia/"/>
+        <updated>2021-12-07T16:20:21.000Z</updated>
+        <summary type="html"><![CDATA[I’ve always like Jeremy’s categorization of developer tools:
+I’ve mentioned two categories of tools for web development. I still don’t know quite what to call these categories. Internal and external? Developer-facing and user-facing?
+The first category covers things like 
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Licensing for Agencies and Professionals]]></title>
+        <id>https://css-tricks.com/?p=358411</id>
+        <link href="https://css-tricks.com/jetpack-licensing-for-agencies-and-professionals/"/>
+        <updated>2021-12-07T16:18:14.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I’ve built WordPress websites for I don’t know how long now, but suffice to say I’ve relied on it for a bulk of the work I do as a freelance front-ender. And in that …]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TypeScript Literal and Collective Types]]></title>
+        <id>61ab940f946db661defb79ca</id>
+        <link href="https://www.freecodecamp.org/news/typescript-literal-and-collective-types/"/>
+        <updated>2021-12-07T15:55:33.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript offers us a level of "safety" in our code by adding static types. We can guarantee that certain properties or functions are present in our code by making them conform to types. This can hugely reduce the amount of client-side errors you might have in your website, because it]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a TodoApp using ReactJS, NextJS, and Supabase]]></title>
+        <id>611b56ece884de075217ff7f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/"/>
+        <updated>2021-12-07T15:48:26.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks, welcome to this tutorial. Today we're going to build a production-ready Todo application with React, Next, and Supabase. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide.  If you're not and need to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use an iPad for WordPress Theme Development]]></title>
         <id>https://css-tricks.com/?p=357869</id>
@@ -76,6 +190,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Learn How to Build Apps From a Business Perspective]]></title>
+        <id>61af7c5e946db661defb8589</id>
+        <link href="https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/"/>
+        <updated>2021-12-06T15:37:00.000Z</updated>
+        <summary type="html"><![CDATA[There is way more to building successful apps than just coding. In fact, coding is often the easiest part. There are many business considerations that are extremely important. We just published an 8-hour course on the freeCodeCamp.org YouTube channel that will teach you the business of building apps.  Shad]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Low framerate in Safari on M1 Mac]]></title>
         <id>https://css-tricks.com/?p=358206</id>
         <link href="https://css-tricks.com/low-framerate-in-safari-on-m1-mac/"/>
@@ -91,16 +215,6 @@ This wasn’t a bug. This was a feature.
 …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them]]></title>
-        <id>61a7b9390c0c7407b2b3f076</id>
-        <link href="https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/"/>
-        <updated>2021-12-03T19:14:57.000Z</updated>
-        <summary type="html"><![CDATA[As programmers, we will inevitably make mistakes. Even the most accomplished specialists make them. But you'll become a better programmer faster if you don't make the same mistakes over and over. There are many types of mistakes you might make when you're coding. The majority of them usually come from]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -132,56 +246,6 @@ That may sound extreme, but at one time it would’ve been common sense. On toda
         <summary type="html"><![CDATA[A few years ago, there was this French book publisher. They specialize in technical books and published an author who wrote a book about CSS3, HTML5 and jQuery. The final version, however, a glaring typo on the cover where “HTML5” …]]></summary>
         <author>
             <name>Stéphanie Walter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Protect Yourself Against SIM Swapping Attacks]]></title>
-        <id>5fff3e8b98be260817e495e9</id>
-        <link href="https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/"/>
-        <updated>2021-12-02T20:05:26.000Z</updated>
-        <summary type="html"><![CDATA[What is a SIM swap?SIM swapping is when a hacker convinces your cell phone carrier to switch your phone number to a different SIM - one that they own.  This is a relatively normal thing for a retail employee to do, which means that someone asking for a swap]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Mixins in Sass and Pass Arguments – With Code Examples]]></title>
-        <id>61951bb111d3cb08287a7bae</id>
-        <link href="https://www.freecodecamp.org/news/how-to-pass-arguments-to-mixins/"/>
-        <updated>2021-12-02T18:45:59.000Z</updated>
-        <summary type="html"><![CDATA[Mixins are my favorite thing about Sass. They made my life so much easier, so I wanted to show you how they can do the same for you. Mixins can be a bit tricky to understand at first, but don't worry. You'll get the hang of it by practicing and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Simple Async GET REST API call in SwiftUI]]></title>
-        <id>61a683330c0c7407b2b3e88f</id>
-        <link href="https://www.freecodecamp.org/news/make-rest-api-call-in-swiftui-in-2-minutes/"/>
-        <updated>2021-12-02T18:32:23.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial for beginners, you will learn the basics of using SwiftUI to make API calls using the popular Internet Chuck Norris DataBase (ICNDB) as an example. It will display a joke quickly and easily using Swift and SwiftUI.  You'll see how the cross-platform framework SwiftUI lets us use]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RTC Connecting Discord – How to Fix the Server Error]]></title>
-        <id>61a8e0bb0c0c7407b2b3f52a</id>
-        <link href="https://www.freecodecamp.org/news/rtc-connecting-discord-how-to-fix-the-server-error/"/>
-        <updated>2021-12-02T17:10:47.000Z</updated>
-        <summary type="html"><![CDATA[Discord is an instant messaging app that lets you communicate through voice, video, and texts. It is available in a web-based form, a desktop app, and a mobile app.  But sometimes, when you're trying to establish a voice call connection, you'll get an error that says “RTC Connecting Discord”. This]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Redux for Application-Wide State Management]]></title>
-        <id>61a0677125888a07c3e1b835</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-redux-for-application-wide-state-management/"/>
-        <updated>2021-12-02T15:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Let's face it – state management across multiple components isn't easy. Sometimes we might set up the state or logic handling properly, but fail to consume the states. Or we might get everything working, but clutter up the codebase in the process, making it hard to read, adapt, and extend.   The]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -233,71 +297,6 @@ Videos appeal to humans in a way no other form of the content does. A video incl
         <summary type="html"><![CDATA[There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Caleb Olojo)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dock Life: Using Docker for All The Things!]]></title>
-        <id>https://css-tricks.com/?p=357985</id>
-        <link href="https://css-tricks.com/dock-life-using-docker-for-all-the-things/"/>
-        <updated>2021-12-01T21:11:53.000Z</updated>
-        <summary type="html"><![CDATA[I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embrace the Unpredictable]]></title>
-        <id>https://css-tricks.com/?p=357344</id>
-        <link href="https://css-tricks.com/embrace-the-unpredictable/"/>
-        <updated>2021-12-01T15:47:46.000Z</updated>
-        <summary type="html"><![CDATA[In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …]]></summary>
-        <author>
-            <name>George Francis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exactly What You Want]]></title>
-        <id>https://css-tricks.com/?p=356146</id>
-        <link href="https://css-tricks.com/exactly-what-you-want/"/>
-        <updated>2021-12-01T15:46:29.000Z</updated>
-        <summary type="html"><![CDATA[What is one thing people can do to make their website better?
- Exactly what you want to build!
-Ask yourself:
-What drew you to development in the beginning?
-Is there an experimental API that you’ve been wanting to try out?
-…]]></summary>
-        <author>
-            <name>Amelia Wattenberger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC]]></title>
-        <id>61a5f9680c0c7407b2b3e607</id>
-        <link href="https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/"/>
-        <updated>2021-12-01T09:49:48.000Z</updated>
-        <summary type="html"><![CDATA[In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diagonal Stripes Wipe Animation]]></title>
-        <id>https://css-tricks.com/?p=357109</id>
-        <link href="https://css-tricks.com/diagonal-stripes-wipe-animation/"/>
-        <updated>2021-11-30T17:26:35.000Z</updated>
-        <summary type="html"><![CDATA[I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit]]></title>
-        <id>61783ffa33422e07df364d2c</id>
-        <link href="https://www.freecodecamp.org/news/rust-in-replit/"/>
-        <updated>2021-11-30T14:35:18.000Z</updated>
-        <summary type="html"><![CDATA[For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>

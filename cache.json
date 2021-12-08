@@ -12,12 +12,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356433",
+          "author": "Chris Coyier",
+          "description": "What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …",
+          "link": "https://css-tricks.com/spicy-sections/",
+          "publishedOn": "2021-12-07T22:03:19.000Z",
+          "wordCount": 763,
+          "title": "Spicy Sections"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357637",
+          "author": "Eric Bailey",
+          "description": "There is a huge and ever-widening gap between the devices we use to make the web and the devices most people use to consume it. It’s also no secret that the average size of a website is huge, and …",
+          "link": "https://css-tricks.com/test-your-product-on-a-crappy-laptop/",
+          "publishedOn": "2021-12-07T19:01:05.000Z",
+          "wordCount": 1478,
+          "title": "Test Your Product on a Crappy Laptop"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358321",
+          "author": "Chris Coyier",
+          "description": "I’ve always like Jeremy’s categorization of developer tools:\nI’ve mentioned two categories of tools for web development. I still don’t know quite what to call these categories. Internal and external? Developer-facing and user-facing?\nThe first category covers things like \n…",
+          "link": "https://css-tricks.com/inertia/",
+          "publishedOn": "2021-12-07T16:20:21.000Z",
+          "wordCount": 1005,
+          "title": "Inertia"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358411",
+          "author": "Geoff Graham",
+          "description": "(This is a sponsored post.)\nI’ve built WordPress websites for I don’t know how long now, but suffice to say I’ve relied on it for a bulk of the work I do as a freelance front-ender. And in that …",
+          "link": "https://css-tricks.com/jetpack-licensing-for-agencies-and-professionals/",
+          "publishedOn": "2021-12-07T16:18:14.000Z",
+          "wordCount": 699,
+          "title": "Jetpack Licensing for Agencies and Professionals"
+        },
+        {
           "id": "https://css-tricks.com/?p=357869",
           "author": "Jakob Bouchard",
           "description": "I recently started university and, before buying a MacBook Air (the M1 chips are amazing by the way), I had to use an iPad Pro for class. However, being a Computer Science student meant I had to find a way …",
           "link": "https://css-tricks.com/how-to-use-an-ipad-for-wordpress-theme-development/",
           "publishedOn": "2021-12-06T23:28:03.000Z",
-          "wordCount": 1781,
+          "wordCount": 1786,
           "title": "How to Use an iPad for WordPress Theme Development"
         },
         {
@@ -26,7 +62,7 @@
           "description": "Perhaps the most basic and obvious use of CSS custom properties is design tokens. Colors, fonts, spacings, timings, and other atomic bits of design that you can pull from as you design a site. If you pretty much only pull …",
           "link": "https://css-tricks.com/open-props-and-custom-properties-as-a-system/",
           "publishedOn": "2021-12-06T21:43:28.000Z",
-          "wordCount": 894,
+          "wordCount": 899,
           "title": "Open Props (and Custom Properties as a System)"
         },
         {
@@ -35,7 +71,7 @@
           "description": "I was just going on about how many awesome little helper sites there are out there, and now I’ve ran across another wonderful little hive of them. Sébastien Noël, under the name fffuel, has created a whole bunch of great …",
           "link": "https://css-tricks.com/hhhelpers/",
           "publishedOn": "2021-12-06T21:43:15.000Z",
-          "wordCount": 373,
+          "wordCount": 397,
           "title": "hhhelpers"
         },
         {
@@ -44,7 +80,7 @@
           "description": "As I write this, world leaders are gathering in Glasgow for COP26, the international climate change conference, in the attempt to halt (or at least slow down) catastrophic climate change by pledging to end their countries’ dependence on fossil fuels. …",
           "link": "https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/",
           "publishedOn": "2021-12-06T15:57:09.000Z",
-          "wordCount": 1514,
+          "wordCount": 1829,
           "title": "Reduce Your Website’s Environmental Impact With a Carbon Budget"
         },
         {
@@ -62,7 +98,7 @@
           "description": "I’d like to tell you something not to do to make your website better. Don’t add any third-party scripts to your site.\nThat may sound extreme, but at one time it would’ve been common sense. On today’s …",
           "link": "https://css-tricks.com/aint-no-party-like-a-third-party/",
           "publishedOn": "2021-12-03T15:45:19.000Z",
-          "wordCount": 959,
+          "wordCount": 1050,
           "title": "Ain’t No Party Like a Third Party"
         },
         {
@@ -109,42 +145,6 @@
           "publishedOn": "2021-12-02T15:41:22.000Z",
           "wordCount": 2280,
           "title": "Streaming Optimized Videos From AWS S3 in Minutes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357985",
-          "author": "Chris Coyier",
-          "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
-          "link": "https://css-tricks.com/dock-life-using-docker-for-all-the-things/",
-          "publishedOn": "2021-12-01T21:11:53.000Z",
-          "wordCount": 717,
-          "title": "Dock Life: Using Docker for All The Things!"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357344",
-          "author": "George Francis",
-          "description": "In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …",
-          "link": "https://css-tricks.com/embrace-the-unpredictable/",
-          "publishedOn": "2021-12-01T15:47:46.000Z",
-          "wordCount": 793,
-          "title": "Embrace the Unpredictable"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356146",
-          "author": "Amelia Wattenberger",
-          "description": "What is one thing people can do to make their website better?\n Exactly what you want to build!\nAsk yourself:\nWhat drew you to development in the beginning?\nIs there an experimental API that you’ve been wanting to try out?\n…",
-          "link": "https://css-tricks.com/exactly-what-you-want/",
-          "publishedOn": "2021-12-01T15:46:29.000Z",
-          "wordCount": 491,
-          "title": "Exactly What You Want"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357109",
-          "author": "Chris Coyier",
-          "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
-          "link": "https://css-tricks.com/diagonal-stripes-wipe-animation/",
-          "publishedOn": "2021-11-30T17:26:35.000Z",
-          "wordCount": 946,
-          "title": "Diagonal Stripes Wipe Animation"
         }
       ]
     },
@@ -173,7 +173,7 @@
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
           "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3189,
+          "wordCount": 3181,
           "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
@@ -187,7 +187,7 @@
           "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
           "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
           "publishedOn": "2021-12-02T09:30:00.000Z",
-          "wordCount": 2023,
+          "wordCount": 2019,
           "title": "How To Protect Your API Key In Production With Next.js API Route",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
@@ -215,7 +215,7 @@
           "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
           "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2811,
+          "wordCount": 2816,
           "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
@@ -229,7 +229,7 @@
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3234,
+          "wordCount": 3233,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -243,7 +243,7 @@
           "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
           "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
           "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2623,
+          "wordCount": 2640,
           "title": "How To Maintain A Large Next.js Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
@@ -257,7 +257,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4228,
+          "wordCount": 4230,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -271,7 +271,7 @@
           "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
           "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
           "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2745,
+          "wordCount": 2746,
           "title": "Adding A Dyslexia-Friendly Mode To A Website",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
@@ -299,7 +299,7 @@
           "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
           "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
           "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4745,
+          "wordCount": 4750,
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
@@ -313,7 +313,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2202,
+          "wordCount": 2193,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -327,7 +327,7 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3470,
+          "wordCount": 3474,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -355,7 +355,7 @@
           "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
           "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
           "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2138,
+          "wordCount": 2128,
           "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
@@ -369,7 +369,7 @@
           "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
           "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
           "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10242,
+          "wordCount": 10244,
           "title": "Useful React Hooks That You Can Use In Your Projects",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
@@ -383,7 +383,7 @@
           "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
           "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
           "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4288,
+          "wordCount": 4287,
           "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
@@ -397,7 +397,7 @@
           "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
           "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
           "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1898,
+          "wordCount": 1901,
           "title": "Localizing Your Next.js App",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
@@ -441,6 +441,69 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61a43b7925888a07c3e1d115",
+          "author": null,
+          "description": "More than 18,000 people responded to the 2021 freeCodeCamp New Coder Survey. This grants us all significant insight into how thousands of people all around the world are learning to code, and why they are choosing to do so.  We’ve released the entire dataset of participants’ responses to",
+          "link": "https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/",
+          "publishedOn": "2021-12-07T22:40:42.000Z",
+          "wordCount": 1843,
+          "title": "The 2021 New Coder Survey – More than 18,000 People Share How and Why They are Learning to Code"
+        },
+        {
+          "id": "61a9ff36946db661defb7472",
+          "author": null,
+          "description": "Code splitting is a way to split up your code from a large file into smaller code bundles. These can then be requested on demand or in parallel.  Now, it isn't a new concept, but it can be tricky to understand. When you're doing code splitting, it is important to",
+          "link": "https://www.freecodecamp.org/news/code-splitting-in-react-loadable-components/",
+          "publishedOn": "2021-12-07T20:41:40.000Z",
+          "wordCount": 1156,
+          "title": "Code Splitting in React – Loadable Components to the Rescue"
+        },
+        {
+          "id": "61af976e946db661defb881f",
+          "author": null,
+          "description": "Bootstrap is the most popular CSS framework. It allows web developers to quickly design and customize responsive mobile-first sites. We just published a 3-hour course on the freeCodeCamp.org YouTube channel that will teach you how to use Bootstrap 5. Dawid Adach developed this course. Dawid has been working with",
+          "link": "https://www.freecodecamp.org/news/full-bootstrap-5-tutorial-for-beginners/",
+          "publishedOn": "2021-12-07T17:47:12.000Z",
+          "wordCount": 304,
+          "title": "Full Bootstrap 5 Tutorial for Beginners"
+        },
+        {
+          "id": "61a776fd0c0c7407b2b3eeba",
+          "author": null,
+          "description": "Python is a versatile and flexible language – there is often more than one way to achieve something.  In this tutorial, you'll see some of the ways you can print a string and a variable together.  Let's get started!  How to use the print() function in Python To print anything in",
+          "link": "https://www.freecodecamp.org/news/python-print-variable-how-to-print-a-string-and-variable/",
+          "publishedOn": "2021-12-07T17:26:18.000Z",
+          "wordCount": 1627,
+          "title": "Python Print Variable – How to Print a String and Variable"
+        },
+        {
+          "id": "61a648220c0c7407b2b3e7e3",
+          "author": null,
+          "description": "If you've been wondering whether you should go for a technical certification or not, then this article is for you.  In it, I will share with you how I approach such dilemmas to help you decide what to pursue.  Why You Should Get Technical Certifications The main reasons to get",
+          "link": "https://www.freecodecamp.org/news/technical-certification-guide/",
+          "publishedOn": "2021-12-07T16:31:49.000Z",
+          "wordCount": 1161,
+          "title": "Technical Certification Guide – Are They Worth It, and How to Choose One"
+        },
+        {
+          "id": "61ab940f946db661defb79ca",
+          "author": null,
+          "description": "TypeScript offers us a level of \"safety\" in our code by adding static types. We can guarantee that certain properties or functions are present in our code by making them conform to types. This can hugely reduce the amount of client-side errors you might have in your website, because it",
+          "link": "https://www.freecodecamp.org/news/typescript-literal-and-collective-types/",
+          "publishedOn": "2021-12-07T15:55:33.000Z",
+          "wordCount": 541,
+          "title": "TypeScript Literal and Collective Types"
+        },
+        {
+          "id": "611b56ece884de075217ff7f",
+          "author": null,
+          "description": "Hello folks, welcome to this tutorial. Today we're going to build a production-ready Todo application with React, Next, and Supabase. Before we begin, you should be familiar with the basics of React.js and Next.js to get the most out of this guide.  If you're not and need to",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-todoapp-using-react-and-supabase/",
+          "publishedOn": "2021-12-07T15:48:26.000Z",
+          "wordCount": 7358,
+          "title": "How to Build a TodoApp using ReactJS, NextJS, and Supabase"
+        },
+        {
           "id": "61a1322f25888a07c3e1c124",
           "author": null,
           "description": "TypeScript is a transpiled language, and there is a step in the process called type erasure. So what exactly is transpiling, and what is type erasure? Higher Level vs Lower Level Programming LanguagesBefore we explain further, we have to understand higher and lower level languages. Higher level languages are more",
@@ -459,76 +522,13 @@
           "title": "How to Get Rid of the Activate Windows Watermark [Windows 10 PC Activation Message Removal]"
         },
         {
-          "id": "61a7b9390c0c7407b2b3f076",
+          "id": "61af7c5e946db661defb8589",
           "author": null,
-          "description": "As programmers, we will inevitably make mistakes. Even the most accomplished specialists make them. But you'll become a better programmer faster if you don't make the same mistakes over and over. There are many types of mistakes you might make when you're coding. The majority of them usually come from",
-          "link": "https://www.freecodecamp.org/news/mistakes-programmers-make-when-coding-and-how-to-fix-them/",
-          "publishedOn": "2021-12-03T19:14:57.000Z",
-          "wordCount": 1748,
-          "title": "Mistakes Every Programmer Makes When Learning to Code – and How to Fix Them"
-        },
-        {
-          "id": "5fff3e8b98be260817e495e9",
-          "author": null,
-          "description": "What is a SIM swap?SIM swapping is when a hacker convinces your cell phone carrier to switch your phone number to a different SIM - one that they own.  This is a relatively normal thing for a retail employee to do, which means that someone asking for a swap",
-          "link": "https://www.freecodecamp.org/news/protect-yourself-against-sim-swapping-attacks/",
-          "publishedOn": "2021-12-02T20:05:26.000Z",
-          "wordCount": 1762,
-          "title": "How to Protect Yourself Against SIM Swapping Attacks"
-        },
-        {
-          "id": "61951bb111d3cb08287a7bae",
-          "author": null,
-          "description": "Mixins are my favorite thing about Sass. They made my life so much easier, so I wanted to show you how they can do the same for you. Mixins can be a bit tricky to understand at first, but don't worry. You'll get the hang of it by practicing and",
-          "link": "https://www.freecodecamp.org/news/how-to-pass-arguments-to-mixins/",
-          "publishedOn": "2021-12-02T18:45:59.000Z",
-          "wordCount": 1561,
-          "title": "How to Use Mixins in Sass and Pass Arguments – With Code Examples"
-        },
-        {
-          "id": "61a683330c0c7407b2b3e88f",
-          "author": null,
-          "description": "In this tutorial for beginners, you will learn the basics of using SwiftUI to make API calls using the popular Internet Chuck Norris DataBase (ICNDB) as an example. It will display a joke quickly and easily using Swift and SwiftUI.  You'll see how the cross-platform framework SwiftUI lets us use",
-          "link": "https://www.freecodecamp.org/news/make-rest-api-call-in-swiftui-in-2-minutes/",
-          "publishedOn": "2021-12-02T18:32:23.000Z",
-          "wordCount": 949,
-          "title": "How to Make a Simple Async GET REST API call in SwiftUI"
-        },
-        {
-          "id": "61a8e0bb0c0c7407b2b3f52a",
-          "author": null,
-          "description": "Discord is an instant messaging app that lets you communicate through voice, video, and texts. It is available in a web-based form, a desktop app, and a mobile app.  But sometimes, when you're trying to establish a voice call connection, you'll get an error that says “RTC Connecting Discord”. This",
-          "link": "https://www.freecodecamp.org/news/rtc-connecting-discord-how-to-fix-the-server-error/",
-          "publishedOn": "2021-12-02T17:10:47.000Z",
-          "wordCount": 1078,
-          "title": "RTC Connecting Discord – How to Fix the Server Error"
-        },
-        {
-          "id": "61a0677125888a07c3e1b835",
-          "author": null,
-          "description": "Let's face it – state management across multiple components isn't easy. Sometimes we might set up the state or logic handling properly, but fail to consume the states. Or we might get everything working, but clutter up the codebase in the process, making it hard to read, adapt, and extend.   The",
-          "link": "https://www.freecodecamp.org/news/how-to-use-redux-for-application-wide-state-management/",
-          "publishedOn": "2021-12-02T15:47:07.000Z",
-          "wordCount": 2608,
-          "title": "How to Use Redux for Application-Wide State Management"
-        },
-        {
-          "id": "61a5f9680c0c7407b2b3e607",
-          "author": null,
-          "description": "In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or",
-          "link": "https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/",
-          "publishedOn": "2021-12-01T09:49:48.000Z",
-          "wordCount": 743,
-          "title": "Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC"
-        },
-        {
-          "id": "61783ffa33422e07df364d2c",
-          "author": null,
-          "description": "For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within",
-          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
-          "publishedOn": "2021-11-30T14:35:18.000Z",
-          "wordCount": 5418,
-          "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit"
+          "description": "There is way more to building successful apps than just coding. In fact, coding is often the easiest part. There are many business considerations that are extremely important. We just published an 8-hour course on the freeCodeCamp.org YouTube channel that will teach you the business of building apps.  Shad",
+          "link": "https://www.freecodecamp.org/news/learn-how-to-build-apps-from-a-business-perspective/",
+          "publishedOn": "2021-12-06T15:37:00.000Z",
+          "wordCount": 827,
+          "title": "Learn How to Build Apps From a Business Perspective"
         }
       ]
     }
