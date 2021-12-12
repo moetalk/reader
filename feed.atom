@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-11T01:08:25.753Z</id>
+    <id>urn:2021-12-12T01:12:54.531Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-11T01:08:25.753Z</updated>
+    <updated>2021-12-12T01:12:54.531Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -434,26 +434,6 @@ I’ve built WordPress websites for I don’t know how long now, but suffice to 
         <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Louis Lazaris)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Useful React Hooks That You Can Use In Your Projects]]></title>
-        <id>https://smashingmagazine.com/2021/11/useful-react-hooks/</id>
-        <link href="https://smashingmagazine.com/2021/11/useful-react-hooks/"/>
-        <updated>2021-11-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Ifeanyi Dike)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Good To Great In Dashboard Design: Research, Decluttering And Data Viz]]></title>
-        <id>https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/</id>
-        <link href="https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/"/>
-        <updated>2021-11-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Adam Fard)</name>
         </author>
     </entry>
 </feed>

@@ -17,7 +17,7 @@
           "description": "I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …",
           "link": "https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/",
           "publishedOn": "2021-12-10T22:09:56.000Z",
-          "wordCount": 2224,
+          "wordCount": 2541,
           "title": "Why would a business push a native app over a website?"
         },
         {
@@ -35,7 +35,7 @@
           "description": "Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.\nIf you are sighted, you should…",
           "link": "https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/",
           "publishedOn": "2021-12-10T16:00:48.000Z",
-          "wordCount": 1237,
+          "wordCount": 1374,
           "title": "Standardizing Focus Styles With CSS Custom Properties"
         },
         {
@@ -98,7 +98,7 @@
           "description": "I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …",
           "link": "https://css-tricks.com/learn-from-remix/",
           "publishedOn": "2021-12-08T16:05:20.000Z",
-          "wordCount": 1141,
+          "wordCount": 1165,
           "title": "Learn From Remix"
         },
         {
@@ -159,7 +159,7 @@
           "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
           "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "publishedOn": "2021-12-09T13:00:00.000Z",
-          "wordCount": 3386,
+          "wordCount": 3381,
           "title": "Free Christmas Icon Sets And Vector Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
@@ -173,7 +173,7 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2546,
+          "wordCount": 2550,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
@@ -187,7 +187,7 @@
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
           "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3182,
+          "wordCount": 3189,
           "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
@@ -229,7 +229,7 @@
           "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
           "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2813,
+          "wordCount": 2812,
           "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
@@ -243,7 +243,7 @@
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3236,
+          "wordCount": 3234,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -257,7 +257,7 @@
           "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
           "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
           "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2638,
+          "wordCount": 2629,
           "title": "How To Maintain A Large Next.js Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
@@ -271,7 +271,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4242,
+          "wordCount": 4233,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -285,7 +285,7 @@
           "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
           "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
           "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2744,
+          "wordCount": 2749,
           "title": "Adding A Dyslexia-Friendly Mode To A Website",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
@@ -313,7 +313,7 @@
           "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
           "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
           "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4743,
+          "wordCount": 4746,
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
@@ -327,7 +327,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2192,
+          "wordCount": 2194,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -373,34 +373,6 @@
           "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "author": "hello@smashingmagazine.com (Ifeanyi Dike)",
-          "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
-          "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10242,
-          "title": "Useful React Hooks That You Can Use In Your Projects",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "author": "hello@smashingmagazine.com (Adam Fard)",
-          "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
-          "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4292,
-          "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
             "length": "0",
             "type": "image/jpg"
           }
