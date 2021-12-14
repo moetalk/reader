@@ -1,10 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-13T01:09:27.163Z</id>
+    <id>urn:2021-12-14T01:12:59.946Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T01:09:27.163Z</updated>
+    <updated>2021-12-14T01:12:59.946Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Scale a Distributed System]]></title>
+        <id>61b5815307222107a6c78cf7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-scale-a-distributed-system/"/>
+        <updated>2021-12-13T23:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Designing a distributed system that supports millions of users is a complex task, and one that requires continuous improvement and refinement.  Recently I read a book by Alex Xu called "System Design Interview – An Insider's Guide". This article, inspired by the first part of the book, shares some popular techniques]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Requests – How to Interact with Web Services using Python]]></title>
+        <id>61b3865f07222107a6c7822e</id>
+        <link href="https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/"/>
+        <updated>2021-12-13T23:03:42.000Z</updated>
+        <summary type="html"><![CDATA[An API, or Application Programming Interface, is a server that lets you retrieve and send data using code. We mostly commonly use APIs to retrieve data, and that will be the focus of this beginner-friendly tutorial. When we want to receive data from an API, we need to make a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Tricks Chronicle XXXXI]]></title>
+        <id>https://css-tricks.com/?p=358436</id>
+        <link href="https://css-tricks.com/css-tricks-chronicle-xxxxi/"/>
+        <updated>2021-12-13T22:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Ya know, I used to do one of these posts after making a few podcast appearances I hadn’t had a chance to link up yet, so I could share them. As fate would have it, I haven’t been on many …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Scaffolding With Hygen]]></title>
+        <id>https://css-tricks.com/?p=359002</id>
+        <link href="https://css-tricks.com/file-scaffolding-with-hygen/"/>
+        <updated>2021-12-13T22:05:20.000Z</updated>
+        <summary type="html"><![CDATA[I read a recent Smashing Magazine post that included a recommendation for Hygen. I just happen to be doing quite a bit of new UI work in a Next.js app and the amount of manual folder/file scaffolding I was …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Classes – How They Work with Use Case Example]]></title>
+        <id>61aca6a8946db661defb7a86</id>
+        <link href="https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/"/>
+        <updated>2021-12-13T19:24:50.000Z</updated>
+        <summary type="html"><![CDATA[In this blog post I'll walk you through a real life example which uses the concept of classes in Javascript.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them to real life.  So in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow Palette Generator]]></title>
+        <id>https://css-tricks.com/?p=358926</id>
+        <link href="https://css-tricks.com/shadow-palette-generator/"/>
+        <updated>2021-12-13T18:13:22.000Z</updated>
+        <summary type="html"><![CDATA[Josh’s Shadow Palette Generator is a fantastic tool. The premise is that box-shadow pretty much always looks better when there are multiple layered shadows that are a bit tinted. It reminds me of how gradients almost always look better when …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solo Freelancing vs Agency – What&#x27;s The Difference?]]></title>
+        <id>61783e5e33422e07df364ce7</id>
+        <link href="https://www.freecodecamp.org/news/solo-freelancing-vs-agency/"/>
+        <updated>2021-12-13T17:18:18.000Z</updated>
+        <summary type="html"><![CDATA[People often ask me: Should I present myself as a solo freelancer or as an agency?In this article I will explore this idea with you and hopefully leave you with a clearer sense of direction. TL;DR: You can do both. The Benefits of Solo vs Agency FreelancingWhether you]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Share Screen on Android – How to Cast my Screen with a Windows 10 PC]]></title>
+        <id>61b760fc07222107a6c79303</id>
+        <link href="https://www.freecodecamp.org/news/share-screen-on-android-how-to-cast-my-screen-with-a-windows-10-pc/"/>
+        <updated>2021-12-13T17:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Screencasting is a cool feature that was built into the Windows 10 Anniversary update in 2019.  It's also called Wireless Display. It lets you project your phone display to a Windows 10 computer – which can help you out in a lot of ways, especially if you’re a YouTuber.  Getting]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Python – Free Python Courses for Beginners]]></title>
+        <id>61b20893946db661defb946a</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/"/>
+        <updated>2021-12-13T16:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Python is a great programming language to learn and you can use it in a variety of areas in software development.  You can use Python for web development, data analysis, machine learning, artificial intelligence, and more. In this article, I will list out 15 free Python courses for beginners.  Learn]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become a Full Stack Developer with Svelte, Postgres, Vercel, and Gitpod]]></title>
+        <id>61b76db107222107a6c79384</id>
+        <link href="https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/"/>
+        <updated>2021-12-13T16:23:09.000Z</updated>
+        <summary type="html"><![CDATA[Full stack web development includes the backend that happens on a server and the frontend that happens on a web browser. New tools are making it easier than ever to create a full stack web app. We just published a full stack web development course on the freeCodeCamp.org YouTube]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embrace the Platform]]></title>
+        <id>https://css-tricks.com/?p=358612</id>
+        <link href="https://css-tricks.com/embrace-the-platform/"/>
+        <updated>2021-12-13T15:18:08.000Z</updated>
+        <summary type="html"><![CDATA[So what is the one thing that people can do is to make their website better? To answer that, let’s take a step back in time …
+The year is 1998, and the web is on the rise. In an …]]></summary>
+        <author>
+            <name>Bramus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ship a Full-Stack App in Days with AWS Amplify Studio]]></title>
+        <id>https://css-tricks.com/?p=358450</id>
+        <link href="https://css-tricks.com/ship-a-full-stack-app-in-days-with-aws-amplify-studio/"/>
+        <updated>2021-12-13T15:17:24.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+Amazon has a vision with AWS Amplify. First, a premise:
+As browsers have become faster and more powerful over the last decade, front-end developers are building web apps that are more feature-rich and …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why would a business push a native app over a website?]]></title>
         <id>https://css-tricks.com/?p=356088</id>
@@ -56,16 +179,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Print Statement in Python – How to Print with Example Syntax Command]]></title>
-        <id>61b07e0b946db661defb8929</id>
-        <link href="https://www.freecodecamp.org/news/print-statement-in-python-how-to-print-with-example-syntax-command/"/>
-        <updated>2021-12-10T17:45:08.000Z</updated>
-        <summary type="html"><![CDATA[How to print out information is one of the first things you learn as a beginner programmer.  This article goes over what you need to know about printing in Python, and we'll look at plenty of code examples along the way.  Let's get started!  What is print used for? Printing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Standardizing Focus Styles With CSS Custom Properties]]></title>
         <id>https://css-tricks.com/?p=357373</id>
         <link href="https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/"/>
@@ -106,46 +219,6 @@ if ('EyeDropper' in window) {
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn JavaScript – Free JS Courses for Beginners]]></title>
-        <id>61b20925946db661defb946e</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/"/>
-        <updated>2021-12-09T17:41:53.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a popular programming language used for building web applications, among many other things.  In this article, I will provide a list of free online resources where you can start learning JavaScript. After you have learned the basics then you can start building beginner friendly projects.  JavaScript Algorithms and]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Project – How to Build Tony Stark&#x27;s JARVIS with Python]]></title>
-        <id>61b081ab946db661defb8933</id>
-        <link href="https://www.freecodecamp.org/news/python-project-how-to-build-your-own-jarvis-using-python/"/>
-        <updated>2021-12-09T17:19:31.000Z</updated>
-        <summary type="html"><![CDATA[Do you remember J.A.R.V.I.S., Tony Stark's virtual personal assistant? If you've seen any of the Ironman or Avengers movies, I'm sure you do. Have you ever wondered whether you could create your own personal assistant? Yes? Tony Stark can help us with that!  Oops, did]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Merge Dictionaries in Python]]></title>
-        <id>61b1c763946db661defb9324</id>
-        <link href="https://www.freecodecamp.org/news/merge-dictionaries-in-python/"/>
-        <updated>2021-12-09T17:16:36.000Z</updated>
-        <summary type="html"><![CDATA[In Python, a dictionary is a collection you use to store data in {key:value} pairs. It is ordered and mutable, and it cannot store duplicate data.  We write a dictionary using curly brackets like this: my_dict = {     "id": 1,     "name": "Ashutosh",     "books": ["Python", "DSA"] } Sometimes, we need to merge]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Dark Mode Switcher With Tailwind CSS and Flowbite]]></title>
-        <id>61a5fd310c0c7407b2b3e650</id>
-        <link href="https://www.freecodecamp.org/news/how-to-build-a-dark-mode-switcher-with-tailwind-css-and-flowbite/"/>
-        <updated>2021-12-09T16:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Dark mode is starting to become a requirement rather that a nice-to-have feature like it was back in the day. It gives users the option to choose a theme that's comfortable for them, whether they're working during the day or at night. If you haven't already heard, Tailwind CSS is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Help Users Accomplish What They Came For]]></title>
         <id>https://css-tricks.com/?p=357621</id>
         <link href="https://css-tricks.com/help-users-accomplish-what-they-came-for/"/>
@@ -153,16 +226,6 @@ if ('EyeDropper' in window) {
         <summary type="html"><![CDATA[From my perspective, the question of what one thing we can do to make a website better is not a technical one. The more I browse the internet, the more I realize that the biggest issue with a lot of …]]></summary>
         <author>
             <name>Anna Migas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn SQL – Free Relational Database Courses for Beginners]]></title>
-        <id>61b1393b946db661defb8dcd</id>
-        <link href="https://www.freecodecamp.org/news/learn-sql-free-relational-database-courses-for-beginners/"/>
-        <updated>2021-12-09T16:00:57.000Z</updated>
-        <summary type="html"><![CDATA[SQL (Structured Query Language) is a popular programming language used for relational databases. And there are many good free resources you can use to start learning it. In this article, I will list out 8 free online beginner-friendly resources to learn SQL, PostgreSQL, and MySQL. Free SQL CoursesRelational Database Curriculum]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -174,16 +237,6 @@ if ('EyeDropper' in window) {
 MarkUp is the leading visual commenting platform for images, PDFs, and live websites. It’s the perfect companion in your creative process to make your life easier. Manage and organize all web, PDF, and image …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you code on a phone?]]></title>
-        <id>61b20f09946db661defb94da</id>
-        <link href="https://www.freecodecamp.org/news/can-you-code-on-a-phone/"/>
-        <updated>2021-12-09T14:18:07.000Z</updated>
-        <summary type="html"><![CDATA[More than half of people worldwide access the internet using mobile devices instead of desktop computers. And if you only have a mobile device, you can still learn to code! We just published a tutorial on the freeCodeCamp.org YouTube channel that will teach you how to code on an]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -224,66 +277,6 @@ MarkUp is the leading visual commenting platform for images, PDFs, and live webs
         <summary type="html"><![CDATA[I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …]]></summary>
         <author>
             <name>Kent C. Dodds</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Invisible JavaScript Backdoor]]></title>
-        <id>https://css-tricks.com/?p=358496</id>
-        <link href="https://css-tricks.com/the-invisible-javascript-backdoor/"/>
-        <updated>2021-12-08T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[An interesting (scary) trick of an nearly undetectable exploit. Wolfgang Ettlinger:
-What if a backdoor literally cannot be seen and thus evades detection even from thorough code reviews?
-
-
-
-
-I’ll post the screenshot of the exploit from the post with the …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spicy Sections]]></title>
-        <id>https://css-tricks.com/?p=356433</id>
-        <link href="https://css-tricks.com/spicy-sections/"/>
-        <updated>2021-12-07T22:03:19.000Z</updated>
-        <summary type="html"><![CDATA[What if HTML had “tabs”? That would be cool, says I. Dave has been spending some of his time and energy, along with a group of “Tabvengers” from OpenUI, on this. A lot of research leads to a bit …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Test Your Product on a Crappy Laptop]]></title>
-        <id>https://css-tricks.com/?p=357637</id>
-        <link href="https://css-tricks.com/test-your-product-on-a-crappy-laptop/"/>
-        <updated>2021-12-07T19:01:05.000Z</updated>
-        <summary type="html"><![CDATA[There is a huge and ever-widening gap between the devices we use to make the web and the devices most people use to consume it. It’s also no secret that the average size of a website is huge, and …]]></summary>
-        <author>
-            <name>Eric Bailey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inertia]]></title>
-        <id>https://css-tricks.com/?p=358321</id>
-        <link href="https://css-tricks.com/inertia/"/>
-        <updated>2021-12-07T16:20:21.000Z</updated>
-        <summary type="html"><![CDATA[I’ve always like Jeremy’s categorization of developer tools:
-I’ve mentioned two categories of tools for web development. I still don’t know quite what to call these categories. Internal and external? Developer-facing and user-facing?
-The first category covers things like 
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Licensing for Agencies and Professionals]]></title>
-        <id>https://css-tricks.com/?p=358411</id>
-        <link href="https://css-tricks.com/jetpack-licensing-for-agencies-and-professionals/"/>
-        <updated>2021-12-07T16:18:14.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-I’ve built WordPress websites for I don’t know how long now, but suffice to say I’ve relied on it for a bulk of the work I do as a freelance front-ender. And in that …]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
