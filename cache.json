@@ -12,13 +12,49 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=356603",
+          "author": "Geoff Graham",
+          "description": "When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.\nNo worries, this …",
+          "link": "https://css-tricks.com/read-your-website/",
+          "publishedOn": "2021-12-14T22:37:26.000Z",
+          "wordCount": 1533,
+          "title": "Read Your Website"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359180",
+          "author": "Chris Coyier",
+          "description": "Ain’t this the truth:\nIt’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.\n\n\n\n\nI don’t speak …",
+          "link": "https://css-tricks.com/faulty-logic/",
+          "publishedOn": "2021-12-14T22:28:29.000Z",
+          "wordCount": 715,
+          "title": "Faulty logic"
+        },
+        {
+          "id": "https://css-tricks.com/?p=357660",
+          "author": "Amit Sheen",
+          "description": "What’s the one thing people can do to make their website better? Now that is a good question. One with many right answers, like improving performance, taking care of accessibility, and upgrading user experience as prime examples. These are all …",
+          "link": "https://css-tricks.com/think-without-boxes/",
+          "publishedOn": "2021-12-14T15:38:00.000Z",
+          "wordCount": 779,
+          "title": "Think Without Boxes"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358672",
+          "author": "Chris Coyier",
+          "description": "(This is a sponsored post.)\nI got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …",
+          "link": "https://css-tricks.com/confused-about-ssgs/",
+          "publishedOn": "2021-12-14T15:35:04.000Z",
+          "wordCount": 619,
+          "title": "I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?"
+        },
+        {
           "id": "https://css-tricks.com/?p=358436",
           "author": "Chris Coyier",
           "description": "Ya know, I used to do one of these posts after making a few podcast appearances I hadn’t had a chance to link up yet, so I could share them. As fate would have it, I haven’t been on many …",
           "link": "https://css-tricks.com/css-tricks-chronicle-xxxxi/",
           "publishedOn": "2021-12-13T22:55:14.000Z",
-          "wordCount": 1001,
-          "title": "CSS-Tricks Chronicle XXXXI"
+          "wordCount": 1006,
+          "title": "CSS-Tricks Chronicle XLI"
         },
         {
           "id": "https://css-tricks.com/?p=359002",
@@ -26,7 +62,7 @@
           "description": "I read a recent Smashing Magazine post that included a recommendation for Hygen. I just happen to be doing quite a bit of new UI work in a Next.js app and the amount of manual folder/file scaffolding I was …",
           "link": "https://css-tricks.com/file-scaffolding-with-hygen/",
           "publishedOn": "2021-12-13T22:05:20.000Z",
-          "wordCount": 861,
+          "wordCount": 875,
           "title": "File Scaffolding With Hygen"
         },
         {
@@ -44,7 +80,7 @@
           "description": "So what is the one thing that people can do is to make their website better? To answer that, let’s take a step back in time …\nThe year is 1998, and the web is on the rise. In an …",
           "link": "https://css-tricks.com/embrace-the-platform/",
           "publishedOn": "2021-12-13T15:18:08.000Z",
-          "wordCount": 2046,
+          "wordCount": 2166,
           "title": "Embrace the Platform"
         },
         {
@@ -80,7 +116,7 @@
           "description": "Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.\nIf you are sighted, you should…",
           "link": "https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/",
           "publishedOn": "2021-12-10T16:00:48.000Z",
-          "wordCount": 1444,
+          "wordCount": 1502,
           "title": "Standardizing Focus Styles With CSS Custom Properties"
         },
         {
@@ -107,44 +143,8 @@
           "description": "From my perspective, the question of what one thing we can do to make a website better is not a technical one. The more I browse the internet, the more I realize that the biggest issue with a lot of …",
           "link": "https://css-tricks.com/help-users-accomplish-what-they-came-for/",
           "publishedOn": "2021-12-09T16:02:36.000Z",
-          "wordCount": 1195,
+          "wordCount": 1219,
           "title": "Help Users Accomplish What They Came For"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358312",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nMarkUp is the leading visual commenting platform for images, PDFs, and live websites. It’s the perfect companion in your creative process to make your life easier. Manage and organize all web, PDF, and image …",
-          "link": "https://css-tricks.com/cut-through-the-noise-with-immediate-visual-feedback/",
-          "publishedOn": "2021-12-09T15:58:10.000Z",
-          "wordCount": 458,
-          "title": "Cut through the noise with immediate visual feedback"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358554",
-          "author": "Chris Coyier",
-          "description": "The SVG <path> syntax is a beast. There are all sorts of commands that make up a mini-language all of its own — so powerful that it’s capable of drawing anything. Don’t be too scared of it, though, because some …",
-          "link": "https://css-tricks.com/flip-invert-and-reverse/",
-          "publishedOn": "2021-12-09T00:27:11.000Z",
-          "wordCount": 688,
-          "title": "Flip, Invert, and Reverse"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358344",
-          "author": "Chris Coyier",
-          "description": "I try to keep up with WordPress news because I’m a big WordPress user and have many production sites that run on it. WordPress has been good to me as a site builder for literally my entire career. So, like …",
-          "link": "https://css-tricks.com/links-on-wordpress-i/",
-          "publishedOn": "2021-12-08T21:32:33.000Z",
-          "wordCount": 1158,
-          "title": "Links on WordPress I"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357405",
-          "author": "Kent C. Dodds",
-          "description": "I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …",
-          "link": "https://css-tricks.com/learn-from-remix/",
-          "publishedOn": "2021-12-08T16:05:20.000Z",
-          "wordCount": 1165,
-          "title": "Learn From Remix"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
+          "author": "hello@smashingmagazine.com (Nafees Nehar)",
+          "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
+          "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
+          "publishedOn": "2021-12-14T10:30:00.000Z",
+          "wordCount": 2062,
+          "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
           "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "publishedOn": "2021-12-09T13:00:00.000Z",
-          "wordCount": 3561,
+          "wordCount": 3560,
           "title": "Free Christmas Icon Sets And Vector Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
@@ -173,7 +187,7 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2548,
+          "wordCount": 2546,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
@@ -187,7 +201,7 @@
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
           "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3196,
+          "wordCount": 3186,
           "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
@@ -201,7 +215,7 @@
           "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
           "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
           "publishedOn": "2021-12-02T09:30:00.000Z",
-          "wordCount": 2031,
+          "wordCount": 2020,
           "title": "How To Protect Your API Key In Production With Next.js API Route",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
@@ -229,7 +243,7 @@
           "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
           "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2810,
+          "wordCount": 2812,
           "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
@@ -243,7 +257,7 @@
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3237,
+          "wordCount": 3236,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -257,7 +271,7 @@
           "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
           "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
           "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2629,
+          "wordCount": 2625,
           "title": "How To Maintain A Large Next.js Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
@@ -271,7 +285,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4225,
+          "wordCount": 4230,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -285,7 +299,7 @@
           "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
           "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
           "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2744,
+          "wordCount": 2748,
           "title": "Adding A Dyslexia-Friendly Mode To A Website",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
@@ -313,7 +327,7 @@
           "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
           "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
           "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4747,
+          "wordCount": 4744,
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
@@ -327,7 +341,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2185,
+          "wordCount": 2200,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -341,7 +355,7 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3472,
+          "wordCount": 3473,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
@@ -352,29 +366,15 @@
         {
           "id": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.",
+          "description": "Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in mid-January 2022.",
           "link": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
           "publishedOn": "2021-11-16T16:00:00.000Z",
-          "wordCount": 2170,
+          "wordCount": 2176,
           "title": "Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/touch-design-for-mobile-interfaces-header.png",
             "length": "0",
             "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
-          "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2124,
-          "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
           }
         }
       ]
@@ -385,12 +385,48 @@
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
         {
+          "id": "61b6941b07222107a6c78e39",
+          "author": null,
+          "description": "In this tutorial, we'll talk about what React Router is and how to use it. Then we'll discuss its features and how to use them in your React app to navigate to and render multiple components.  PrerequisitesA React appA good understanding of what components are in React. Node.js installed.",
+          "link": "https://www.freecodecamp.org/news/how-to-use-react-router-version-6/",
+          "publishedOn": "2021-12-14T21:41:14.000Z",
+          "wordCount": 1335,
+          "title": "React Router Version 6 Tutorial – How to Set Up Router and Route to Other Components"
+        },
+        {
+          "id": "61b8699d07222107a6c79cf7",
+          "author": null,
+          "description": "GitHub has many special repositories, like the README in your profile. You can get creative and add all sorts of helpful information there. Another special repository is the .github repository. This might remind you of the .github directory in repositories which house workflows, issue templates, pull request templates, funding information,",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/",
+          "publishedOn": "2021-12-14T18:01:15.000Z",
+          "wordCount": 2087,
+          "title": "How to Use the .github Repository"
+        },
+        {
+          "id": "61b72c5d07222107a6c79095",
+          "author": null,
+          "description": "In this tutorial, we will learn how to create a server. We will begin without express and then strengthen the server using express. After that, we will see how to upload images to Cloudinary from the app we have created. I assume that you already understand the basics of Node.",
+          "link": "https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/",
+          "publishedOn": "2021-12-14T16:51:14.000Z",
+          "wordCount": 2837,
+          "title": "How to Build a Secure Server with Node.js and Express and Upload Images with Cloudinary"
+        },
+        {
+          "id": "6172cfe3d48e1707b6d79bc9",
+          "author": null,
+          "description": "Every day major companies have vulnerabilities exploited in their software. It is important to learn how to protect your applications against data breaches.  In this article you all about DevSecOps and web security. There is a video course that goes along with this article. The article focuses on the definitions",
+          "link": "https://www.freecodecamp.org/news/what-is-devsecops/",
+          "publishedOn": "2021-12-14T14:08:56.000Z",
+          "wordCount": 2454,
+          "title": "Securing Your Apps - What is DevSecOps?"
+        },
+        {
           "id": "61b5815307222107a6c78cf7",
           "author": null,
           "description": "Designing a distributed system that supports millions of users is a complex task, and one that requires continuous improvement and refinement.  Recently I read a book by Alex Xu called \"System Design Interview – An Insider's Guide\". This article, inspired by the first part of the book, shares some popular techniques",
           "link": "https://www.freecodecamp.org/news/how-to-scale-a-distributed-system/",
           "publishedOn": "2021-12-13T23:37:24.000Z",
-          "wordCount": 1964,
+          "wordCount": 1961,
           "title": "How to Scale a Distributed System"
         },
         {
@@ -437,42 +473,6 @@
           "publishedOn": "2021-12-13T16:57:33.000Z",
           "wordCount": 1005,
           "title": "Learn Python – Free Python Courses for Beginners"
-        },
-        {
-          "id": "61b76db107222107a6c79384",
-          "author": null,
-          "description": "Full stack web development includes the backend that happens on a server and the frontend that happens on a web browser. New tools are making it easier than ever to create a full stack web app. We just published a full stack web development course on the freeCodeCamp.org YouTube",
-          "link": "https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/",
-          "publishedOn": "2021-12-13T16:23:09.000Z",
-          "wordCount": 409,
-          "title": "Become a Full Stack Developer with Svelte, Postgres, Vercel, and Gitpod"
-        },
-        {
-          "id": "6170b9fdd48e1707b6d79422",
-          "author": null,
-          "description": "Building an app is a difficult task in itself. From conceptualization, to market research, design, and development, it takes a whole lot of resources. But if you are making something for the public, you know building it is only half of the work, right? If you want your app to",
-          "link": "https://www.freecodecamp.org/news/how-to-market-your-mobile-app-on-a-budget/",
-          "publishedOn": "2021-12-10T21:36:23.000Z",
-          "wordCount": 1543,
-          "title": "How to Market Your Mobile App On a Budget"
-        },
-        {
-          "id": "61b2b70f946db661defb9a67",
-          "author": null,
-          "description": "In this article, we'll learn to build a Graphical User Interface (GUI) Quiz Application using the Tkinter Python built-in module.  The task is to ask multiple-choice questions, collect user answers, and finally display the results.  Before coding the GUI, we'll first see how to fetch multiple-choice questions, their correct answers,",
-          "link": "https://www.freecodecamp.org/news/how-to-create-a-gui-quiz-application-using-tkinter-and-open-trivia-db/",
-          "publishedOn": "2021-12-10T21:29:54.000Z",
-          "wordCount": 3049,
-          "title": "How to Build a GUI Quiz App Using Tkinter and Open Trivia DB"
-        },
-        {
-          "id": "6165c56780d82d07c45a372a",
-          "author": null,
-          "description": "Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that?  Well, good news – you can do all that and more without ever",
-          "link": "https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/",
-          "publishedOn": "2021-12-10T19:13:16.000Z",
-          "wordCount": 2547,
-          "title": "SVG Tutorial – How to Code Images with 7 Examples"
         }
       ]
     }

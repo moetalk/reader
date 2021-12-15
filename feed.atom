@@ -1,10 +1,108 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-14T01:12:59.946Z</id>
+    <id>urn:2021-12-15T01:09:04.137Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-14T01:12:59.946Z</updated>
+    <updated>2021-12-15T01:09:04.137Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Read Your Website]]></title>
+        <id>https://css-tricks.com/?p=356603</id>
+        <link href="https://css-tricks.com/read-your-website/"/>
+        <updated>2021-12-14T22:37:26.000Z</updated>
+        <summary type="html"><![CDATA[When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.
+No worries, this …]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faulty logic]]></title>
+        <id>https://css-tricks.com/?p=359180</id>
+        <link href="https://css-tricks.com/faulty-logic/"/>
+        <updated>2021-12-14T22:28:29.000Z</updated>
+        <summary type="html"><![CDATA[Ain’t this the truth:
+It’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.
+
+
+
+
+I don’t speak …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Router Version 6 Tutorial – How to Set Up Router and Route to Other Components]]></title>
+        <id>61b6941b07222107a6c78e39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-react-router-version-6/"/>
+        <updated>2021-12-14T21:41:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll talk about what React Router is and how to use it. Then we'll discuss its features and how to use them in your React app to navigate to and render multiple components.  PrerequisitesA React appA good understanding of what components are in React. Node.js installed.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use the .github Repository]]></title>
+        <id>61b8699d07222107a6c79cf7</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/"/>
+        <updated>2021-12-14T18:01:15.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has many special repositories, like the README in your profile. You can get creative and add all sorts of helpful information there. Another special repository is the .github repository. This might remind you of the .github directory in repositories which house workflows, issue templates, pull request templates, funding information,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Secure Server with Node.js and Express and Upload Images with Cloudinary]]></title>
+        <id>61b72c5d07222107a6c79095</id>
+        <link href="https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/"/>
+        <updated>2021-12-14T16:51:14.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will learn how to create a server. We will begin without express and then strengthen the server using express. After that, we will see how to upload images to Cloudinary from the app we have created. I assume that you already understand the basics of Node.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think Without Boxes]]></title>
+        <id>https://css-tricks.com/?p=357660</id>
+        <link href="https://css-tricks.com/think-without-boxes/"/>
+        <updated>2021-12-14T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[What’s the one thing people can do to make their website better? Now that is a good question. One with many right answers, like improving performance, taking care of accessibility, and upgrading user experience as prime examples. These are all …]]></summary>
+        <author>
+            <name>Amit Sheen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?]]></title>
+        <id>https://css-tricks.com/?p=358672</id>
+        <link href="https://css-tricks.com/confused-about-ssgs/"/>
+        <updated>2021-12-14T15:35:04.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+I got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Your Apps - What is DevSecOps?]]></title>
+        <id>6172cfe3d48e1707b6d79bc9</id>
+        <link href="https://www.freecodecamp.org/news/what-is-devsecops/"/>
+        <updated>2021-12-14T14:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Every day major companies have vulnerabilities exploited in their software. It is important to learn how to protect your applications against data breaches.  In this article you all about DevSecOps and web security. There is a video course that goes along with this article. The article focuses on the definitions]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modifying Headers In HTTP(s) Requests In UI Automation Testing]]></title>
+        <id>https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/</id>
+        <link href="https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/"/>
+        <updated>2021-12-14T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nafees Nehar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Scale a Distributed System]]></title>
         <id>61b5815307222107a6c78cf7</id>
@@ -26,7 +124,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CSS-Tricks Chronicle XXXXI]]></title>
+        <title type="html"><![CDATA[CSS-Tricks Chronicle XLI]]></title>
         <id>https://css-tricks.com/?p=358436</id>
         <link href="https://css-tricks.com/css-tricks-chronicle-xxxxi/"/>
         <updated>2021-12-13T22:55:14.000Z</updated>
@@ -96,16 +194,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Become a Full Stack Developer with Svelte, Postgres, Vercel, and Gitpod]]></title>
-        <id>61b76db107222107a6c79384</id>
-        <link href="https://www.freecodecamp.org/news/become-a-full-stack-developer-with-svelte/"/>
-        <updated>2021-12-13T16:23:09.000Z</updated>
-        <summary type="html"><![CDATA[Full stack web development includes the backend that happens on a server and the frontend that happens on a web browser. New tools are making it easier than ever to create a full stack web app. We just published a full stack web development course on the freeCodeCamp.org YouTube]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Embrace the Platform]]></title>
         <id>https://css-tricks.com/?p=358612</id>
         <link href="https://css-tricks.com/embrace-the-platform/"/>
@@ -136,36 +224,6 @@ As browsers have become faster and more powerful over the last decade, front-end
         <summary type="html"><![CDATA[I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Market Your Mobile App On a Budget]]></title>
-        <id>6170b9fdd48e1707b6d79422</id>
-        <link href="https://www.freecodecamp.org/news/how-to-market-your-mobile-app-on-a-budget/"/>
-        <updated>2021-12-10T21:36:23.000Z</updated>
-        <summary type="html"><![CDATA[Building an app is a difficult task in itself. From conceptualization, to market research, design, and development, it takes a whole lot of resources. But if you are making something for the public, you know building it is only half of the work, right? If you want your app to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a GUI Quiz App Using Tkinter and Open Trivia DB]]></title>
-        <id>61b2b70f946db661defb9a67</id>
-        <link href="https://www.freecodecamp.org/news/how-to-create-a-gui-quiz-application-using-tkinter-and-open-trivia-db/"/>
-        <updated>2021-12-10T21:29:54.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll learn to build a Graphical User Interface (GUI) Quiz Application using the Tkinter Python built-in module.  The task is to ask multiple-choice questions, collect user answers, and finally display the results.  Before coding the GUI, we'll first see how to fetch multiple-choice questions, their correct answers,]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG Tutorial – How to Code Images with 7 Examples]]></title>
-        <id>6165c56780d82d07c45a372a</id>
-        <link href="https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/"/>
-        <updated>2021-12-10T19:13:16.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever needed an icon for your website, but you couldn't quite find the right one? Or perhaps you wanted to have a simple diagram, but didn't want to learn a whole new library just for that?  Well, good news – you can do all that and more without ever]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -229,17 +287,6 @@ if ('EyeDropper' in window) {
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cut through the noise with immediate visual feedback]]></title>
-        <id>https://css-tricks.com/?p=358312</id>
-        <link href="https://css-tricks.com/cut-through-the-noise-with-immediate-visual-feedback/"/>
-        <updated>2021-12-09T15:58:10.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-MarkUp is the leading visual commenting platform for images, PDFs, and live websites. It’s the perfect companion in your creative process to make your life easier. Manage and organize all web, PDF, and image …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Free Christmas Icon Sets And Vector Elements]]></title>
         <id>https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/</id>
         <link href="https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/"/>
@@ -247,36 +294,6 @@ MarkUp is the leading visual commenting platform for images, PDFs, and live webs
         <summary type="html"><![CDATA[Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flip, Invert, and Reverse]]></title>
-        <id>https://css-tricks.com/?p=358554</id>
-        <link href="https://css-tricks.com/flip-invert-and-reverse/"/>
-        <updated>2021-12-09T00:27:11.000Z</updated>
-        <summary type="html"><![CDATA[The SVG <path> syntax is a beast. There are all sorts of commands that make up a mini-language all of its own — so powerful that it’s capable of drawing anything. Don’t be too scared of it, though, because some …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Links on WordPress I]]></title>
-        <id>https://css-tricks.com/?p=358344</id>
-        <link href="https://css-tricks.com/links-on-wordpress-i/"/>
-        <updated>2021-12-08T21:32:33.000Z</updated>
-        <summary type="html"><![CDATA[I try to keep up with WordPress news because I’m a big WordPress user and have many production sites that run on it. WordPress has been good to me as a site builder for literally my entire career. So, like …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn From Remix]]></title>
-        <id>https://css-tricks.com/?p=357405</id>
-        <link href="https://css-tricks.com/learn-from-remix/"/>
-        <updated>2021-12-08T16:05:20.000Z</updated>
-        <summary type="html"><![CDATA[I’ve built websites that are used by millions of people all over the world. I’ve made more mistakes than I care to count and I’ve had to deal with the repercussions of those mistakes for years thereafter. Through all of …]]></summary>
-        <author>
-            <name>Kent C. Dodds</name>
         </author>
     </entry>
     <entry>
@@ -414,19 +431,9 @@ MarkUp is the leading visual commenting platform for images, PDFs, and live webs
         <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
         <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
         <updated>2021-11-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.]]></summary>
+        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in mid-January 2022.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development]]></title>
-        <id>https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/</id>
-        <link href="https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/"/>
-        <updated>2021-11-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Louis Lazaris)</name>
         </author>
     </entry>
 </feed>
