@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-15T01:09:04.137Z</id>
+    <id>urn:2021-12-16T01:09:09.174Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-15T01:09:04.137Z</updated>
+    <updated>2021-12-16T01:09:09.174Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maybe there kinda is background-opacity?]]></title>
+        <id>https://css-tricks.com/?p=359032</id>
+        <link href="https://css-tricks.com/maybe-there-kinda-is-background-opacity/"/>
+        <updated>2021-12-15T22:27:07.000Z</updated>
+        <summary type="html"><![CDATA[I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Vite Ecosystem]]></title>
+        <id>https://css-tricks.com/?p=359234</id>
+        <link href="https://css-tricks.com/the-vite-ecosystem/"/>
+        <updated>2021-12-15T20:58:30.000Z</updated>
+        <summary type="html"><![CDATA[Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Skills All New Frontend Developers Should Have]]></title>
+        <id>61ae2a2e946db661defb7dda</id>
+        <link href="https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/"/>
+        <updated>2021-12-15T16:56:37.000Z</updated>
+        <summary type="html"><![CDATA[As a frontend developer, it's your job to make sure that the user interface of a software program functions properly.  It's a difficult job because you have to make sure that every component works the way it's supposed to so that users have a good experience. Frontend development is in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Modules – A Beginner&#x27;s Guide]]></title>
+        <id>61b6846607222107a6c78d81</id>
+        <link href="https://www.freecodecamp.org/news/javascript-modules-beginners-guide/"/>
+        <updated>2021-12-15T16:47:38.000Z</updated>
+        <summary type="html"><![CDATA[JavaScript modules (also known as ES modules or ECMAScript modules) were created to help make JavaScript code more organized and maintainable. Understanding how ES modules work will help you become a better JavaScript developer. In this article, we'll cover: What is a module?What are ES modules? Why do we]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linked Lists in Technical Interviews]]></title>
+        <id>61ba06ac07222107a6c7a6f4</id>
+        <link href="https://www.freecodecamp.org/news/linked-lists-in-technical-interviews/"/>
+        <updated>2021-12-15T15:22:28.000Z</updated>
+        <summary type="html"><![CDATA[A linked list is a common data structure used in software development. It is also a frequent topic in technical coding interviews. We just published a course on the freeCodeCamp.org YouTube channel that will teach you all about linked lists and prepare you to use them in coding interviews]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove Trackers]]></title>
+        <id>https://css-tricks.com/?p=358026</id>
+        <link href="https://css-tricks.com/remove-trackers/"/>
+        <updated>2021-12-15T15:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …]]></summary>
+        <author>
+            <name>Laura Kalbag</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The UI fund]]></title>
+        <id>https://css-tricks.com/?p=359107</id>
+        <link href="https://css-tricks.com/the-ui-fund/"/>
+        <updated>2021-12-15T15:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Google is handing out bucks for CSS-related projects, so you might as well know about it! Nicole Sullivan:
+All of us who work on the web regularly benefit from the work of people who create specifications, tools, demos, tutorials, and 
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)]]></title>
+        <id>https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/</id>
+        <link href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/"/>
+        <updated>2021-12-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Steven Hoober)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Read Your Website]]></title>
         <id>https://css-tricks.com/?p=356603</id>
@@ -47,7 +129,7 @@ I don’t speak …]]></summary>
         <id>61b8699d07222107a6c79cf7</id>
         <link href="https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/"/>
         <updated>2021-12-14T18:01:15.000Z</updated>
-        <summary type="html"><![CDATA[GitHub has many special repositories, like the README in your profile. You can get creative and add all sorts of helpful information there. Another special repository is the .github repository. This might remind you of the .github directory in repositories which house workflows, issue templates, pull request templates, funding information,]]></summary>
+        <summary type="html"><![CDATA[GitHub has many special repositories. For instance, you can create a repository that matches your username, add a README file to it, and all the information in that file will be visible on your GitHub profile. You might already be familiar with the .github directory you'll find in many repositories.]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -84,7 +166,7 @@ I got this question from a listener the other day. Fair question, I’d say. The
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Securing Your Apps - What is DevSecOps?]]></title>
+        <title type="html"><![CDATA[What is DevSecOps? How to Secure Website or App]]></title>
         <id>6172cfe3d48e1707b6d79bc9</id>
         <link href="https://www.freecodecamp.org/news/what-is-devsecops/"/>
         <updated>2021-12-14T14:08:56.000Z</updated>
@@ -164,36 +246,6 @@ I got this question from a listener the other day. Fair question, I’d say. The
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solo Freelancing vs Agency – What&#x27;s The Difference?]]></title>
-        <id>61783e5e33422e07df364ce7</id>
-        <link href="https://www.freecodecamp.org/news/solo-freelancing-vs-agency/"/>
-        <updated>2021-12-13T17:18:18.000Z</updated>
-        <summary type="html"><![CDATA[People often ask me: Should I present myself as a solo freelancer or as an agency?In this article I will explore this idea with you and hopefully leave you with a clearer sense of direction. TL;DR: You can do both. The Benefits of Solo vs Agency FreelancingWhether you]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Share Screen on Android – How to Cast my Screen with a Windows 10 PC]]></title>
-        <id>61b760fc07222107a6c79303</id>
-        <link href="https://www.freecodecamp.org/news/share-screen-on-android-how-to-cast-my-screen-with-a-windows-10-pc/"/>
-        <updated>2021-12-13T17:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Screencasting is a cool feature that was built into the Windows 10 Anniversary update in 2019.  It's also called Wireless Display. It lets you project your phone display to a Windows 10 computer – which can help you out in a lot of ways, especially if you’re a YouTuber.  Getting]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Python – Free Python Courses for Beginners]]></title>
-        <id>61b20893946db661defb946a</id>
-        <link href="https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/"/>
-        <updated>2021-12-13T16:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Python is a great programming language to learn and you can use it in a variety of areas in software development.  You can use Python for web development, data analysis, machine learning, artificial intelligence, and more. In this article, I will list out 15 free Python courses for beginners.  Learn]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Embrace the Platform]]></title>
         <id>https://css-tricks.com/?p=358612</id>
         <link href="https://css-tricks.com/embrace-the-platform/"/>
@@ -234,56 +286,6 @@ As browsers have become faster and more powerful over the last decade, front-end
         <summary type="html"><![CDATA[Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Standardizing Focus Styles With CSS Custom Properties]]></title>
-        <id>https://css-tricks.com/?p=357373</id>
-        <link href="https://css-tricks.com/standardizing-focus-styles-with-css-custom-properties/"/>
-        <updated>2021-12-10T16:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Take two minutes right now and visit your current project in a browser. Then, using only the Tab key, you should be able to navigate between interactive elements including buttons, links, and form elements.
-If you are sighted, you should…]]></summary>
-        <author>
-            <name>Stephanie Eckles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eye Droppin’]]></title>
-        <id>https://css-tricks.com/?p=358203</id>
-        <link href="https://css-tricks.com/eye-droppin/"/>
-        <updated>2021-12-09T22:22:34.000Z</updated>
-        <summary type="html"><![CDATA[Quick hits! There is a new web API called EyeDropper:
-if ('EyeDropper' in window) {
-  const eyeDropper = new EyeDropper();
-  try {
-    // This has gotta be triggered by a user interaction,
-    // so consider this pseudo-code.
-    const result 
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some notes on using esbuild]]></title>
-        <id>https://css-tricks.com/?p=358520</id>
-        <link href="https://css-tricks.com/some-notes-on-using-esbuild/"/>
-        <updated>2021-12-09T20:41:25.000Z</updated>
-        <summary type="html"><![CDATA[This is a fantastic article from Julia Evans about duking it out with modern front-end tooling. Julia has made a bunch of Vue projects and typically uses no build process at all:
- I usually have an index.html file, a script.js
-…]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Help Users Accomplish What They Came For]]></title>
-        <id>https://css-tricks.com/?p=357621</id>
-        <link href="https://css-tricks.com/help-users-accomplish-what-they-came-for/"/>
-        <updated>2021-12-09T16:02:36.000Z</updated>
-        <summary type="html"><![CDATA[From my perspective, the question of what one thing we can do to make a website better is not a technical one. The more I browse the internet, the more I realize that the biggest issue with a lot of …]]></summary>
-        <author>
-            <name>Anna Migas</name>
         </author>
     </entry>
     <entry>
