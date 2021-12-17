@@ -12,12 +12,48 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=358029",
+          "author": "Andy Bell",
+          "description": "When Chris first sent me this prompt, I was thinking about writing about progressive enhancement, but that subject is so wide-reaching to be one thing and all too predictable, especially for those already familiar with my writing. Saying that, what …",
+          "link": "https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/",
+          "publishedOn": "2021-12-16T22:06:03.000Z",
+          "wordCount": 1183,
+          "title": "Consistent, Fluidly Scaling Type and Spacing"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359260",
+          "author": "Chris Coyier",
+          "description": "Jordan Scales explores the computer science concept of topological sorting, and what it might look like if applied to the concept of  z-index in CSS. So, you don’t express what the z-index should be directly; instead, you say exactly …",
+          "link": "https://css-tricks.com/topological-sort/",
+          "publishedOn": "2021-12-16T22:04:07.000Z",
+          "wordCount": 571,
+          "title": "Topological sort"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359306",
+          "author": "Chris Coyier",
+          "description": "Three cheers for (draft stage) progress on a Sanitizer API! It’s gospel that you can’t trust user input. And indeed, any app I’ve ever worked on has dealt with bad actors trying to slip in and execute nefarious code …",
+          "link": "https://css-tricks.com/html-sanitizer-api/",
+          "publishedOn": "2021-12-16T18:21:31.000Z",
+          "wordCount": 841,
+          "title": "HTML Sanitizer API"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358576",
+          "author": "Farai Gandiya",
+          "description": "Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …",
+          "link": "https://css-tricks.com/working-with-web-feeds-its-more-than-rss/",
+          "publishedOn": "2021-12-16T15:15:11.000Z",
+          "wordCount": 5268,
+          "title": "Working With Web Feeds: It’s More Than RSS"
+        },
+        {
           "id": "https://css-tricks.com/?p=359032",
           "author": "Chris Coyier",
           "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
           "link": "https://css-tricks.com/maybe-there-kinda-is-background-opacity/",
           "publishedOn": "2021-12-15T22:27:07.000Z",
-          "wordCount": 562,
+          "wordCount": 812,
           "title": "Maybe there kinda is background-opacity?"
         },
         {
@@ -35,7 +71,7 @@
           "description": "Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …",
           "link": "https://css-tricks.com/remove-trackers/",
           "publishedOn": "2021-12-15T15:20:14.000Z",
-          "wordCount": 1258,
+          "wordCount": 1277,
           "title": "Remove Trackers"
         },
         {
@@ -62,7 +98,7 @@
           "description": "Ain’t this the truth:\nIt’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.\n\n\n\n\nI don’t speak …",
           "link": "https://css-tricks.com/faulty-logic/",
           "publishedOn": "2021-12-14T22:28:29.000Z",
-          "wordCount": 752,
+          "wordCount": 757,
           "title": "Faulty logic"
         },
         {
@@ -80,7 +116,7 @@
           "description": "(This is a sponsored post.)\nI got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …",
           "link": "https://css-tricks.com/confused-about-ssgs/",
           "publishedOn": "2021-12-14T15:35:04.000Z",
-          "wordCount": 898,
+          "wordCount": 843,
           "title": "I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?"
         },
         {
@@ -107,44 +143,8 @@
           "description": "Josh’s Shadow Palette Generator is a fantastic tool. The premise is that box-shadow pretty much always looks better when there are multiple layered shadows that are a bit tinted. It reminds me of how gradients almost always look better when …",
           "link": "https://css-tricks.com/shadow-palette-generator/",
           "publishedOn": "2021-12-13T18:13:22.000Z",
-          "wordCount": 466,
+          "wordCount": 431,
           "title": "Shadow Palette Generator"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358612",
-          "author": "Bramus",
-          "description": "So what is the one thing that people can do is to make their website better? To answer that, let’s take a step back in time …\nThe year is 1998, and the web is on the rise. In an …",
-          "link": "https://css-tricks.com/embrace-the-platform/",
-          "publishedOn": "2021-12-13T15:18:08.000Z",
-          "wordCount": 2528,
-          "title": "Embrace the Platform"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358450",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nAmazon has a vision with AWS Amplify. First, a premise:\nAs browsers have become faster and more powerful over the last decade, front-end developers are building web apps that are more feature-rich and …",
-          "link": "https://css-tricks.com/ship-a-full-stack-app-in-days-with-aws-amplify-studio/",
-          "publishedOn": "2021-12-13T15:17:24.000Z",
-          "wordCount": 1184,
-          "title": "Ship a Full-Stack App in Days with AWS Amplify Studio"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356088",
-          "author": "Chris Coyier",
-          "description": "I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …",
-          "link": "https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/",
-          "publishedOn": "2021-12-10T22:09:56.000Z",
-          "wordCount": 3256,
-          "title": "Why would a business push a native app over a website?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358575",
-          "author": "Chris Coyier",
-          "description": "Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …",
-          "link": "https://css-tricks.com/using-position-sticky-with-css-grid/",
-          "publishedOn": "2021-12-10T18:07:18.000Z",
-          "wordCount": 503,
-          "title": "Using Position Sticky With CSS Grid"
         }
       ]
     },
@@ -159,7 +159,7 @@
           "description": "Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.",
           "link": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
           "publishedOn": "2021-12-15T11:30:00.000Z",
-          "wordCount": 2499,
+          "wordCount": 2495,
           "title": "Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e9a3814-1de8-4be8-87c4-a14712d76776/1-touch-design-mobile-interfaces-devices.png",
@@ -173,7 +173,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2068,
+          "wordCount": 2063,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -187,7 +187,7 @@
           "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
           "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "publishedOn": "2021-12-09T13:00:00.000Z",
-          "wordCount": 3562,
+          "wordCount": 3563,
           "title": "Free Christmas Icon Sets And Vector Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
@@ -201,7 +201,7 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2553,
+          "wordCount": 2546,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
@@ -215,7 +215,7 @@
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
           "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3186,
+          "wordCount": 3185,
           "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
@@ -229,7 +229,7 @@
           "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
           "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
           "publishedOn": "2021-12-02T09:30:00.000Z",
-          "wordCount": 2017,
+          "wordCount": 2021,
           "title": "How To Protect Your API Key In Production With Next.js API Route",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
@@ -257,7 +257,7 @@
           "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
           "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2816,
+          "wordCount": 2813,
           "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
@@ -271,7 +271,7 @@
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3233,
+          "wordCount": 3232,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -285,7 +285,7 @@
           "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
           "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
           "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2637,
+          "wordCount": 2626,
           "title": "How To Maintain A Large Next.js Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
@@ -299,7 +299,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4227,
+          "wordCount": 4228,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -313,7 +313,7 @@
           "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
           "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
           "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2746,
+          "wordCount": 2745,
           "title": "Adding A Dyslexia-Friendly Mode To A Website",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
@@ -341,7 +341,7 @@
           "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
           "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
           "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4749,
+          "wordCount": 4741,
           "title": "Improving The Performance Of Wix Websites (Case Study)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
@@ -355,7 +355,7 @@
           "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
           "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
           "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2192,
+          "wordCount": 2194,
           "title": "Next.js Wildcard Subdomains",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
@@ -369,26 +369,12 @@
           "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
           "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
           "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3473,
+          "wordCount": 3474,
           "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in mid-January 2022.",
-          "link": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "publishedOn": "2021-11-16T16:00:00.000Z",
-          "wordCount": 2176,
-          "title": "Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]
@@ -398,6 +384,42 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61b8daa807222107a6c7a204",
+          "author": null,
+          "description": "As remote work becomes more and more popular, more and more people and companies are using video conferencing services such as Zoom.  Turning the built-in microphone on and off is one of the most useful features of Zoom.  In this quick guide you'll learn how to mute yourself with both",
+          "link": "https://www.freecodecamp.org/news/how-to-mute-and-unmute-on-zoom-keyboard-shortcut/",
+          "publishedOn": "2021-12-16T18:50:11.000Z",
+          "wordCount": 552,
+          "title": "How to Mute on Zoom – Mute Yourself with a Keyboard Shortcut or a Press of a Button"
+        },
+        {
+          "id": "61bb54db07222107a6c7acd9",
+          "author": null,
+          "description": "Asking for help on a forum is a great way to learn and grow as a developer. But it is important that you know how to ask good questions so people can effectively help you.  In this article, I will walk you through how to ask good questions on a",
+          "link": "https://www.freecodecamp.org/news/how-to-ask-a-question-on-a-forum/",
+          "publishedOn": "2021-12-16T17:39:57.000Z",
+          "wordCount": 700,
+          "title": "How to Ask a Question on a Forum"
+        },
+        {
+          "id": "61bb4ce307222107a6c7ac86",
+          "author": null,
+          "description": "I've been using Windows Subsystem for Linux (WSL) for my OS class for quite a while now. And I love how I can use Linux commands in Windows in a straightforward way without the added complexity of installing a virtual machine or dual booting.  By the end of this article,",
+          "link": "https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/",
+          "publishedOn": "2021-12-16T17:33:23.000Z",
+          "wordCount": 844,
+          "title": "How to Run Linux Apps on Windows 10 and 11 Using WSL"
+        },
+        {
+          "id": "61bb192507222107a6c7aa8e",
+          "author": null,
+          "description": "Windows 10 has an incredible Graphics User Interface (GUI) that will often be enough for you to get things done.  But if your inner Oliver Twist wants more, then you should start learning about the Command Line.  With the command prompt, you get access to features that are not available",
+          "link": "https://www.freecodecamp.org/news/windows-10-command-line-tricks/",
+          "publishedOn": "2021-12-16T16:37:46.000Z",
+          "wordCount": 1596,
+          "title": "14 Windows 10 Command Line Tricks that Give You More Control Over Your PC"
+        },
         {
           "id": "61ae2a2e946db661defb7dda",
           "author": null,
@@ -451,42 +473,6 @@
           "publishedOn": "2021-12-14T16:51:14.000Z",
           "wordCount": 2837,
           "title": "How to Build a Secure Server with Node.js and Express and Upload Images with Cloudinary"
-        },
-        {
-          "id": "6172cfe3d48e1707b6d79bc9",
-          "author": null,
-          "description": "Every day major companies have vulnerabilities exploited in their software. It is important to learn how to protect your applications against data breaches.  In this article you all about DevSecOps and web security. There is a video course that goes along with this article. The article focuses on the definitions",
-          "link": "https://www.freecodecamp.org/news/what-is-devsecops/",
-          "publishedOn": "2021-12-14T14:08:56.000Z",
-          "wordCount": 2461,
-          "title": "What is DevSecOps? How to Secure Website or App"
-        },
-        {
-          "id": "61b5815307222107a6c78cf7",
-          "author": null,
-          "description": "Designing a distributed system that supports millions of users is a complex task, and one that requires continuous improvement and refinement.  Recently I read a book by Alex Xu called \"System Design Interview – An Insider's Guide\". This article, inspired by the first part of the book, shares some popular techniques",
-          "link": "https://www.freecodecamp.org/news/how-to-scale-a-distributed-system/",
-          "publishedOn": "2021-12-13T23:37:24.000Z",
-          "wordCount": 1961,
-          "title": "How to Scale a Distributed System"
-        },
-        {
-          "id": "61b3865f07222107a6c7822e",
-          "author": null,
-          "description": "An API, or Application Programming Interface, is a server that lets you retrieve and send data using code. We mostly commonly use APIs to retrieve data, and that will be the focus of this beginner-friendly tutorial. When we want to receive data from an API, we need to make a",
-          "link": "https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/",
-          "publishedOn": "2021-12-13T23:03:42.000Z",
-          "wordCount": 3247,
-          "title": "Python Requests – How to Interact with Web Services using Python"
-        },
-        {
-          "id": "61aca6a8946db661defb7a86",
-          "author": null,
-          "description": "In this blog post I'll walk you through a real life example which uses the concept of classes in Javascript.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them to real life.  So in",
-          "link": "https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/",
-          "publishedOn": "2021-12-13T19:24:50.000Z",
-          "wordCount": 3609,
-          "title": "JavaScript Classes – How They Work with Use Case Example"
         }
       ]
     }

@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-16T01:09:09.174Z</id>
+    <id>urn:2021-12-17T01:11:56.922Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-16T01:09:09.174Z</updated>
+    <updated>2021-12-17T01:11:56.922Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Consistent, Fluidly Scaling Type and Spacing]]></title>
+        <id>https://css-tricks.com/?p=358029</id>
+        <link href="https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/"/>
+        <updated>2021-12-16T22:06:03.000Z</updated>
+        <summary type="html"><![CDATA[When Chris first sent me this prompt, I was thinking about writing about progressive enhancement, but that subject is so wide-reaching to be one thing and all too predictable, especially for those already familiar with my writing. Saying that, what …]]></summary>
+        <author>
+            <name>Andy Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Topological sort]]></title>
+        <id>https://css-tricks.com/?p=359260</id>
+        <link href="https://css-tricks.com/topological-sort/"/>
+        <updated>2021-12-16T22:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Jordan Scales explores the computer science concept of topological sorting, and what it might look like if applied to the concept of  z-index in CSS. So, you don’t express what the z-index should be directly; instead, you say exactly …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Mute on Zoom – Mute Yourself with a Keyboard Shortcut or a Press of a Button]]></title>
+        <id>61b8daa807222107a6c7a204</id>
+        <link href="https://www.freecodecamp.org/news/how-to-mute-and-unmute-on-zoom-keyboard-shortcut/"/>
+        <updated>2021-12-16T18:50:11.000Z</updated>
+        <summary type="html"><![CDATA[As remote work becomes more and more popular, more and more people and companies are using video conferencing services such as Zoom.  Turning the built-in microphone on and off is one of the most useful features of Zoom.  In this quick guide you'll learn how to mute yourself with both]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Sanitizer API]]></title>
+        <id>https://css-tricks.com/?p=359306</id>
+        <link href="https://css-tricks.com/html-sanitizer-api/"/>
+        <updated>2021-12-16T18:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Three cheers for (draft stage) progress on a Sanitizer API! It’s gospel that you can’t trust user input. And indeed, any app I’ve ever worked on has dealt with bad actors trying to slip in and execute nefarious code …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ask a Question on a Forum]]></title>
+        <id>61bb54db07222107a6c7acd9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-ask-a-question-on-a-forum/"/>
+        <updated>2021-12-16T17:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Asking for help on a forum is a great way to learn and grow as a developer. But it is important that you know how to ask good questions so people can effectively help you.  In this article, I will walk you through how to ask good questions on a]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run Linux Apps on Windows 10 and 11 Using WSL]]></title>
+        <id>61bb4ce307222107a6c7ac86</id>
+        <link href="https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/"/>
+        <updated>2021-12-16T17:33:23.000Z</updated>
+        <summary type="html"><![CDATA[I've been using Windows Subsystem for Linux (WSL) for my OS class for quite a while now. And I love how I can use Linux commands in Windows in a straightforward way without the added complexity of installing a virtual machine or dual booting.  By the end of this article,]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 Windows 10 Command Line Tricks that Give You More Control Over Your PC]]></title>
+        <id>61bb192507222107a6c7aa8e</id>
+        <link href="https://www.freecodecamp.org/news/windows-10-command-line-tricks/"/>
+        <updated>2021-12-16T16:37:46.000Z</updated>
+        <summary type="html"><![CDATA[Windows 10 has an incredible Graphics User Interface (GUI) that will often be enough for you to get things done.  But if your inner Oliver Twist wants more, then you should start learning about the Command Line.  With the command prompt, you get access to features that are not available]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Working With Web Feeds: It’s More Than RSS]]></title>
+        <id>https://css-tricks.com/?p=358576</id>
+        <link href="https://css-tricks.com/working-with-web-feeds-its-more-than-rss/"/>
+        <updated>2021-12-16T15:15:11.000Z</updated>
+        <summary type="html"><![CDATA[Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …]]></summary>
+        <author>
+            <name>Farai Gandiya</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maybe there kinda is background-opacity?]]></title>
         <id>https://css-tricks.com/?p=359032</id>
@@ -166,16 +246,6 @@ I got this question from a listener the other day. Fair question, I’d say. The
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is DevSecOps? How to Secure Website or App]]></title>
-        <id>6172cfe3d48e1707b6d79bc9</id>
-        <link href="https://www.freecodecamp.org/news/what-is-devsecops/"/>
-        <updated>2021-12-14T14:08:56.000Z</updated>
-        <summary type="html"><![CDATA[Every day major companies have vulnerabilities exploited in their software. It is important to learn how to protect your applications against data breaches.  In this article you all about DevSecOps and web security. There is a video course that goes along with this article. The article focuses on the definitions]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modifying Headers In HTTP(s) Requests In UI Automation Testing]]></title>
         <id>https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/</id>
         <link href="https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/"/>
@@ -183,26 +253,6 @@ I got this question from a listener the other day. Fair question, I’d say. The
         <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nafees Nehar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Scale a Distributed System]]></title>
-        <id>61b5815307222107a6c78cf7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-scale-a-distributed-system/"/>
-        <updated>2021-12-13T23:37:24.000Z</updated>
-        <summary type="html"><![CDATA[Designing a distributed system that supports millions of users is a complex task, and one that requires continuous improvement and refinement.  Recently I read a book by Alex Xu called "System Design Interview – An Insider's Guide". This article, inspired by the first part of the book, shares some popular techniques]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Requests – How to Interact with Web Services using Python]]></title>
-        <id>61b3865f07222107a6c7822e</id>
-        <link href="https://www.freecodecamp.org/news/how-to-interact-with-web-services-using-python/"/>
-        <updated>2021-12-13T23:03:42.000Z</updated>
-        <summary type="html"><![CDATA[An API, or Application Programming Interface, is a server that lets you retrieve and send data using code. We mostly commonly use APIs to retrieve data, and that will be the focus of this beginner-friendly tutorial. When we want to receive data from an API, we need to make a]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -226,64 +276,11 @@ I got this question from a listener the other day. Fair question, I’d say. The
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JavaScript Classes – How They Work with Use Case Example]]></title>
-        <id>61aca6a8946db661defb7a86</id>
-        <link href="https://www.freecodecamp.org/news/javascript-classes-how-they-work-with-use-case/"/>
-        <updated>2021-12-13T19:24:50.000Z</updated>
-        <summary type="html"><![CDATA[In this blog post I'll walk you through a real life example which uses the concept of classes in Javascript.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them to real life.  So in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shadow Palette Generator]]></title>
         <id>https://css-tricks.com/?p=358926</id>
         <link href="https://css-tricks.com/shadow-palette-generator/"/>
         <updated>2021-12-13T18:13:22.000Z</updated>
         <summary type="html"><![CDATA[Josh’s Shadow Palette Generator is a fantastic tool. The premise is that box-shadow pretty much always looks better when there are multiple layered shadows that are a bit tinted. It reminds me of how gradients almost always look better when …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embrace the Platform]]></title>
-        <id>https://css-tricks.com/?p=358612</id>
-        <link href="https://css-tricks.com/embrace-the-platform/"/>
-        <updated>2021-12-13T15:18:08.000Z</updated>
-        <summary type="html"><![CDATA[So what is the one thing that people can do is to make their website better? To answer that, let’s take a step back in time …
-The year is 1998, and the web is on the rise. In an …]]></summary>
-        <author>
-            <name>Bramus</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ship a Full-Stack App in Days with AWS Amplify Studio]]></title>
-        <id>https://css-tricks.com/?p=358450</id>
-        <link href="https://css-tricks.com/ship-a-full-stack-app-in-days-with-aws-amplify-studio/"/>
-        <updated>2021-12-13T15:17:24.000Z</updated>
-        <summary type="html"><![CDATA[(This is a sponsored post.)
-Amazon has a vision with AWS Amplify. First, a premise:
-As browsers have become faster and more powerful over the last decade, front-end developers are building web apps that are more feature-rich and …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why would a business push a native app over a website?]]></title>
-        <id>https://css-tricks.com/?p=356088</id>
-        <link href="https://css-tricks.com/why-would-a-business-push-a-native-app-over-a-website/"/>
-        <updated>2021-12-10T22:09:56.000Z</updated>
-        <summary type="html"><![CDATA[I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Position Sticky With CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=358575</id>
-        <link href="https://css-tricks.com/using-position-sticky-with-css-grid/"/>
-        <updated>2021-12-10T18:07:18.000Z</updated>
-        <summary type="html"><![CDATA[Say you’ve got a two-column CSS grid and you want one of those columns to behave like position: sticky;. There is nothing stopping you from doing that. But the default height for those two columns is going to be …]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -426,16 +423,6 @@ As browsers have become faster and more powerful over the last decade, front-end
         <summary type="html"><![CDATA[In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober]]></title>
-        <id>https://smashingmagazine.com/2021/11/touch-design-pre-release/</id>
-        <link href="https://smashingmagazine.com/2021/11/touch-design-pre-release/"/>
-        <updated>2021-11-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in mid-January 2022.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
         </author>
     </entry>
 </feed>
