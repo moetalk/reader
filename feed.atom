@@ -1,10 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-17T01:11:56.922Z</id>
+    <id>urn:2021-12-18T01:14:00.647Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-17T01:11:56.922Z</updated>
+    <updated>2021-12-18T01:14:00.647Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A visual introduction to machine learning]]></title>
+        <id>https://css-tricks.com/?p=359489</id>
+        <link href="https://css-tricks.com/a-visual-introduction-to-machine-learning/"/>
+        <updated>2021-12-17T21:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:
+In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.
+
+
+
+
+And what …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Project – How to Create a Horoscope API with Beautiful Soup and Flask]]></title>
+        <id>61b9cd2a07222107a6c7a467</id>
+        <link href="https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/"/>
+        <updated>2021-12-17T18:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever read your horoscope in the newspaper or seen it on television? Well, I'm not sure about other countries, but in my country of India, people still read their horoscopes.  And this is where I got the idea for this tutorial. It might sound a bit old-fashioned, but]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The HTML &lt;a&gt; Tag – Anchor Tag Example Code]]></title>
+        <id>60c08960d3126007592d56fd</id>
+        <link href="https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/"/>
+        <updated>2021-12-17T17:47:31.000Z</updated>
+        <summary type="html"><![CDATA[HTML(Hyper Text Markup Language) is one of the languages we use to create web applications. It adds structure to your web pages. HTML has various tags we use to create elements. And multiple elements come together to create meaningful web pages and applications. The anchor tag is one of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maybe Nothing]]></title>
+        <id>https://css-tricks.com/?p=357625</id>
+        <link href="https://css-tricks.com/maybe-nothing/"/>
+        <updated>2021-12-17T15:21:15.000Z</updated>
+        <summary type="html"><![CDATA[What’s one thing we can do to make our site better? Maybe nothing at all!
+Our websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …]]></summary>
+        <author>
+            <name>Jenn Lukas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The surprising behavior of !important in CSS custom property values]]></title>
+        <id>https://css-tricks.com/?p=359430</id>
+        <link href="https://css-tricks.com/the-surprising-behavior-of-important-in-css-custom-property-values/"/>
+        <updated>2021-12-17T15:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Huh! I did not realize that CSS custom properties had their own resolution behavior for how !important works in their values. Uh, despite writing a guide about them. 😬 But hey it’s now updated.
+Stefan Judis documents it clearly. …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing Human-Machine Interfaces For Vehicles Of The Future]]></title>
+        <id>https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/</id>
+        <link href="https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/"/>
+        <updated>2021-12-17T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nick Babich &amp; Gleb Kuznetsov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions]]></title>
+        <id>https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/</id>
+        <link href="https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/"/>
+        <updated>2021-12-17T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Nwani Victory)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Consistent, Fluidly Scaling Type and Spacing]]></title>
         <id>https://css-tricks.com/?p=358029</id>
@@ -205,26 +283,6 @@ I don’t speak …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Use the .github Repository]]></title>
-        <id>61b8699d07222107a6c79cf7</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/"/>
-        <updated>2021-12-14T18:01:15.000Z</updated>
-        <summary type="html"><![CDATA[GitHub has many special repositories. For instance, you can create a repository that matches your username, add a README file to it, and all the information in that file will be visible on your GitHub profile. You might already be familiar with the .github directory you'll find in many repositories.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Secure Server with Node.js and Express and Upload Images with Cloudinary]]></title>
-        <id>61b72c5d07222107a6c79095</id>
-        <link href="https://www.freecodecamp.org/news/build-a-secure-server-with-node-and-express/"/>
-        <updated>2021-12-14T16:51:14.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will learn how to create a server. We will begin without express and then strengthen the server using express. After that, we will see how to upload images to Cloudinary from the app we have created. I assume that you already understand the basics of Node.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Think Without Boxes]]></title>
         <id>https://css-tricks.com/?p=357660</id>
         <link href="https://css-tricks.com/think-without-boxes/"/>
@@ -253,36 +311,6 @@ I got this question from a listener the other day. Fair question, I’d say. The
         <summary type="html"><![CDATA[To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nafees Nehar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS-Tricks Chronicle XLI]]></title>
-        <id>https://css-tricks.com/?p=358436</id>
-        <link href="https://css-tricks.com/css-tricks-chronicle-xxxxi/"/>
-        <updated>2021-12-13T22:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Ya know, I used to do one of these posts after making a few podcast appearances I hadn’t had a chance to link up yet, so I could share them. As fate would have it, I haven’t been on many …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[File Scaffolding With Hygen]]></title>
-        <id>https://css-tricks.com/?p=359002</id>
-        <link href="https://css-tricks.com/file-scaffolding-with-hygen/"/>
-        <updated>2021-12-13T22:05:20.000Z</updated>
-        <summary type="html"><![CDATA[I read a recent Smashing Magazine post that included a recommendation for Hygen. I just happen to be doing quite a bit of new UI work in a Next.js app and the amount of manual folder/file scaffolding I was …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow Palette Generator]]></title>
-        <id>https://css-tricks.com/?p=358926</id>
-        <link href="https://css-tricks.com/shadow-palette-generator/"/>
-        <updated>2021-12-13T18:13:22.000Z</updated>
-        <summary type="html"><![CDATA[Josh’s Shadow Palette Generator is a fantastic tool. The premise is that box-shadow pretty much always looks better when there are multiple layered shadows that are a bit tinted. It reminds me of how gradients almost always look better when …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -413,16 +441,6 @@ I got this question from a listener the other day. Fair question, I’d say. The
         <summary type="html"><![CDATA[Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Sam Poder)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH]]></title>
-        <id>https://smashingmagazine.com/2021/11/guide-modern-css-colors/</id>
-        <link href="https://smashingmagazine.com/2021/11/guide-modern-css-colors/"/>
-        <updated>2021-11-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Michelle Barker)</name>
         </author>
     </entry>
 </feed>
