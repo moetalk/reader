@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-18T01:14:00.647Z</id>
+    <id>urn:2021-12-19T01:16:00.150Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-18T01:14:00.647Z</updated>
+    <updated>2021-12-19T01:16:00.150Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -431,16 +431,6 @@ I got this question from a listener the other day. Fair question, I’d say. The
         <summary type="html"><![CDATA[Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Dan Shappir)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js Wildcard Subdomains]]></title>
-        <id>https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/</id>
-        <link href="https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/"/>
-        <updated>2021-11-19T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Sam Poder)</name>
         </author>
     </entry>
 </feed>
