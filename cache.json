@@ -12,12 +12,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359146",
+          "author": "Chris Coyier",
+          "description": "Does shadow DOM improve style performance? — Nolan Lawson covers how, because of the inherent encapsulation of the shadow DOM, the styling gets applied a bit faster than it would if those styling rules were relevant to the entire page. But \n…",
+          "link": "https://css-tricks.com/links-on-performance-v/",
+          "publishedOn": "2021-12-21T18:42:43.000Z",
+          "wordCount": 911,
+          "title": "Links on Performance V"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358690",
+          "author": "Eli Fitch",
+          "description": "Everything kind of sucks right now. Things—generally—feel bad. Setting aside the broader realities of a global pandemic and rampant social injustices, we’re watching the identity of the web platform, an intrinsically free and open medium of creative expression, co-opted for …",
+          "link": "https://css-tricks.com/make-joyful-things/",
+          "publishedOn": "2021-12-21T15:32:58.000Z",
+          "wordCount": 1197,
+          "title": "Make Joyful Things"
+        },
+        {
           "id": "https://css-tricks.com/?p=359017",
           "author": "Chris Coyier",
           "description": "There are a number of ways to approach a dark mode for your website, but essentially you get all the styles ready for it and then apply them when the user has indicated they want them, whether by direct …",
           "link": "https://css-tricks.com/auto-dark-theme/",
           "publishedOn": "2021-12-20T18:34:47.000Z",
-          "wordCount": 877,
+          "wordCount": 1050,
           "title": "Auto Dark Theme"
         },
         {
@@ -35,7 +53,7 @@
           "description": "When I was working at my first “real” job in the field in the mid-2000s, it was hammered in the web dev field to build tiny websites (no more than 100KB per page), only use JavaScript for special effects, and …",
           "link": "https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/",
           "publishedOn": "2021-12-20T15:22:04.000Z",
-          "wordCount": 1478,
+          "wordCount": 1735,
           "title": "Be Prepared for Failure and Handle it Gracefully"
         },
         {
@@ -98,7 +116,7 @@
           "description": "Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …",
           "link": "https://css-tricks.com/working-with-web-feeds-its-more-than-rss/",
           "publishedOn": "2021-12-16T15:15:11.000Z",
-          "wordCount": 5562,
+          "wordCount": 5629,
           "title": "Working With Web Feeds: It’s More Than RSS"
         },
         {
@@ -107,7 +125,7 @@
           "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
           "link": "https://css-tricks.com/maybe-there-kinda-is-background-opacity/",
           "publishedOn": "2021-12-15T22:27:07.000Z",
-          "wordCount": 812,
+          "wordCount": 875,
           "title": "Maybe there kinda is background-opacity?"
         },
         {
@@ -127,24 +145,6 @@
           "publishedOn": "2021-12-15T15:20:14.000Z",
           "wordCount": 1277,
           "title": "Remove Trackers"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359107",
-          "author": "Chris Coyier",
-          "description": "Google is handing out bucks for CSS-related projects, so you might as well know about it! Nicole Sullivan:\nAll of us who work on the web regularly benefit from the work of people who create specifications, tools, demos, tutorials, and \n…",
-          "link": "https://css-tricks.com/the-ui-fund/",
-          "publishedOn": "2021-12-15T15:18:29.000Z",
-          "wordCount": 540,
-          "title": "The UI fund"
-        },
-        {
-          "id": "https://css-tricks.com/?p=356603",
-          "author": "Geoff Graham",
-          "description": "When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.\nNo worries, this …",
-          "link": "https://css-tricks.com/read-your-website/",
-          "publishedOn": "2021-12-14T22:37:26.000Z",
-          "wordCount": 1631,
-          "title": "Read Your Website"
         }
       ]
     },
@@ -159,7 +159,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6014,
+          "wordCount": 6022,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -173,7 +173,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3400,
+          "wordCount": 3398,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -187,7 +187,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5439,
+          "wordCount": 5440,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -215,7 +215,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2060,
+          "wordCount": 2062,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -243,7 +243,7 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2557,
+          "wordCount": 2547,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
@@ -257,7 +257,7 @@
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
           "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3180,
+          "wordCount": 3183,
           "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
@@ -271,7 +271,7 @@
           "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
           "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
           "publishedOn": "2021-12-02T09:30:00.000Z",
-          "wordCount": 2022,
+          "wordCount": 2020,
           "title": "How To Protect Your API Key In Production With Next.js API Route",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
@@ -299,7 +299,7 @@
           "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
           "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2806,
+          "wordCount": 2812,
           "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
@@ -313,7 +313,7 @@
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3236,
+          "wordCount": 3235,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -327,7 +327,7 @@
           "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
           "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
           "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2623,
+          "wordCount": 2630,
           "title": "How To Maintain A Large Next.js Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
@@ -341,7 +341,7 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4229,
+          "wordCount": 4232,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
@@ -355,7 +355,7 @@
           "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
           "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
           "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2745,
+          "wordCount": 2744,
           "title": "Adding A Dyslexia-Friendly Mode To A Website",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
@@ -376,20 +376,6 @@
             "length": "0",
             "type": "image/png"
           }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "author": "hello@smashingmagazine.com (Dan Shappir)",
-          "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
-          "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4746,
-          "title": "Improving The Performance Of Wix Websites (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
         }
       ]
     },
@@ -398,6 +384,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c1702f755c160824908877",
+          "author": null,
+          "description": "If you have an e-commerce application, a payment gateway lets you process payments on your website on the fly.  With all the modern payment gateway solutions available these days, there are many ways you can integrate payments and charge your users for your product or services.  In this tutorial, we",
+          "link": "https://www.freecodecamp.org/news/integrate-a-payment-gateway-in-next-js-and-react-with-razorpay-and-tailwindcss/",
+          "publishedOn": "2021-12-21T18:16:10.000Z",
+          "wordCount": 3034,
+          "title": "How to Set Up a Payment Gateway in Next.js and React with Razorpay and TailwindCSS"
+        },
+        {
+          "id": "61c13344755c1608249086b5",
+          "author": null,
+          "description": "Since ECMAScript 6 (or ES6 for short), you can descructure objects in JavaScript. As a JavaScript developer, you’ll likely destructure objects as part of your daily work.  Let's learn about why we use destructuring, and then we'll learn how to destructure JavaScript objects. Why destructure an object?Let's go",
+          "link": "https://www.freecodecamp.org/news/how-to-destructure-objects-javascript/",
+          "publishedOn": "2021-12-21T16:47:41.000Z",
+          "wordCount": 678,
+          "title": "How to Destructure Objects in JavaScript"
+        },
+        {
+          "id": "61bc5001297c7107e8ad7f94",
+          "author": null,
+          "description": "You've probably seen a \"back-to-top\" button at the bottom-right corner on many websites when you're scrolling around. Clicking on that button takes you back to the top of the page.  This is a great feature to have on any website, and today we are going to see how to build",
+          "link": "https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/",
+          "publishedOn": "2021-12-21T16:39:02.000Z",
+          "wordCount": 1882,
+          "title": "How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript"
+        },
+        {
+          "id": "61bfadd5aabf6478ea7460fc",
+          "author": null,
+          "description": "When you work in IT operations, automation is a key part of your job.  You'll have various repetitive tasks you have to deal with, and you don’t want to waste your time doing something that can be done by a script.  Here are some great reasons to automate repetitive",
+          "link": "https://www.freecodecamp.org/news/how-to-automate-tasks-with-azure-webjobs/",
+          "publishedOn": "2021-12-21T16:33:48.000Z",
+          "wordCount": 1158,
+          "title": "How to Automate Tasks with Azure Webjobs"
+        },
+        {
+          "id": "61c1ec91755c160824908a2e",
+          "author": null,
+          "description": "A Customer Relationship Management (CRM) is a system that helps businesses organize and manage their customer relationships. It is basically a big database for customer information. Since every business is a little different, it can be helpful to create your own CRM to meet your exact needs. We just published",
+          "link": "https://www.freecodecamp.org/news/build-a-crm/",
+          "publishedOn": "2021-12-21T15:11:44.000Z",
+          "wordCount": 375,
+          "title": "How to Build a Custom CRM"
+        },
         {
           "id": "61b9e89107222107a6c7a4bc",
           "author": null,
@@ -442,51 +473,6 @@
           "publishedOn": "2021-12-17T17:47:31.000Z",
           "wordCount": 2077,
           "title": "The HTML &lt;a&gt; Tag – Anchor Tag Example Code"
-        },
-        {
-          "id": "61b8daa807222107a6c7a204",
-          "author": null,
-          "description": "As remote work becomes more and more popular, more and more people and companies are using video conferencing services such as Zoom.  Turning the built-in microphone on and off is one of the most useful features of Zoom.  In this quick guide you'll learn how to mute yourself with both",
-          "link": "https://www.freecodecamp.org/news/how-to-mute-and-unmute-on-zoom-keyboard-shortcut/",
-          "publishedOn": "2021-12-16T18:50:11.000Z",
-          "wordCount": 552,
-          "title": "How to Mute on Zoom – Mute Yourself with a Keyboard Shortcut or a Press of a Button"
-        },
-        {
-          "id": "61bb54db07222107a6c7acd9",
-          "author": null,
-          "description": "Asking for help on a forum is a great way to learn and grow as a developer. But it is important that you know how to ask good questions so people can effectively help you.  In this article, I will walk you through how to ask good questions on a",
-          "link": "https://www.freecodecamp.org/news/how-to-ask-a-question-on-a-forum/",
-          "publishedOn": "2021-12-16T17:39:57.000Z",
-          "wordCount": 700,
-          "title": "How to Ask a Question on a Forum"
-        },
-        {
-          "id": "61bb4ce307222107a6c7ac86",
-          "author": null,
-          "description": "I've been using Windows Subsystem for Linux (WSL) for my OS class for quite a while now. And I love how I can use Linux commands in Windows in a straightforward way without the added complexity of installing a virtual machine or dual booting.  By the end of this article,",
-          "link": "https://www.freecodecamp.org/news/how-to-run-linux-apps-on-windows-10-11-using-wsl/",
-          "publishedOn": "2021-12-16T17:33:23.000Z",
-          "wordCount": 844,
-          "title": "How to Run Linux Apps on Windows 10 and 11 Using WSL"
-        },
-        {
-          "id": "61bb192507222107a6c7aa8e",
-          "author": null,
-          "description": "Windows 10 has an incredible Graphics User Interface (GUI) that will often be enough for you to get things done.  But if your inner Oliver Twist wants more, then you should start learning about the Command Line.  With the command prompt, you get access to features that are not available",
-          "link": "https://www.freecodecamp.org/news/windows-10-command-line-tricks/",
-          "publishedOn": "2021-12-16T16:37:46.000Z",
-          "wordCount": 1596,
-          "title": "14 Windows 10 Command Line Tricks that Give You More Control Over Your PC"
-        },
-        {
-          "id": "61ae2a2e946db661defb7dda",
-          "author": null,
-          "description": "As a frontend developer, it's your job to make sure that the user interface of a software program functions properly.  It's a difficult job because you have to make sure that every component works the way it's supposed to so that users have a good experience. Frontend development is in",
-          "link": "https://www.freecodecamp.org/news/top-skills-for-new-frontend-developers/",
-          "publishedOn": "2021-12-15T16:56:37.000Z",
-          "wordCount": 1551,
-          "title": "Top Skills All New Frontend Developers Should Have"
         }
       ]
     }
