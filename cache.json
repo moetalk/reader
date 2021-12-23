@@ -12,6 +12,33 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359033",
+          "author": "Una Kravets",
+          "description": "Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…",
+          "link": "https://css-tricks.com/personalize-it/",
+          "publishedOn": "2021-12-23T00:10:06.000Z",
+          "wordCount": 818,
+          "title": "Personalize it!"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359675",
+          "author": "Chris Coyier",
+          "description": "There was a time when I’d write React, Angular, and Ember as a kind of generic grouping of three major JavaScript frameworks. And maybe just because three is a nice number, that became React, Vue, and Angular over time, thanks …",
+          "link": "https://css-tricks.com/why-ember/",
+          "publishedOn": "2021-12-22T16:10:40.000Z",
+          "wordCount": 521,
+          "title": "Why Ember?"
+        },
+        {
+          "id": "https://css-tricks.com/?p=358761",
+          "author": "Melanie Sumner",
+          "description": "NGL, I was a little overwhelmed when I sat down to write this article. There are so many things that immediately flooded my mind—take out any extra divs; use links for URLs, use buttons for events and actions; use …",
+          "link": "https://css-tricks.com/increase-your-reach/",
+          "publishedOn": "2021-12-22T16:07:56.000Z",
+          "wordCount": 1550,
+          "title": "Increase Your Reach"
+        },
+        {
           "id": "https://css-tricks.com/?p=359146",
           "author": "Chris Coyier",
           "description": "Does shadow DOM improve style performance? — Nolan Lawson covers how, because of the inherent encapsulation of the shadow DOM, the styling gets applied a bit faster than it would if those styling rules were relevant to the entire page. But \n…",
@@ -35,7 +62,7 @@
           "description": "There are a number of ways to approach a dark mode for your website, but essentially you get all the styles ready for it and then apply them when the user has indicated they want them, whether by direct …",
           "link": "https://css-tricks.com/auto-dark-theme/",
           "publishedOn": "2021-12-20T18:34:47.000Z",
-          "wordCount": 1050,
+          "wordCount": 1149,
           "title": "Auto Dark Theme"
         },
         {
@@ -116,35 +143,8 @@
           "description": "Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …",
           "link": "https://css-tricks.com/working-with-web-feeds-its-more-than-rss/",
           "publishedOn": "2021-12-16T15:15:11.000Z",
-          "wordCount": 5629,
+          "wordCount": 5798,
           "title": "Working With Web Feeds: It’s More Than RSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359032",
-          "author": "Chris Coyier",
-          "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
-          "link": "https://css-tricks.com/maybe-there-kinda-is-background-opacity/",
-          "publishedOn": "2021-12-15T22:27:07.000Z",
-          "wordCount": 875,
-          "title": "Maybe there kinda is background-opacity?"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359234",
-          "author": "Chris Coyier",
-          "description": "Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …",
-          "link": "https://css-tricks.com/the-vite-ecosystem/",
-          "publishedOn": "2021-12-15T20:58:30.000Z",
-          "wordCount": 516,
-          "title": "The Vite Ecosystem"
-        },
-        {
-          "id": "https://css-tricks.com/?p=358026",
-          "author": "Laura Kalbag",
-          "description": "Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …",
-          "link": "https://css-tricks.com/remove-trackers/",
-          "publishedOn": "2021-12-15T15:20:14.000Z",
-          "wordCount": 1277,
-          "title": "Remove Trackers"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
+          "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
+          "publishedOn": "2021-12-22T10:00:00.000Z",
+          "wordCount": 4184,
+          "title": "Useful UX Guidelines, Tools And Resources",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
+            "length": "0",
+            "type": "image/png"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "author": "hello@smashingmagazine.com (Barry Pollard)",
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6022,
+          "wordCount": 6028,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -173,7 +187,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3398,
+          "wordCount": 3393,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -187,7 +201,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5440,
+          "wordCount": 5447,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -215,7 +229,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2062,
+          "wordCount": 2060,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -243,7 +257,7 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2547,
+          "wordCount": 2544,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
@@ -257,7 +271,7 @@
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
           "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3183,
+          "wordCount": 3181,
           "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
@@ -271,7 +285,7 @@
           "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
           "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
           "publishedOn": "2021-12-02T09:30:00.000Z",
-          "wordCount": 2020,
+          "wordCount": 2022,
           "title": "How To Protect Your API Key In Production With Next.js API Route",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
@@ -299,7 +313,7 @@
           "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
           "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2812,
+          "wordCount": 2814,
           "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
@@ -313,7 +327,7 @@
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3235,
+          "wordCount": 3237,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -327,7 +341,7 @@
           "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
           "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
           "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2630,
+          "wordCount": 2623,
           "title": "How To Maintain A Large Next.js Application",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
@@ -341,38 +355,10 @@
           "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
           "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
           "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4232,
+          "wordCount": 4230,
           "title": "A Showcase Of Lovely Little Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "author": "hello@smashingmagazine.com (John C Barstow)",
-          "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
-          "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2744,
-          "title": "Adding A Dyslexia-Friendly Mode To A Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).",
-          "link": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "publishedOn": "2021-11-22T16:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Smashing Workshops: Winter 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d2659d54-48e0-40d0-9fea-07c199eee87d/sanfran-2022.png",
             "length": "0",
             "type": "image/png"
           }
@@ -384,6 +370,51 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "5fc5badb49c47664ed827efe",
+          "author": null,
+          "description": "An eternity ago in the year of 2012, a few Stanford professors decided to make their courses freely available online.  The media christened these courses \"MOOCs\" – Massive Open Online Courses. And they hailed 2012 as \"Year of the MOOC.\" Now, a decade later, the MOOC ecosystem has reached 220M learners",
+          "link": "https://www.freecodecamp.org/news/most-popular-free-online-courses/",
+          "publishedOn": "2021-12-22T22:44:00.000Z",
+          "wordCount": 4695,
+          "title": "The Top 100 Free University Courses of the Year (Ranked by Popularity)"
+        },
+        {
+          "id": "61706bd9d48e1707b6d7923e",
+          "author": null,
+          "description": "If you work with WordPress, then you know just how important a good stack of plugins is. They were designed to improve everything from media handling, and basic features to security and more.  You can have as many as you like, in theory, but don't go overboard. A good rule",
+          "link": "https://www.freecodecamp.org/news/best-wordpress-plugins/",
+          "publishedOn": "2021-12-22T20:19:42.000Z",
+          "wordCount": 2766,
+          "title": "Best WordPress Plugins – 15 Tools to Boost Your Productivity"
+        },
+        {
+          "id": "61bcf6e3297c7107e8ad8595",
+          "author": null,
+          "description": "Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in the tech industry, and pursue your dream of becoming a developer.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg/",
+          "publishedOn": "2021-12-22T17:23:00.000Z",
+          "wordCount": 1958,
+          "title": "Learn to Code RPG – A Visual Novel Video Game Where you Learn Computer Science Concepts"
+        },
+        {
+          "id": "61bd5001297c7107e8ad85a9",
+          "author": null,
+          "description": "This is the press kit for the game, Learn to Code RPG.",
+          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-press-kit/",
+          "publishedOn": "2021-12-22T17:22:50.000Z",
+          "wordCount": 394,
+          "title": "Learn to Code RPG – Press Kit"
+        },
+        {
+          "id": "61b5033707222107a6c78b01",
+          "author": null,
+          "description": "I recently attended a training session with the Auth0 Dev Rel team to learn about a cool new feature called Auth0 Actions.  In this article, I am going to explain what Auth0 Actions are, why you'd want to use them, and how to set one up. What are Auth0 Actions?",
+          "link": "https://www.freecodecamp.org/news/intro-to-auth0-actions/",
+          "publishedOn": "2021-12-22T15:46:00.000Z",
+          "wordCount": 1425,
+          "title": "How to Extend Your Login Flow With Auth0 Actions"
+        },
         {
           "id": "61c1702f755c160824908877",
           "author": null,
@@ -428,51 +459,6 @@
           "publishedOn": "2021-12-21T15:11:44.000Z",
           "wordCount": 375,
           "title": "How to Build a Custom CRM"
-        },
-        {
-          "id": "61b9e89107222107a6c7a4bc",
-          "author": null,
-          "description": "JavaScript is a programming language that's used for a variety of purposes, including web development, web apps, game development, and more. JavaScript also lets you add dynamic features to web sites that you can't just achieve with HTML and CSS. Importance of JavaScriptJavaScript is the most important language you need",
-          "link": "https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript/",
-          "publishedOn": "2021-12-20T20:25:00.000Z",
-          "wordCount": 1675,
-          "title": "23 Free Websites to Learn JavaScript in 2022"
-        },
-        {
-          "id": "61bf7907297c7107e8ad9091",
-          "author": null,
-          "description": "Transferring files between machines is a very common operational task that you'll do all the time as a developer.  Linux provides a number of utilities to transfer files. In this tutorial we will discuss FTP and SCP. Many automated scripts also deploy FTP or SCP to move files. What is",
-          "link": "https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/",
-          "publishedOn": "2021-12-20T16:02:29.000Z",
-          "wordCount": 1029,
-          "title": "How to Transfer Files Between Servers in Linux using SCP and FTP"
-        },
-        {
-          "id": "61ba394407222107a6c7a7f3",
-          "author": null,
-          "description": "The impact of networks and technology continues to increase. Understanding technology makes it easier to function in an information-centric world. We just published a massive course about Internet history and technology on the freeCodeCamp.org YouTube channel. In this course you will learn how the Internet was created, who created",
-          "link": "https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/",
-          "publishedOn": "2021-12-20T14:10:44.000Z",
-          "wordCount": 590,
-          "title": "Learn the History of the Internet in Dr. Chuck&#x27;s 9-Hour Course"
-        },
-        {
-          "id": "61b9cd2a07222107a6c7a467",
-          "author": null,
-          "description": "Have you ever read your horoscope in the newspaper or seen it on television? Well, I'm not sure about other countries, but in my country of India, people still read their horoscopes.  And this is where I got the idea for this tutorial. It might sound a bit old-fashioned, but",
-          "link": "https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/",
-          "publishedOn": "2021-12-17T18:29:53.000Z",
-          "wordCount": 2449,
-          "title": "Python Project – How to Create a Horoscope API with Beautiful Soup and Flask"
-        },
-        {
-          "id": "60c08960d3126007592d56fd",
-          "author": null,
-          "description": "HTML(Hyper Text Markup Language) is one of the languages we use to create web applications. It adds structure to your web pages. HTML has various tags we use to create elements. And multiple elements come together to create meaningful web pages and applications. The anchor tag is one of",
-          "link": "https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/",
-          "publishedOn": "2021-12-17T17:47:31.000Z",
-          "wordCount": 2077,
-          "title": "The HTML &lt;a&gt; Tag – Anchor Tag Example Code"
         }
       ]
     }

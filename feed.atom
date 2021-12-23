@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-22T01:13:12.458Z</id>
+    <id>urn:2021-12-23T01:11:17.858Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-22T01:13:12.458Z</updated>
+    <updated>2021-12-23T01:11:17.858Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Personalize it!]]></title>
+        <id>https://css-tricks.com/?p=359033</id>
+        <link href="https://css-tricks.com/personalize-it/"/>
+        <updated>2021-12-23T00:10:06.000Z</updated>
+        <summary type="html"><![CDATA[Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…]]></summary>
+        <author>
+            <name>Una Kravets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Top 100 Free University Courses of the Year (Ranked by Popularity)]]></title>
+        <id>5fc5badb49c47664ed827efe</id>
+        <link href="https://www.freecodecamp.org/news/most-popular-free-online-courses/"/>
+        <updated>2021-12-22T22:44:00.000Z</updated>
+        <summary type="html"><![CDATA[An eternity ago in the year of 2012, a few Stanford professors decided to make their courses freely available online.  The media christened these courses "MOOCs" – Massive Open Online Courses. And they hailed 2012 as "Year of the MOOC." Now, a decade later, the MOOC ecosystem has reached 220M learners]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best WordPress Plugins – 15 Tools to Boost Your Productivity]]></title>
+        <id>61706bd9d48e1707b6d7923e</id>
+        <link href="https://www.freecodecamp.org/news/best-wordpress-plugins/"/>
+        <updated>2021-12-22T20:19:42.000Z</updated>
+        <summary type="html"><![CDATA[If you work with WordPress, then you know just how important a good stack of plugins is. They were designed to improve everything from media handling, and basic features to security and more.  You can have as many as you like, in theory, but don't go overboard. A good rule]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code RPG – A Visual Novel Video Game Where you Learn Computer Science Concepts]]></title>
+        <id>61bcf6e3297c7107e8ad8595</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg/"/>
+        <updated>2021-12-22T17:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in the tech industry, and pursue your dream of becoming a developer.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code RPG – Press Kit]]></title>
+        <id>61bd5001297c7107e8ad85a9</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-press-kit/"/>
+        <updated>2021-12-22T17:22:50.000Z</updated>
+        <summary type="html"><![CDATA[This is the press kit for the game, Learn to Code RPG.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Ember?]]></title>
+        <id>https://css-tricks.com/?p=359675</id>
+        <link href="https://css-tricks.com/why-ember/"/>
+        <updated>2021-12-22T16:10:40.000Z</updated>
+        <summary type="html"><![CDATA[There was a time when I’d write React, Angular, and Ember as a kind of generic grouping of three major JavaScript frameworks. And maybe just because three is a nice number, that became React, Vue, and Angular over time, thanks …]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Increase Your Reach]]></title>
+        <id>https://css-tricks.com/?p=358761</id>
+        <link href="https://css-tricks.com/increase-your-reach/"/>
+        <updated>2021-12-22T16:07:56.000Z</updated>
+        <summary type="html"><![CDATA[NGL, I was a little overwhelmed when I sat down to write this article. There are so many things that immediately flooded my mind—take out any extra divs; use links for URLs, use buttons for events and actions; use …]]></summary>
+        <author>
+            <name>Melanie Sumner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Extend Your Login Flow With Auth0 Actions]]></title>
+        <id>61b5033707222107a6c78b01</id>
+        <link href="https://www.freecodecamp.org/news/intro-to-auth0-actions/"/>
+        <updated>2021-12-22T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently attended a training session with the Auth0 Dev Rel team to learn about a cool new feature called Auth0 Actions.  In this article, I am going to explain what Auth0 Actions are, why you'd want to use them, and how to set one up. What are Auth0 Actions?]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful UX Guidelines, Tools And Resources]]></title>
+        <id>https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/</id>
+        <link href="https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/"/>
+        <updated>2021-12-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Links on Performance V]]></title>
         <id>https://css-tricks.com/?p=359146</id>
@@ -77,16 +167,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23 Free Websites to Learn JavaScript in 2022]]></title>
-        <id>61b9e89107222107a6c7a4bc</id>
-        <link href="https://www.freecodecamp.org/news/23-free-websites-to-learn-javascript/"/>
-        <updated>2021-12-20T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[JavaScript is a programming language that's used for a variety of purposes, including web development, web apps, game development, and more. JavaScript also lets you add dynamic features to web sites that you can't just achieve with HTML and CSS. Importance of JavaScriptJavaScript is the most important language you need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Auto Dark Theme]]></title>
         <id>https://css-tricks.com/?p=359017</id>
         <link href="https://css-tricks.com/auto-dark-theme/"/>
@@ -109,16 +189,6 @@ Say …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Transfer Files Between Servers in Linux using SCP and FTP]]></title>
-        <id>61bf7907297c7107e8ad9091</id>
-        <link href="https://www.freecodecamp.org/news/how-to-transfer-files-between-servers-in-linux-using-scp-and-ftp/"/>
-        <updated>2021-12-20T16:02:29.000Z</updated>
-        <summary type="html"><![CDATA[Transferring files between machines is a very common operational task that you'll do all the time as a developer.  Linux provides a number of utilities to transfer files. In this tutorial we will discuss FTP and SCP. Many automated scripts also deploy FTP or SCP to move files. What is]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Be Prepared for Failure and Handle it Gracefully]]></title>
         <id>https://css-tricks.com/?p=358037</id>
         <link href="https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/"/>
@@ -126,16 +196,6 @@ Say …]]></summary>
         <summary type="html"><![CDATA[When I was working at my first “real” job in the field in the mid-2000s, it was hammered in the web dev field to build tiny websites (no more than 100KB per page), only use JavaScript for special effects, and …]]></summary>
         <author>
             <name>Heather Migliorisi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn the History of the Internet in Dr. Chuck&#x27;s 9-Hour Course]]></title>
-        <id>61ba394407222107a6c7a7f3</id>
-        <link href="https://www.freecodecamp.org/news/learn-the-history-of-the-internet-in-dr-chucks/"/>
-        <updated>2021-12-20T14:10:44.000Z</updated>
-        <summary type="html"><![CDATA[The impact of networks and technology continues to increase. Understanding technology makes it easier to function in an information-centric world. We just published a massive course about Internet history and technology on the freeCodeCamp.org YouTube channel. In this course you will learn how the Internet was created, who created]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -162,26 +222,6 @@ In machine learning, computers apply statistical learning techniques to automa
 And what …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Project – How to Create a Horoscope API with Beautiful Soup and Flask]]></title>
-        <id>61b9cd2a07222107a6c7a467</id>
-        <link href="https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/"/>
-        <updated>2021-12-17T18:29:53.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever read your horoscope in the newspaper or seen it on television? Well, I'm not sure about other countries, but in my country of India, people still read their horoscopes.  And this is where I got the idea for this tutorial. It might sound a bit old-fashioned, but]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The HTML &lt;a&gt; Tag – Anchor Tag Example Code]]></title>
-        <id>60c08960d3126007592d56fd</id>
-        <link href="https://www.freecodecamp.org/news/the-html-a-tag-anchor-tag-example-code/"/>
-        <updated>2021-12-17T17:47:31.000Z</updated>
-        <summary type="html"><![CDATA[HTML(Hyper Text Markup Language) is one of the languages we use to create web applications. It adds structure to your web pages. HTML has various tags we use to create elements. And multiple elements come together to create meaningful web pages and applications. The anchor tag is one of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -264,36 +304,6 @@ Stefan Judis documents it clearly. …]]></summary>
         <summary type="html"><![CDATA[Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …]]></summary>
         <author>
             <name>Farai Gandiya</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe there kinda is background-opacity?]]></title>
-        <id>https://css-tricks.com/?p=359032</id>
-        <link href="https://css-tricks.com/maybe-there-kinda-is-background-opacity/"/>
-        <updated>2021-12-15T22:27:07.000Z</updated>
-        <summary type="html"><![CDATA[I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Vite Ecosystem]]></title>
-        <id>https://css-tricks.com/?p=359234</id>
-        <link href="https://css-tricks.com/the-vite-ecosystem/"/>
-        <updated>2021-12-15T20:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove Trackers]]></title>
-        <id>https://css-tricks.com/?p=358026</id>
-        <link href="https://css-tricks.com/remove-trackers/"/>
-        <updated>2021-12-15T15:20:14.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …]]></summary>
-        <author>
-            <name>Laura Kalbag</name>
         </author>
     </entry>
     <entry>
@@ -404,26 +414,6 @@ Stefan Judis documents it clearly. …]]></summary>
         <summary type="html"><![CDATA[Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adding A Dyslexia-Friendly Mode To A Website]]></title>
-        <id>https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/</id>
-        <link href="https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/"/>
-        <updated>2021-11-23T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (John C Barstow)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Workshops: Winter 2021]]></title>
-        <id>https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/</id>
-        <link href="https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/"/>
-        <updated>2021-11-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
