@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-23T01:11:17.858Z</id>
+    <id>urn:2021-12-24T01:10:18.890Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-23T01:11:17.858Z</updated>
+    <updated>2021-12-24T01:10:18.890Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Java Log4JShell Vulnerability – What I Learned About it This Week]]></title>
+        <id>61c3b72d755c160824909987</id>
+        <link href="https://www.freecodecamp.org/news/java-log4jshell-vulnerability/"/>
+        <updated>2021-12-23T21:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Last Thursday, a vulnerability was disclosed in the Log4J logging library affecting many Java applications worldwide.  The vulnerability is called Log4Shell (CVE-2021–44228). It allows an attacker to inject a crafted payload anywhere in the requests that get parsed and executed by the vulnerable application. There are a lot of]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remember You Are Not the User]]></title>
+        <id>https://css-tricks.com/?p=358936</id>
+        <link href="https://css-tricks.com/remember-you-are-not-the-user/"/>
+        <updated>2021-12-23T19:31:04.000Z</updated>
+        <summary type="html"><![CDATA[One thing people can do to make their websites better is to remember that you are not representative of all your users. Our life experiences and how we interact with the web are not indicative of how everyone interacts with …]]></summary>
+        <author>
+            <name>Emma Bostian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Code RPG – Full Soundtrack + How I Made It]]></title>
+        <id>61c49108755c160824909f76</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-soundtrack/"/>
+        <updated>2021-12-23T18:53:07.000Z</updated>
+        <summary type="html"><![CDATA[First: what you probably came here for. Here's the full soundtrack to Learn to Code RPG. 36 minutes of jazz. If you dig it, subscribe to my new music channel and leave a comment with feedback or your favorite track. I am currently uploading this to Spotify. How I Made]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 Roundup of Web Research]]></title>
+        <id>https://css-tricks.com/?p=359205</id>
+        <link href="https://css-tricks.com/2021-roundup-of-web-research/"/>
+        <updated>2021-12-23T18:34:04.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we kicked out a roundup of published surveys, research, and other findings from around the web. There were some nice nuggets in there, like a general sentiment that the web needs more documentation, Tailwind CSS dun …]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SVG + JavaScript Tutorial – How to Code an Animated Watch]]></title>
+        <id>61c1fc40755c160824908ad5</id>
+        <link href="https://www.freecodecamp.org/news/svg-javascript-tutorial/"/>
+        <updated>2021-12-23T17:19:15.000Z</updated>
+        <summary type="html"><![CDATA[Since SVG images can be inlined in HTML, we can manipulate them with JavaScript. This means that we can animate parts of an image from code, make it interactive, or turn things around and generate graphics from data. In this example, we are going to create a watch. We will]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Dual Boot Any Linux Distribution With Windows – and Get Rid of It When You Need To]]></title>
+        <id>61c3059b755c1608249092e9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/"/>
+        <updated>2021-12-23T16:32:46.000Z</updated>
+        <summary type="html"><![CDATA[Gone are the days when Linux and Windows were like two opposing forces. Microsoft has embraced the open-source community quite cordially in recent years, and as a result we have things like Windows Subsystem for Linux baked right into our Windows installations. That doesn't mean that we no longer need]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show, Don’t Tell]]></title>
+        <id>https://css-tricks.com/?p=357692</id>
+        <link href="https://css-tricks.com/show-dont-tell/"/>
+        <updated>2021-12-23T13:29:14.000Z</updated>
+        <summary type="html"><![CDATA[How much time do you spend designing the content presentation for your websites? When you write a new blog post or create a new page, are you thinking about just the words, or how your readers will engage with those …]]></summary>
+        <author>
+            <name>Mel Choyce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating A Custom Range Input That Looks Consistent Across All Browsers]]></title>
+        <id>https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/</id>
+        <link href="https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/"/>
+        <updated>2021-12-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Alyssa Holland)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a BinaryTreeViewer using C#, CSS, &amp; HTML (Code &amp; Algorithm Walkthrough)]]></title>
+        <id>61bd9cd6297c7107e8ad892a</id>
+        <link href="https://www.freecodecamp.org/news/binarytreeviewer-with-c-c-css-html-by-gilad-bar-ilan/"/>
+        <updated>2021-12-23T01:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Binary trees are one of the most complicated data structures out there. And one of the reasons they're so difficult is that it's hard to actually visualize them in a simple way. In this tutorial, I'll show you how to create your own BinaryTreeViewer which will allow you to watch]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Personalize it!]]></title>
         <id>https://css-tricks.com/?p=359033</id>
@@ -107,46 +197,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Set Up a Payment Gateway in Next.js and React with Razorpay and TailwindCSS]]></title>
-        <id>61c1702f755c160824908877</id>
-        <link href="https://www.freecodecamp.org/news/integrate-a-payment-gateway-in-next-js-and-react-with-razorpay-and-tailwindcss/"/>
-        <updated>2021-12-21T18:16:10.000Z</updated>
-        <summary type="html"><![CDATA[If you have an e-commerce application, a payment gateway lets you process payments on your website on the fly.  With all the modern payment gateway solutions available these days, there are many ways you can integrate payments and charge your users for your product or services.  In this tutorial, we]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Destructure Objects in JavaScript]]></title>
-        <id>61c13344755c1608249086b5</id>
-        <link href="https://www.freecodecamp.org/news/how-to-destructure-objects-javascript/"/>
-        <updated>2021-12-21T16:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Since ECMAScript 6 (or ES6 for short), you can descructure objects in JavaScript. As a JavaScript developer, you’ll likely destructure objects as part of your daily work.  Let's learn about why we use destructuring, and then we'll learn how to destructure JavaScript objects. Why destructure an object?Let's go]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a Back to Top Button and Page Progress Bar with HTML, CSS, and JavaScript]]></title>
-        <id>61bc5001297c7107e8ad7f94</id>
-        <link href="https://www.freecodecamp.org/news/back-to-top-button-and-page-progressbar-with-html-css-and-js/"/>
-        <updated>2021-12-21T16:39:02.000Z</updated>
-        <summary type="html"><![CDATA[You've probably seen a "back-to-top" button at the bottom-right corner on many websites when you're scrolling around. Clicking on that button takes you back to the top of the page.  This is a great feature to have on any website, and today we are going to see how to build]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Tasks with Azure Webjobs]]></title>
-        <id>61bfadd5aabf6478ea7460fc</id>
-        <link href="https://www.freecodecamp.org/news/how-to-automate-tasks-with-azure-webjobs/"/>
-        <updated>2021-12-21T16:33:48.000Z</updated>
-        <summary type="html"><![CDATA[When you work in IT operations, automation is a key part of your job.  You'll have various repetitive tasks you have to deal with, and you don’t want to waste your time doing something that can be done by a script.  Here are some great reasons to automate repetitive]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make Joyful Things]]></title>
         <id>https://css-tricks.com/?p=358690</id>
         <link href="https://css-tricks.com/make-joyful-things/"/>
@@ -154,16 +204,6 @@
         <summary type="html"><![CDATA[Everything kind of sucks right now. Things—generally—feel bad. Setting aside the broader realities of a global pandemic and rampant social injustices, we’re watching the identity of the web platform, an intrinsically free and open medium of creative expression, co-opted for …]]></summary>
         <author>
             <name>Eli Fitch</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Custom CRM]]></title>
-        <id>61c1ec91755c160824908a2e</id>
-        <link href="https://www.freecodecamp.org/news/build-a-crm/"/>
-        <updated>2021-12-21T15:11:44.000Z</updated>
-        <summary type="html"><![CDATA[A Customer Relationship Management (CRM) is a system that helps businesses organize and manage their customer relationships. It is basically a big database for customer information. Since every business is a little different, it can be helpful to create your own CRM to meet your exact needs. We just published]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -277,36 +317,6 @@ Stefan Judis documents it clearly. …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Topological sort]]></title>
-        <id>https://css-tricks.com/?p=359260</id>
-        <link href="https://css-tricks.com/topological-sort/"/>
-        <updated>2021-12-16T22:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Jordan Scales explores the computer science concept of topological sorting, and what it might look like if applied to the concept of  z-index in CSS. So, you don’t express what the z-index should be directly; instead, you say exactly …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML Sanitizer API]]></title>
-        <id>https://css-tricks.com/?p=359306</id>
-        <link href="https://css-tricks.com/html-sanitizer-api/"/>
-        <updated>2021-12-16T18:21:31.000Z</updated>
-        <summary type="html"><![CDATA[Three cheers for (draft stage) progress on a Sanitizer API! It’s gospel that you can’t trust user input. And indeed, any app I’ve ever worked on has dealt with bad actors trying to slip in and execute nefarious code …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Working With Web Feeds: It’s More Than RSS]]></title>
-        <id>https://css-tricks.com/?p=358576</id>
-        <link href="https://css-tricks.com/working-with-web-feeds-its-more-than-rss/"/>
-        <updated>2021-12-16T15:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …]]></summary>
-        <author>
-            <name>Farai Gandiya</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)]]></title>
         <id>https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/</id>
         <link href="https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/"/>
@@ -404,16 +414,6 @@ Stefan Judis documents it clearly. …]]></summary>
         <summary type="html"><![CDATA[In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nirmalya Ghosh)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Showcase Of Lovely Little Websites]]></title>
-        <id>https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/</id>
-        <link href="https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/"/>
-        <updated>2021-11-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
