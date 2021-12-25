@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-24T01:10:18.890Z</id>
+    <id>urn:2021-12-25T01:09:50.130Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-24T01:10:18.890Z</updated>
+    <updated>2021-12-25T01:09:50.130Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Strut Your Stuff With a Custom Scrollbar]]></title>
+        <id>https://css-tricks.com/?p=358956</id>
+        <link href="https://css-tricks.com/strut-your-stuff-with-a-custom-scrollbar/"/>
+        <updated>2021-12-24T22:58:49.000Z</updated>
+        <summary type="html"><![CDATA[The first time I had my breath taken away by a humble scrollbar was on this very site. When CSS-Tricks v17 rolled out with its FAT CHONKY BOI, my jaw dropped.
+I didn’t know you could do that on …]]></summary>
+        <author>
+            <name>Shawn Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Care for the Text]]></title>
+        <id>https://css-tricks.com/?p=358565</id>
+        <link href="https://css-tricks.com/care-for-the-text/"/>
+        <updated>2021-12-24T12:33:11.000Z</updated>
+        <summary type="html"><![CDATA[How do you make a great website? Everyone has an answer at the ready: Flashy animations! The latest punk-rock CSS trick! Gradients! Illustrations! Colors to pack a punch! Vite! And, sure, all these things might make a website better. But …]]></summary>
+        <author>
+            <name>Robin Rendle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Java Log4JShell Vulnerability – What I Learned About it This Week]]></title>
         <id>61c3b72d755c160824909987</id>
@@ -276,17 +297,6 @@ Our websites keep getting bigger and bigger! When we have a team with so many ex
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The surprising behavior of !important in CSS custom property values]]></title>
-        <id>https://css-tricks.com/?p=359430</id>
-        <link href="https://css-tricks.com/the-surprising-behavior-of-important-in-css-custom-property-values/"/>
-        <updated>2021-12-17T15:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Huh! I did not realize that CSS custom properties had their own resolution behavior for how !important works in their values. Uh, despite writing a guide about them. 😬 But hey it’s now updated.
-Stefan Judis documents it clearly. …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Designing Human-Machine Interfaces For Vehicles Of The Future]]></title>
         <id>https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/</id>
         <link href="https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/"/>
@@ -304,16 +314,6 @@ Stefan Judis documents it clearly. …]]></summary>
         <summary type="html"><![CDATA[In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Nwani Victory)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consistent, Fluidly Scaling Type and Spacing]]></title>
-        <id>https://css-tricks.com/?p=358029</id>
-        <link href="https://css-tricks.com/consistent-fluidly-scaling-type-and-spacing/"/>
-        <updated>2021-12-16T22:06:03.000Z</updated>
-        <summary type="html"><![CDATA[When Chris first sent me this prompt, I was thinking about writing about progressive enhancement, but that subject is so wide-reaching to be one thing and all too predictable, especially for those already familiar with my writing. Saying that, what …]]></summary>
-        <author>
-            <name>Andy Bell</name>
         </author>
     </entry>
     <entry>
