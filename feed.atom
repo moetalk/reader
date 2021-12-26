@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-25T01:09:50.130Z</id>
+    <id>urn:2021-12-26T01:15:31.097Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-25T01:09:50.130Z</updated>
+    <updated>2021-12-26T01:15:31.097Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application]]></title>
+        <id>61c4e1e6755c16082490a3fe</id>
+        <link href="https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/"/>
+        <updated>2021-12-25T21:32:22.000Z</updated>
+        <summary type="html"><![CDATA[A Three-tier web applications has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strut Your Stuff With a Custom Scrollbar]]></title>
         <id>https://css-tricks.com/?p=358956</id>
@@ -184,16 +194,6 @@ I didn’t know you could do that on …]]></summary>
         <summary type="html"><![CDATA[NGL, I was a little overwhelmed when I sat down to write this article. There are so many things that immediately flooded my mind—take out any extra divs; use links for URLs, use buttons for events and actions; use …]]></summary>
         <author>
             <name>Melanie Sumner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Extend Your Login Flow With Auth0 Actions]]></title>
-        <id>61b5033707222107a6c78b01</id>
-        <link href="https://www.freecodecamp.org/news/intro-to-auth0-actions/"/>
-        <updated>2021-12-22T15:46:00.000Z</updated>
-        <summary type="html"><![CDATA[I recently attended a training session with the Auth0 Dev Rel team to learn about a cool new feature called Auth0 Actions.  In this article, I am going to explain what Auth0 Actions are, why you'd want to use them, and how to set one up. What are Auth0 Actions?]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -404,16 +404,6 @@ Our websites keep getting bigger and bigger! When we have a team with so many ex
         <summary type="html"><![CDATA[One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Maintain A Large Next.js Application]]></title>
-        <id>https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/</id>
-        <link href="https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/"/>
-        <updated>2021-11-26T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Nirmalya Ghosh)</name>
         </author>
     </entry>
 </feed>
