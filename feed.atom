@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-27T01:15:52.957Z</id>
+    <id>urn:2021-12-28T01:11:19.123Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-27T01:15:52.957Z</updated>
+    <updated>2021-12-28T01:11:19.123Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update]]></title>
+        <id>61c9fcdc755c16082490bbcb</id>
+        <link href="https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/"/>
+        <updated>2021-12-27T22:16:19.000Z</updated>
+        <summary type="html"><![CDATA[We just published a significant overhaul of our Responsive Web Design Certification (the first of freeCodeCamp's 10 currently-live certifications). We also updated our code editor. Instead of coding lessons, you'll learn concepts and syntax through a series of 15 practice projects + 5 certification projects. Here is the full certification, which]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Julia For Beginners – The Future Programming Language of  Data Science and Machine Learning Explained]]></title>
+        <id>61c71ca4755c16082490adbc</id>
+        <link href="https://www.freecodecamp.org/news/learn-julia-programming-language/"/>
+        <updated>2021-12-27T17:13:56.000Z</updated>
+        <summary type="html"><![CDATA[Julia is a high-level, dynamic programming language, designed to give users the speed of C/C++ while remaining as easy to use as Python. This means that developers can solve problems faster and more effectively. Julia is great for computational complex problems. Many early adopters of Julia were concentrated in]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honor prefers-color-scheme in the CSS Paint API with Custom Properties]]></title>
+        <id>https://css-tricks.com/?p=359044</id>
+        <link href="https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/"/>
+        <updated>2021-12-27T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…]]></summary>
+        <author>
+            <name>Jeremy Wagner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Gatsby Themes For WordPress-Powered Websites]]></title>
+        <id>https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/</id>
+        <link href="https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/"/>
+        <updated>2021-12-27T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paulina Hetman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application]]></title>
         <id>61c4e1e6755c16082490a3fe</id>
@@ -157,26 +197,6 @@ I didn’t know you could do that on …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn to Code RPG – A Visual Novel Video Game Where you Learn Computer Science Concepts]]></title>
-        <id>61bcf6e3297c7107e8ad8595</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg/"/>
-        <updated>2021-12-22T17:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in the tech industry, and pursue your dream of becoming a developer.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Code RPG – Press Kit]]></title>
-        <id>61bd5001297c7107e8ad85a9</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-press-kit/"/>
-        <updated>2021-12-22T17:22:50.000Z</updated>
-        <summary type="html"><![CDATA[This is the press kit for the game, Learn to Code RPG.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Ember?]]></title>
         <id>https://css-tricks.com/?p=359675</id>
         <link href="https://css-tricks.com/why-ember/"/>
@@ -283,17 +303,6 @@ In machine learning, computers apply statistical learning techniques to automa
 And what …]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe Nothing]]></title>
-        <id>https://css-tricks.com/?p=357625</id>
-        <link href="https://css-tricks.com/maybe-nothing/"/>
-        <updated>2021-12-17T15:21:15.000Z</updated>
-        <summary type="html"><![CDATA[What’s one thing we can do to make our site better? Maybe nothing at all!
-Our websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …]]></summary>
-        <author>
-            <name>Jenn Lukas</name>
         </author>
     </entry>
     <entry>

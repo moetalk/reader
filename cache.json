@@ -12,12 +12,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359044",
+          "author": "Jeremy Wagner",
+          "description": "One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…",
+          "link": "https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/",
+          "publishedOn": "2021-12-27T14:39:00.000Z",
+          "wordCount": 1681,
+          "title": "Honor prefers-color-scheme in the CSS Paint API with Custom Properties"
+        },
+        {
           "id": "https://css-tricks.com/?p=358956",
           "author": "Shawn Wang",
           "description": "The first time I had my breath taken away by a humble scrollbar was on this very site. When CSS-Tricks v17 rolled out with its FAT CHONKY BOI, my jaw dropped.\nI didn’t know you could do that on …",
           "link": "https://css-tricks.com/strut-your-stuff-with-a-custom-scrollbar/",
           "publishedOn": "2021-12-24T22:58:49.000Z",
-          "wordCount": 772,
+          "wordCount": 1004,
           "title": "Strut Your Stuff With a Custom Scrollbar"
         },
         {
@@ -26,7 +35,7 @@
           "description": "How do you make a great website? Everyone has an answer at the ready: Flashy animations! The latest punk-rock CSS trick! Gradients! Illustrations! Colors to pack a punch! Vite! And, sure, all these things might make a website better. But …",
           "link": "https://css-tricks.com/care-for-the-text/",
           "publishedOn": "2021-12-24T12:33:11.000Z",
-          "wordCount": 1200,
+          "wordCount": 883,
           "title": "Care for the Text"
         },
         {
@@ -80,7 +89,7 @@
           "description": "NGL, I was a little overwhelmed when I sat down to write this article. There are so many things that immediately flooded my mind—take out any extra divs; use links for URLs, use buttons for events and actions; use …",
           "link": "https://css-tricks.com/increase-your-reach/",
           "publishedOn": "2021-12-22T16:07:56.000Z",
-          "wordCount": 1550,
+          "wordCount": 1638,
           "title": "Increase Your Reach"
         },
         {
@@ -107,7 +116,7 @@
           "description": "There are a number of ways to approach a dark mode for your website, but essentially you get all the styles ready for it and then apply them when the user has indicated they want them, whether by direct …",
           "link": "https://css-tricks.com/auto-dark-theme/",
           "publishedOn": "2021-12-20T18:34:47.000Z",
-          "wordCount": 1229,
+          "wordCount": 1149,
           "title": "Auto Dark Theme"
         },
         {
@@ -136,15 +145,6 @@
           "publishedOn": "2021-12-17T21:17:31.000Z",
           "wordCount": 568,
           "title": "A visual introduction to machine learning"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357625",
-          "author": "Jenn Lukas",
-          "description": "What’s one thing we can do to make our site better? Maybe nothing at all!\nOur websites keep getting bigger and bigger! When we have a team with so many exciting ideas and such interesting technology, it can be easy …",
-          "link": "https://css-tricks.com/maybe-nothing/",
-          "publishedOn": "2021-12-17T15:21:15.000Z",
-          "wordCount": 857,
-          "title": "Maybe Nothing"
         }
       ]
     },
@@ -154,12 +154,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
+          "author": "hello@smashingmagazine.com (Paulina Hetman)",
+          "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
+          "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
+          "publishedOn": "2021-12-27T10:30:00.000Z",
+          "wordCount": 4227,
+          "title": "Building Gatsby Themes For WordPress-Powered Websites",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "author": "hello@smashingmagazine.com (Alyssa Holland)",
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2608,
+          "wordCount": 2606,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -173,7 +187,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4182,
+          "wordCount": 4184,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -187,7 +201,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6021,
+          "wordCount": 6017,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -201,7 +215,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3394,
+          "wordCount": 3390,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -215,7 +229,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5451,
+          "wordCount": 5444,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -243,7 +257,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2072,
+          "wordCount": 2058,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -257,7 +271,7 @@
           "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
           "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "publishedOn": "2021-12-09T13:00:00.000Z",
-          "wordCount": 3564,
+          "wordCount": 3563,
           "title": "Free Christmas Icon Sets And Vector Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
@@ -271,7 +285,7 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2548,
+          "wordCount": 2546,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
@@ -285,7 +299,7 @@
           "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
           "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
           "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3182,
+          "wordCount": 3189,
           "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
@@ -299,7 +313,7 @@
           "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
           "link": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
           "publishedOn": "2021-12-02T09:30:00.000Z",
-          "wordCount": 2022,
+          "wordCount": 2024,
           "title": "How To Protect Your API Key In Production With Next.js API Route",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d0b2208c-15b4-4cdc-b050-033c4a4aa1b0/protect-api-key-production-nextjs-api-route.jpg",
@@ -327,7 +341,7 @@
           "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
           "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
           "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2812,
+          "wordCount": 2809,
           "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
@@ -341,7 +355,7 @@
           "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
           "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
           "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3235,
+          "wordCount": 3234,
           "title": "3D CSS Flippy Snaps With React And GreenSock",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
@@ -356,6 +370,24 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61c9fcdc755c16082490bbcb",
+          "author": null,
+          "description": "We just published a significant overhaul of our Responsive Web Design Certification (the first of freeCodeCamp's 10 currently-live certifications). We also updated our code editor. Instead of coding lessons, you'll learn concepts and syntax through a series of 15 practice projects + 5 certification projects. Here is the full certification, which",
+          "link": "https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/",
+          "publishedOn": "2021-12-27T22:16:19.000Z",
+          "wordCount": 1378,
+          "title": "Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update"
+        },
+        {
+          "id": "61c71ca4755c16082490adbc",
+          "author": null,
+          "description": "Julia is a high-level, dynamic programming language, designed to give users the speed of C/C++ while remaining as easy to use as Python. This means that developers can solve problems faster and more effectively. Julia is great for computational complex problems. Many early adopters of Julia were concentrated in",
+          "link": "https://www.freecodecamp.org/news/learn-julia-programming-language/",
+          "publishedOn": "2021-12-27T17:13:56.000Z",
+          "wordCount": 3344,
+          "title": "Learn Julia For Beginners – The Future Programming Language of  Data Science and Machine Learning Explained"
+        },
         {
           "id": "61c4e1e6755c16082490a3fe",
           "author": null,
@@ -427,24 +459,6 @@
           "publishedOn": "2021-12-22T20:19:42.000Z",
           "wordCount": 2766,
           "title": "Best WordPress Plugins – 15 Tools to Boost Your Productivity"
-        },
-        {
-          "id": "61bcf6e3297c7107e8ad8595",
-          "author": null,
-          "description": "Learn to Code RPG is an interactive visual novel game where you will teach yourself to code, make friends in the tech industry, and pursue your dream of becoming a developer.",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg/",
-          "publishedOn": "2021-12-22T17:23:00.000Z",
-          "wordCount": 1958,
-          "title": "Learn to Code RPG – A Visual Novel Video Game Where you Learn Computer Science Concepts"
-        },
-        {
-          "id": "61bd5001297c7107e8ad85a9",
-          "author": null,
-          "description": "This is the press kit for the game, Learn to Code RPG.",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-press-kit/",
-          "publishedOn": "2021-12-22T17:22:50.000Z",
-          "wordCount": 394,
-          "title": "Learn to Code RPG – Press Kit"
         }
       ]
     }
