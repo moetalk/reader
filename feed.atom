@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-28T01:11:19.123Z</id>
+    <id>urn:2021-12-29T01:10:50.035Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-28T01:11:19.123Z</updated>
+    <updated>2021-12-29T01:10:50.035Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Add a Service Worker to Your Site]]></title>
+        <id>https://css-tricks.com/?p=359055</id>
+        <link href="https://css-tricks.com/add-a-service-worker-to-your-site/"/>
+        <updated>2021-12-28T16:14:23.000Z</updated>
+        <summary type="html"><![CDATA[One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …]]></summary>
+        <author>
+            <name>Chris Ferdinandi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our favorite Chrome extensions of 2021]]></title>
+        <id>https://css-tricks.com/?p=359860</id>
+        <link href="https://css-tricks.com/our-favorite-chrome-extensions-of-2021/"/>
+        <updated>2021-12-28T16:11:35.000Z</updated>
+        <summary type="html"><![CDATA[I hadn’t heard of most of the Chrome extensions that Sarem Gizaw lists as 2021 favorites. Here are my hot takes on all of them, except the virtual learning specific ones that aren’t very relevant to me.
+LoomOh that’s 
+…]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update]]></title>
         <id>61c9fcdc755c16082490bbcb</id>
@@ -50,7 +72,7 @@
         <id>61c4e1e6755c16082490a3fe</id>
         <link href="https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/"/>
         <updated>2021-12-25T21:32:22.000Z</updated>
-        <summary type="html"><![CDATA[A Three-tier web applications has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda]]></summary>
+        <summary type="html"><![CDATA[A three-tier web application has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda]]></summary>
         <author>
             <name>freeCodeCamp.org</name>
         </author>
@@ -270,16 +292,6 @@ Say …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Be Prepared for Failure and Handle it Gracefully]]></title>
-        <id>https://css-tricks.com/?p=358037</id>
-        <link href="https://css-tricks.com/be-prepared-for-failure-and-handle-it-gracefully/"/>
-        <updated>2021-12-20T15:22:04.000Z</updated>
-        <summary type="html"><![CDATA[When I was working at my first “real” job in the field in the mid-2000s, it was hammered in the web dev field to build tiny websites (no more than 100KB per page), only use JavaScript for special effects, and …]]></summary>
-        <author>
-            <name>Heather Migliorisi</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Improving Core Web Vitals, A Smashing Magazine Case Study]]></title>
         <id>https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/</id>
         <link href="https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/"/>
@@ -287,22 +299,6 @@ Say …]]></summary>
         <summary type="html"><![CDATA[How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Barry Pollard)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A visual introduction to machine learning]]></title>
-        <id>https://css-tricks.com/?p=359489</id>
-        <link href="https://css-tricks.com/a-visual-introduction-to-machine-learning/"/>
-        <updated>2021-12-17T21:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Just the first sentence alone here from Stepanie Yee and Tony Chu is solid:
-In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.
-
-
-
-
-And what …]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -403,16 +399,6 @@ And what …]]></summary>
         <summary type="html"><![CDATA[Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D CSS Flippy Snaps With React And GreenSock]]></title>
-        <id>https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/</id>
-        <link href="https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/"/>
-        <updated>2021-11-29T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
         </author>
     </entry>
 </feed>
