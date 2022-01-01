@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-31T01:13:30.108Z</id>
+    <id>urn:2022-01-01T01:14:23.751Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-31T01:13:30.108Z</updated>
+    <updated>2022-01-01T01:14:23.752Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Defensive CSS]]></title>
+        <id>https://css-tricks.com/?p=360073</id>
+        <link href="https://css-tricks.com/defensive-css/"/>
+        <updated>2021-12-31T18:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
+More items than you thought would be there? No problem, the area can expand or …
+Defensive CSS originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Free Accredited Bachelor&#x27;s Degree in Computer Science – How Do We Get There?]]></title>
+        <id>61cb5f2f755c16082490be2f</id>
+        <link href="https://www.freecodecamp.org/news/free-accredited-bachelors-degrees-in-computer-science-how-do-we-get-there/"/>
+        <updated>2021-12-31T16:26:19.000Z</updated>
+        <summary type="html"><![CDATA[2021 has been a big year for the freeCodeCamp community: We provided more than 2.1 billion minutes of learning to millions of people around the world.We published our 300-hour Relational Database Certification teaching SQL, Linux, and Git interactively – right inside VS Code.We shipped a project-oriented learning overhaul]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Year, Fresh Desktop (January 2022 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/</id>
+        <link href="https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/"/>
+        <updated>2021-12-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Web is More Gooder, and Other Observations on Today’s Web Tech]]></title>
         <id>https://css-tricks.com/?p=359941</id>
@@ -273,16 +305,6 @@ Show, Don’t Tell originally published on CSS-Tricks]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Create a BinaryTreeViewer using C#, CSS, &amp; HTML (Code &amp; Algorithm Walkthrough)]]></title>
-        <id>61bd9cd6297c7107e8ad892a</id>
-        <link href="https://www.freecodecamp.org/news/binarytreeviewer-with-c-c-css-html-by-gilad-bar-ilan/"/>
-        <updated>2021-12-23T01:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Binary trees are one of the most complicated data structures out there. And one of the reasons they're so difficult is that it's hard to actually visualize them in a simple way. In this tutorial, I'll show you how to create your own BinaryTreeViewer which will allow you to watch]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Personalize it!]]></title>
         <id>https://css-tricks.com/?p=359033</id>
         <link href="https://css-tricks.com/personalize-it/"/>
@@ -291,17 +313,6 @@ Show, Don’t Tell originally published on CSS-Tricks]]></summary>
 Personalize it! originally published on CSS-Tricks]]></summary>
         <author>
             <name>Una Kravets</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Ember?]]></title>
-        <id>https://css-tricks.com/?p=359675</id>
-        <link href="https://css-tricks.com/why-ember/"/>
-        <updated>2021-12-22T16:10:40.000Z</updated>
-        <summary type="html"><![CDATA[There was a time when I’d write React, Angular, and Ember as a kind of generic grouping of three major JavaScript frameworks. And maybe just because three is a nice number, that became React, Vue, and Angular over time, thanks …
-Why Ember? originally published on CSS-Tricks]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -392,16 +403,6 @@ Why Ember? originally published on CSS-Tricks]]></summary>
         <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Protect Your API Key In Production With Next.js API Route]]></title>
-        <id>https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/</id>
-        <link href="https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/"/>
-        <updated>2021-12-02T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Caleb Olojo)</name>
         </author>
     </entry>
 </feed>
