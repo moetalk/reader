@@ -12,6 +12,15 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=359698",
+          "author": "Chris Coyier",
+          "description": "The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)\nThanks for stopping by and reading this site. If you didn’t, I’d be out …\nThank You (2021 Edition) originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/thank-you-2021-edition/",
+          "publishedOn": "2022-01-01T17:50:59.000Z",
+          "wordCount": 2856,
+          "title": "Thank You (2021 Edition)"
+        },
+        {
           "id": "https://css-tricks.com/?p=360073",
           "author": "Chris Coyier",
           "description": "Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. \nMore items than you thought would be there? No problem, the area can expand or …\nDefensive CSS originally published on CSS-Tricks",
@@ -26,7 +35,7 @@
           "description": "I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …\nThe Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks",
           "link": "https://css-tricks.com/the-web-is-more-gooder-and-other-observations-on-todays-web-tech/",
           "publishedOn": "2021-12-30T20:08:07.000Z",
-          "wordCount": 695,
+          "wordCount": 751,
           "title": "The Web is More Gooder, and Other Observations on Today’s Web Tech"
         },
         {
@@ -146,15 +155,6 @@
           "publishedOn": "2021-12-23T13:29:14.000Z",
           "wordCount": 1719,
           "title": "Show, Don’t Tell"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359033",
-          "author": "Una Kravets",
-          "description": "Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…\nPersonalize it! originally published on CSS-Tricks",
-          "link": "https://css-tricks.com/personalize-it/",
-          "publishedOn": "2021-12-23T00:10:06.000Z",
-          "wordCount": 820,
-          "title": "Personalize it!"
         }
       ]
     },
@@ -169,7 +169,7 @@
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2376,
+          "wordCount": 2380,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -183,7 +183,7 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2479,
+          "wordCount": 2472,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b30344-817f-4450-83d8-850f086a9b61/how-price-projects-manage-scope-screep.jpg",
@@ -211,7 +211,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2624,
+          "wordCount": 2621,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -239,7 +239,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6036,
+          "wordCount": 6031,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -253,7 +253,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3416,
+          "wordCount": 3417,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -267,7 +267,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5468,
+          "wordCount": 5462,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -295,7 +295,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2089,
+          "wordCount": 2079,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -309,7 +309,7 @@
           "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
           "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "publishedOn": "2021-12-09T13:00:00.000Z",
-          "wordCount": 3578,
+          "wordCount": 3579,
           "title": "Free Christmas Icon Sets And Vector Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
@@ -323,26 +323,12 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2563,
+          "wordCount": 2574,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
             "length": "0",
             "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
-          "link": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
-          "publishedOn": "2021-12-02T14:00:43.000Z",
-          "wordCount": 3201,
-          "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png",
-            "length": "0",
-            "type": "image/png"
           }
         }
       ]

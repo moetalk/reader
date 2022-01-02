@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-01T01:14:23.751Z</id>
+    <id>urn:2022-01-02T01:15:47.126Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-01T01:14:23.752Z</updated>
+    <updated>2022-01-02T01:15:47.126Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Thank You (2021 Edition)]]></title>
+        <id>https://css-tricks.com/?p=359698</id>
+        <link href="https://css-tricks.com/thank-you-2021-edition/"/>
+        <updated>2022-01-01T17:50:59.000Z</updated>
+        <summary type="html"><![CDATA[The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)
+Thanks for stopping by and reading this site. If you didn’t, I’d be out …
+Thank You (2021 Edition) originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Defensive CSS]]></title>
         <id>https://css-tricks.com/?p=360073</id>
@@ -305,17 +317,6 @@ Show, Don’t Tell originally published on CSS-Tricks]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Personalize it!]]></title>
-        <id>https://css-tricks.com/?p=359033</id>
-        <link href="https://css-tricks.com/personalize-it/"/>
-        <updated>2021-12-23T00:10:06.000Z</updated>
-        <summary type="html"><![CDATA[Ensuring accessibility is a clear path to making your website better. When you make your site accessible, you grow your audience, improve the experience for all people using it (not just those with accessibility needs), and you get SEO benefits…
-Personalize it! originally published on CSS-Tricks]]></summary>
-        <author>
-            <name>Una Kravets</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Useful UX Guidelines, Tools And Resources]]></title>
         <id>https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/</id>
         <link href="https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/"/>
@@ -393,16 +394,6 @@ Personalize it! originally published on CSS-Tricks]]></summary>
         <summary type="html"><![CDATA[There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Slava Shestopalov)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Advent Calendars For Web Designers And Developers (December 2021 Edition)]]></title>
-        <id>https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/</id>
-        <link href="https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/"/>
-        <updated>2021-12-02T14:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Iris Lješnjanin)</name>
         </author>
     </entry>
 </feed>
