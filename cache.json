@@ -12,12 +12,30 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=360385",
+          "author": "Chris Coyier",
+          "description": "Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …\nCSS-Based Fingerprinting originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/css-based-fingerprinting/",
+          "publishedOn": "2022-01-03T21:45:10.000Z",
+          "wordCount": 819,
+          "title": "CSS-Based Fingerprinting"
+        },
+        {
+          "id": "https://css-tricks.com/?p=359615",
+          "author": "Lars Kölker",
+          "description": "I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …\nHow to Create a Browser Extension originally published on CSS-Tricks",
+          "link": "https://css-tricks.com/how-to-create-a-browser-extension/",
+          "publishedOn": "2022-01-03T15:12:31.000Z",
+          "wordCount": 4633,
+          "title": "How to Create a Browser Extension"
+        },
+        {
           "id": "https://css-tricks.com/?p=359698",
           "author": "Chris Coyier",
           "description": "The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)\nThanks for stopping by and reading this site. If you didn’t, I’d be out …\nThank You (2021 Edition) originally published on CSS-Tricks",
           "link": "https://css-tricks.com/thank-you-2021-edition/",
           "publishedOn": "2022-01-01T17:50:59.000Z",
-          "wordCount": 3100,
+          "wordCount": 3105,
           "title": "Thank You (2021 Edition)"
         },
         {
@@ -26,7 +44,7 @@
           "description": "Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. \nMore items than you thought would be there? No problem, the area can expand or …\nDefensive CSS originally published on CSS-Tricks",
           "link": "https://css-tricks.com/defensive-css/",
           "publishedOn": "2021-12-31T18:41:47.000Z",
-          "wordCount": 593,
+          "wordCount": 678,
           "title": "Defensive CSS"
         },
         {
@@ -137,24 +155,6 @@
           "publishedOn": "2021-12-23T19:31:04.000Z",
           "wordCount": 501,
           "title": "Remember You Are Not the User"
-        },
-        {
-          "id": "https://css-tricks.com/?p=359205",
-          "author": "Geoff Graham",
-          "description": "Last year, we kicked out a roundup of published surveys, research, and other findings from around the web. There were some nice nuggets in there, like a general sentiment that the web needs more documentation, Tailwind CSS dun …\n2021 Roundup of Web Research originally published on CSS-Tricks",
-          "link": "https://css-tricks.com/2021-roundup-of-web-research/",
-          "publishedOn": "2021-12-23T18:34:04.000Z",
-          "wordCount": 4777,
-          "title": "2021 Roundup of Web Research"
-        },
-        {
-          "id": "https://css-tricks.com/?p=357692",
-          "author": "Mel Choyce",
-          "description": "How much time do you spend designing the content presentation for your websites? When you write a new blog post or create a new page, are you thinking about just the words, or how your readers will engage with those …\nShow, Don’t Tell originally published on CSS-Tricks",
-          "link": "https://css-tricks.com/show-dont-tell/",
-          "publishedOn": "2021-12-23T13:29:14.000Z",
-          "wordCount": 1719,
-          "title": "Show, Don’t Tell"
         }
       ]
     },
@@ -164,12 +164,26 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "author": "hello@smashingmagazine.com (Aleksandra Nagornaia)",
+          "description": "Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.",
+          "link": "https://smashingmagazine.com/2022/01/composition-based-design-system-figma/",
+          "publishedOn": "2022-01-03T13:00:00.000Z",
+          "wordCount": 2639,
+          "title": "Composition-Based Design System In Figma",
+          "enclosure": {
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/671611c3-eaf7-427e-9e5d-1bb74fbf62f5/composition-based-design-system-figma.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          }
+        },
+        {
           "id": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "What better way could there be to start the new year than with some fresh inspiration? Our collection of wallpapers for January 2022 is bound to put a smile on your face — and maybe spark new ideas, too.",
           "link": "https://smashingmagazine.com/2021/12/desktop-wallpaper-calendars-january-2022/",
           "publishedOn": "2021-12-31T09:00:00.000Z",
-          "wordCount": 2374,
+          "wordCount": 2385,
           "title": "New Year, Fresh Desktop (January 2022 Wallpapers Edition)",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55a76925-9960-4444-a72c-72d8738d5ac8/jan-22-new-years-magic-preview-opt.png",
@@ -183,10 +197,10 @@
           "description": "Scoping, estimating, and running digital projects can often feel like an exercise in futility. In this article, Paul Boag explains why you need to start breaking your projects down into manageable phases and why that’s the best way to achieve significant benefits.",
           "link": "https://smashingmagazine.com/2021/12/how-price-projects-manage-scope-screep/",
           "publishedOn": "2021-12-29T10:30:00.000Z",
-          "wordCount": 2471,
+          "wordCount": 2468,
           "title": "How To Price Projects And Manage Scope Creep",
           "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/32b30344-817f-4450-83d8-850f086a9b61/how-price-projects-manage-scope-screep.jpg",
+            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/79f24890-00d9-4d5a-9ae1-405097b24371/price-projects-manage-scope-creep.jpg",
             "length": "0",
             "type": "image/jpg"
           }
@@ -197,7 +211,7 @@
           "description": "Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.",
           "link": "https://smashingmagazine.com/2021/12/building-gatsby-themes-wordpress-powered-websites/",
           "publishedOn": "2021-12-27T10:30:00.000Z",
-          "wordCount": 4240,
+          "wordCount": 4248,
           "title": "Building Gatsby Themes For WordPress-Powered Websites",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5b60a4b-63f6-47e2-a9aa-33faa3e9ca9e/building-gatsby-themes-wordpress-powered-websites.jpg",
@@ -211,7 +225,7 @@
           "description": "Range inputs have notoriously been a pain to style. Each browser renders the input differently requiring you to use vendor prefixes in order to create a cohesive look and feel. In this article, we’ll take a look at the quirkiness of the HTML range input and demonstrate how to style the input to look consistent across all major browsers.",
           "link": "https://smashingmagazine.com/2021/12/create-custom-range-input-consistent-browsers/",
           "publishedOn": "2021-12-23T11:00:00.000Z",
-          "wordCount": 2625,
+          "wordCount": 2623,
           "title": "Creating A Custom Range Input That Looks Consistent Across All Browsers",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0deb2d53-1482-44c1-bf77-4dcc92ce3cd5/create-custom-range-input-consistent-browsers.jpg",
@@ -225,7 +239,7 @@
           "description": "A meaningful user experience is what can set your site apart from others. But what makes an experience truly meaningful? And how to achieve that? The tools, tips, and resources in this post not only help you to come up with a UX strategy that works for you and your team but also to circumvent potential UX pitfalls.",
           "link": "https://smashingmagazine.com/2021/12/tools-tips-resources-to-build-better-user-experiences/",
           "publishedOn": "2021-12-22T10:00:00.000Z",
-          "wordCount": 4202,
+          "wordCount": 4199,
           "title": "Useful UX Guidelines, Tools And Resources",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb38ba21-df76-4d15-b7ef-bbda38aeea6b/laws-of-ux-opt.png",
@@ -239,7 +253,7 @@
           "description": "How to improve Core Web Vitals, a Smashing Magazine case study on how we detected and fixed the bottlenecks, and how we ended up with green scores, all the way.",
           "link": "https://smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine/",
           "publishedOn": "2021-12-20T05:30:00.000Z",
-          "wordCount": 6035,
+          "wordCount": 6034,
           "title": "Improving Core Web Vitals, A Smashing Magazine Case Study",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/88f0021e-6f6e-4570-954f-eab757e4485b/core-web-vitals-case-study-smashing-magazine.jpg",
@@ -253,7 +267,7 @@
           "description": "Modern HMIs are transforming the way we interact with our vehicles. A car becomes a gadget that we use in a similar way as we use our phones. Users expect a lot of HMI, they even evaluate car experience based on the experience they have with HMI. In this article, let’s look at some ways to help us satisfy users’ needs with proper design.",
           "link": "https://smashingmagazine.com/2021/12/designing-human-machine-interfaces-future-vehicles/",
           "publishedOn": "2021-12-17T14:30:00.000Z",
-          "wordCount": 3411,
+          "wordCount": 3414,
           "title": "Designing Human-Machine Interfaces For Vehicles Of The Future",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3d9f919a-44bf-46ef-bfff-ee673c58e83f/designing-human-machine-interfaces-future-vehicles.jpg",
@@ -267,7 +281,7 @@
           "description": "In every software-as-a-service solution, user billing and payments are key aspects in the sale of services rendered. Let’s learn about Stripe and how the REST API can be programmatically used in serverless functions to manage the billing for an application.",
           "link": "https://smashingmagazine.com/2021/12/billing-management-saas-stripe-azure-functions/",
           "publishedOn": "2021-12-17T13:30:00.000Z",
-          "wordCount": 5460,
+          "wordCount": 5473,
           "title": "Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/346f3641-b7be-486d-8ac9-327ffe00e232/billing-management-saas-stripe-azure-functions.jpg",
@@ -295,7 +309,7 @@
           "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
           "link": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
           "publishedOn": "2021-12-14T10:30:00.000Z",
-          "wordCount": 2092,
+          "wordCount": 2079,
           "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8590d77e-8181-4d36-9e2e-d4e9c76a893a/headers-https-requests-ui-automation-testing.jpg",
@@ -309,7 +323,7 @@
           "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
           "link": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
           "publishedOn": "2021-12-09T13:00:00.000Z",
-          "wordCount": 3576,
+          "wordCount": 3577,
           "title": "Free Christmas Icon Sets And Vector Elements",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55b58da3-94e0-4060-b3cd-11540fb52672/hohoho-icons-opt.png",
@@ -323,7 +337,7 @@
           "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
           "link": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
           "publishedOn": "2021-12-06T17:30:00.000Z",
-          "wordCount": 2569,
+          "wordCount": 2563,
           "title": "Designing Better Links For Websites And Emails: A Guideline",
           "enclosure": {
             "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b157db62-e93c-4607-9c84-698fad4da3b3/designing-better-links-websites-emails-guideline.jpg",
@@ -338,6 +352,69 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "61cfe874a7001508889339e4",
+          "author": null,
+          "description": "In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them",
+          "link": "https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/",
+          "publishedOn": "2022-01-04T00:31:54.000Z",
+          "wordCount": 3582,
+          "title": "How Web Workers Work in JavaScript – With a Practical JS Example"
+        },
+        {
+          "id": "61bd0e47297c7107e8ad859b",
+          "author": null,
+          "description": "HTML is the backbone of any website. It's the first thing people see. Without it, there would be no website.  Because of this, it's important that you stick to good coding practices. If you don't follow the best practices, you will create a bad user experience for the web user.",
+          "link": "https://www.freecodecamp.org/news/html-best-practices/",
+          "publishedOn": "2022-01-03T23:42:00.000Z",
+          "wordCount": 1739,
+          "title": "HTML Best Practices – How to Build a Better HTML-Based Website"
+        },
+        {
+          "id": "61b0b0b1946db661defb8a7c",
+          "author": null,
+          "description": "It is difficult to imagine a business that operates without at least some basic IT infrastructure.  Digital solutions and hardware that are linked together help boost a company's productivity. And good infrastructure improves internal processes and communication between different departments. IT infrastructure is based on various components that aim to",
+          "link": "https://www.freecodecamp.org/news/what-is-it-infrastructure/",
+          "publishedOn": "2022-01-03T22:24:55.000Z",
+          "wordCount": 1822,
+          "title": "What is IT Infrastructure? A Beginner&#x27;s Guide"
+        },
+        {
+          "id": "61c5d090755c16082490a758",
+          "author": null,
+          "description": "Having a \"back to top\" button on a website is important. It allows users to easily scroll back to the top of the page.  Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how",
+          "link": "https://www.freecodecamp.org/news/css-only-back-to-top-button/",
+          "publishedOn": "2022-01-03T21:18:12.000Z",
+          "wordCount": 1612,
+          "title": "How to Make an Animated Back to Top Button Using Only CSS"
+        },
+        {
+          "id": "61c823d0755c16082490af8f",
+          "author": null,
+          "description": "In this tutorial, we will build a URL shortener using Flask. This tool takes any URL and generates a shorter, more readable version like bit.ly.  The application will allow users to enter a URL and an optional custom short id and generate a shorter version. Here's what we're going",
+          "link": "https://www.freecodecamp.org/news/python-tutorial-how-to-create-a-url-shortener-using-flask/",
+          "publishedOn": "2022-01-03T18:26:36.000Z",
+          "wordCount": 3451,
+          "title": "Python Tutorial – How to Create a URL Shortener using Flask"
+        },
+        {
+          "id": "61bf7fab297c7107e8ad90d5",
+          "author": null,
+          "description": "When you start learning to code, one of the questions you probably ask yourself is \"What lannguage should I learn first?\"  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing",
+          "link": "https://www.freecodecamp.org/news/computer-coding-computer-program-definition-and-code-meaning/",
+          "publishedOn": "2022-01-03T17:32:46.000Z",
+          "wordCount": 2398,
+          "title": "Computer Coding – Computer Program Definition and Code Meaning"
+        },
+        {
+          "id": "61b207db946db661defb945e",
+          "author": null,
+          "description": "Java is a really popular programming language that has been around for over 25+ years. If you are interested in learning Java, then there are plenty of free online courses to choose from. Java Tutorial for Beginners - Programming with MoshJava Course - SoloLearnJava Programming: Solving Problems with Software -",
+          "link": "https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/",
+          "publishedOn": "2022-01-03T17:06:06.000Z",
+          "wordCount": 548,
+          "title": "Learn Java – Free Java Courses for Beginners"
+        },
         {
           "id": "61cb5f2f755c16082490be2f",
           "author": null,
@@ -364,69 +441,6 @@
           "publishedOn": "2021-12-30T14:56:08.000Z",
           "wordCount": 1572,
           "title": "The Top freeCodeCamp Contributors of 2021"
-        },
-        {
-          "id": "61c9fcdc755c16082490bbcb",
-          "author": null,
-          "description": "We just published a significant overhaul of our Responsive Web Design Certification (the first of freeCodeCamp's 10 currently-live certifications). We also updated our code editor. Instead of coding lessons, you'll learn concepts and syntax through a series of 15 practice projects + 5 certification projects. Here is the full certification, which",
-          "link": "https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/",
-          "publishedOn": "2021-12-27T22:16:19.000Z",
-          "wordCount": 1378,
-          "title": "Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update"
-        },
-        {
-          "id": "61c71ca4755c16082490adbc",
-          "author": null,
-          "description": "Julia is a high-level, dynamic programming language, designed to give users the speed of C/C++ while remaining as easy to use as Python. This means that developers can solve problems faster and more effectively. Julia is great for computational complex problems. Many early adopters of Julia were concentrated in",
-          "link": "https://www.freecodecamp.org/news/learn-julia-programming-language/",
-          "publishedOn": "2021-12-27T17:13:56.000Z",
-          "wordCount": 3344,
-          "title": "Learn Julia For Beginners – The Future Programming Language of  Data Science and Machine Learning Explained"
-        },
-        {
-          "id": "61c4e1e6755c16082490a3fe",
-          "author": null,
-          "description": "A three-tier web application has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda",
-          "link": "https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/",
-          "publishedOn": "2021-12-25T21:32:22.000Z",
-          "wordCount": 4026,
-          "title": "AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application"
-        },
-        {
-          "id": "61c3b72d755c160824909987",
-          "author": null,
-          "description": "Last Thursday, a vulnerability was disclosed in the Log4J logging library affecting many Java applications worldwide.  The vulnerability is called Log4Shell (CVE-2021–44228). It allows an attacker to inject a crafted payload anywhere in the requests that get parsed and executed by the vulnerable application. There are a lot of",
-          "link": "https://www.freecodecamp.org/news/java-log4jshell-vulnerability/",
-          "publishedOn": "2021-12-23T21:01:00.000Z",
-          "wordCount": 1376,
-          "title": "Java Log4JShell Vulnerability – What I Learned About it This Week"
-        },
-        {
-          "id": "61c49108755c160824909f76",
-          "author": null,
-          "description": "First: what you probably came here for. Here's the full soundtrack to Learn to Code RPG. 36 minutes of jazz. If you dig it, subscribe to my new music channel and leave a comment with feedback or your favorite track. I am currently uploading this to Spotify. How I Made",
-          "link": "https://www.freecodecamp.org/news/learn-to-code-rpg-soundtrack/",
-          "publishedOn": "2021-12-23T18:53:07.000Z",
-          "wordCount": 851,
-          "title": "Learn to Code RPG – Full Soundtrack + How I Made It"
-        },
-        {
-          "id": "61c1fc40755c160824908ad5",
-          "author": null,
-          "description": "Since SVG images can be inlined in HTML, we can manipulate them with JavaScript. This means that we can animate parts of an image from code, make it interactive, or turn things around and generate graphics from data. In this example, we are going to create a watch. We will",
-          "link": "https://www.freecodecamp.org/news/svg-javascript-tutorial/",
-          "publishedOn": "2021-12-23T17:19:15.000Z",
-          "wordCount": 2390,
-          "title": "SVG + JavaScript Tutorial – How to Code an Animated Watch"
-        },
-        {
-          "id": "61c3059b755c1608249092e9",
-          "author": null,
-          "description": "Gone are the days when Linux and Windows were like two opposing forces. Microsoft has embraced the open-source community quite cordially in recent years, and as a result we have things like Windows Subsystem for Linux baked right into our Windows installations. That doesn't mean that we no longer need",
-          "link": "https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/",
-          "publishedOn": "2021-12-23T16:32:46.000Z",
-          "wordCount": 3744,
-          "title": "How to Dual Boot Any Linux Distribution With Windows – and Get Rid of It When You Need To"
         }
       ]
     }

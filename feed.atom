@@ -1,10 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-03T01:12:09.607Z</id>
+    <id>urn:2022-01-04T01:13:18.279Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-03T01:12:09.607Z</updated>
+    <updated>2022-01-04T01:13:18.279Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How Web Workers Work in JavaScript – With a Practical JS Example]]></title>
+        <id>61cfe874a7001508889339e4</id>
+        <link href="https://www.freecodecamp.org/news/how-webworkers-work-in-javascript-with-example/"/>
+        <updated>2022-01-04T00:31:54.000Z</updated>
+        <summary type="html"><![CDATA[In this article, I will walk you through an example that will show you how web workers function in JavaScript with the help of WebSockets.  I think it's helpful to work with a practical use case because it is much simpler to understand the concepts when you can relate them]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTML Best Practices – How to Build a Better HTML-Based Website]]></title>
+        <id>61bd0e47297c7107e8ad859b</id>
+        <link href="https://www.freecodecamp.org/news/html-best-practices/"/>
+        <updated>2022-01-03T23:42:00.000Z</updated>
+        <summary type="html"><![CDATA[HTML is the backbone of any website. It's the first thing people see. Without it, there would be no website.  Because of this, it's important that you stick to good coding practices. If you don't follow the best practices, you will create a bad user experience for the web user.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is IT Infrastructure? A Beginner&#x27;s Guide]]></title>
+        <id>61b0b0b1946db661defb8a7c</id>
+        <link href="https://www.freecodecamp.org/news/what-is-it-infrastructure/"/>
+        <updated>2022-01-03T22:24:55.000Z</updated>
+        <summary type="html"><![CDATA[It is difficult to imagine a business that operates without at least some basic IT infrastructure.  Digital solutions and hardware that are linked together help boost a company's productivity. And good infrastructure improves internal processes and communication between different departments. IT infrastructure is based on various components that aim to]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS-Based Fingerprinting]]></title>
+        <id>https://css-tricks.com/?p=360385</id>
+        <link href="https://css-tricks.com/css-based-fingerprinting/"/>
+        <updated>2022-01-03T21:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
+CSS-Based Fingerprinting originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Make an Animated Back to Top Button Using Only CSS]]></title>
+        <id>61c5d090755c16082490a758</id>
+        <link href="https://www.freecodecamp.org/news/css-only-back-to-top-button/"/>
+        <updated>2022-01-03T21:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Having a "back to top" button on a website is important. It allows users to easily scroll back to the top of the page.  Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Tutorial – How to Create a URL Shortener using Flask]]></title>
+        <id>61c823d0755c16082490af8f</id>
+        <link href="https://www.freecodecamp.org/news/python-tutorial-how-to-create-a-url-shortener-using-flask/"/>
+        <updated>2022-01-03T18:26:36.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we will build a URL shortener using Flask. This tool takes any URL and generates a shorter, more readable version like bit.ly.  The application will allow users to enter a URL and an optional custom short id and generate a shorter version. Here's what we're going]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Coding – Computer Program Definition and Code Meaning]]></title>
+        <id>61bf7fab297c7107e8ad90d5</id>
+        <link href="https://www.freecodecamp.org/news/computer-coding-computer-program-definition-and-code-meaning/"/>
+        <updated>2022-01-03T17:32:46.000Z</updated>
+        <summary type="html"><![CDATA[When you start learning to code, one of the questions you probably ask yourself is "What lannguage should I learn first?"  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Java – Free Java Courses for Beginners]]></title>
+        <id>61b207db946db661defb945e</id>
+        <link href="https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/"/>
+        <updated>2022-01-03T17:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Java is a really popular programming language that has been around for over 25+ years. If you are interested in learning Java, then there are plenty of free online courses to choose from. Java Tutorial for Beginners - Programming with MoshJava Course - SoloLearnJava Programming: Solving Problems with Software -]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Browser Extension]]></title>
+        <id>https://css-tricks.com/?p=359615</id>
+        <link href="https://css-tricks.com/how-to-create-a-browser-extension/"/>
+        <updated>2022-01-03T15:12:31.000Z</updated>
+        <summary type="html"><![CDATA[I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
+How to Create a Browser Extension originally published on CSS-Tricks]]></summary>
+        <author>
+            <name>Lars Kölker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Composition-Based Design System In Figma]]></title>
+        <id>https://smashingmagazine.com/2022/01/composition-based-design-system-figma/</id>
+        <link href="https://smashingmagazine.com/2022/01/composition-based-design-system-figma/"/>
+        <updated>2022-01-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Figma has advanced enough where it now supports some powerful concepts that can help with the flexibility and maintainability of a design system. In this article, Sasha explains why she finds the Systems Designer position so rewarding — and it’s not only because of how fast certain tools have developed to help her master challenges she faces in her work projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Aleksandra Nagornaia)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thank You (2021 Edition)]]></title>
         <id>https://css-tricks.com/?p=359698</id>
@@ -160,26 +262,6 @@ Our favorite Chrome extensions of 2021 originally published on CSS-Tricks]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update]]></title>
-        <id>61c9fcdc755c16082490bbcb</id>
-        <link href="https://www.freecodecamp.org/news/responsive-web-design-certification-redesigned/"/>
-        <updated>2021-12-27T22:16:19.000Z</updated>
-        <summary type="html"><![CDATA[We just published a significant overhaul of our Responsive Web Design Certification (the first of freeCodeCamp's 10 currently-live certifications). We also updated our code editor. Instead of coding lessons, you'll learn concepts and syntax through a series of 15 practice projects + 5 certification projects. Here is the full certification, which]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Julia For Beginners – The Future Programming Language of  Data Science and Machine Learning Explained]]></title>
-        <id>61c71ca4755c16082490adbc</id>
-        <link href="https://www.freecodecamp.org/news/learn-julia-programming-language/"/>
-        <updated>2021-12-27T17:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Julia is a high-level, dynamic programming language, designed to give users the speed of C/C++ while remaining as easy to use as Python. This means that developers can solve problems faster and more effectively. Julia is great for computational complex problems. Many early adopters of Julia were concentrated in]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Honor prefers-color-scheme in the CSS Paint API with Custom Properties]]></title>
         <id>https://css-tricks.com/?p=359044</id>
         <link href="https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/"/>
@@ -198,16 +280,6 @@ Honor prefers-color-scheme in the CSS Paint API with Custom Properties originall
         <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paulina Hetman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS CDK v2 Tutorial – How to Create a Three-Tier Serverless Application]]></title>
-        <id>61c4e1e6755c16082490a3fe</id>
-        <link href="https://www.freecodecamp.org/news/aws-cdk-v2-three-tier-serverless-application/"/>
-        <updated>2021-12-25T21:32:22.000Z</updated>
-        <summary type="html"><![CDATA[A three-tier web application has a presentation layer, an application layer, and a database layer.  This familiar pattern is fertile ground for learning new technologies like the AWS Cloud Development Kit (CDK).  In this tutorial, we will create a simple note-taking application using a DynamoDB table, HTTP API endpoints, Lambda]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -234,16 +306,6 @@ Care for the Text originally published on CSS-Tricks]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Java Log4JShell Vulnerability – What I Learned About it This Week]]></title>
-        <id>61c3b72d755c160824909987</id>
-        <link href="https://www.freecodecamp.org/news/java-log4jshell-vulnerability/"/>
-        <updated>2021-12-23T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Last Thursday, a vulnerability was disclosed in the Log4J logging library affecting many Java applications worldwide.  The vulnerability is called Log4Shell (CVE-2021–44228). It allows an attacker to inject a crafted payload anywhere in the requests that get parsed and executed by the vulnerable application. There are a lot of]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Remember You Are Not the User]]></title>
         <id>https://css-tricks.com/?p=358936</id>
         <link href="https://css-tricks.com/remember-you-are-not-the-user/"/>
@@ -252,58 +314,6 @@ Care for the Text originally published on CSS-Tricks]]></summary>
 Remember You Are Not the User originally published on CSS-Tricks]]></summary>
         <author>
             <name>Emma Bostian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Code RPG – Full Soundtrack + How I Made It]]></title>
-        <id>61c49108755c160824909f76</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-code-rpg-soundtrack/"/>
-        <updated>2021-12-23T18:53:07.000Z</updated>
-        <summary type="html"><![CDATA[First: what you probably came here for. Here's the full soundtrack to Learn to Code RPG. 36 minutes of jazz. If you dig it, subscribe to my new music channel and leave a comment with feedback or your favorite track. I am currently uploading this to Spotify. How I Made]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 Roundup of Web Research]]></title>
-        <id>https://css-tricks.com/?p=359205</id>
-        <link href="https://css-tricks.com/2021-roundup-of-web-research/"/>
-        <updated>2021-12-23T18:34:04.000Z</updated>
-        <summary type="html"><![CDATA[Last year, we kicked out a roundup of published surveys, research, and other findings from around the web. There were some nice nuggets in there, like a general sentiment that the web needs more documentation, Tailwind CSS dun …
-2021 Roundup of Web Research originally published on CSS-Tricks]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVG + JavaScript Tutorial – How to Code an Animated Watch]]></title>
-        <id>61c1fc40755c160824908ad5</id>
-        <link href="https://www.freecodecamp.org/news/svg-javascript-tutorial/"/>
-        <updated>2021-12-23T17:19:15.000Z</updated>
-        <summary type="html"><![CDATA[Since SVG images can be inlined in HTML, we can manipulate them with JavaScript. This means that we can animate parts of an image from code, make it interactive, or turn things around and generate graphics from data. In this example, we are going to create a watch. We will]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Dual Boot Any Linux Distribution With Windows – and Get Rid of It When You Need To]]></title>
-        <id>61c3059b755c1608249092e9</id>
-        <link href="https://www.freecodecamp.org/news/how-to-dual-boot-any-linux-distribution-with-windows/"/>
-        <updated>2021-12-23T16:32:46.000Z</updated>
-        <summary type="html"><![CDATA[Gone are the days when Linux and Windows were like two opposing forces. Microsoft has embraced the open-source community quite cordially in recent years, and as a result we have things like Windows Subsystem for Linux baked right into our Windows installations. That doesn't mean that we no longer need]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show, Don’t Tell]]></title>
-        <id>https://css-tricks.com/?p=357692</id>
-        <link href="https://css-tricks.com/show-dont-tell/"/>
-        <updated>2021-12-23T13:29:14.000Z</updated>
-        <summary type="html"><![CDATA[How much time do you spend designing the content presentation for your websites? When you write a new blog post or create a new page, are you thinking about just the words, or how your readers will engage with those …
-Show, Don’t Tell originally published on CSS-Tricks]]></summary>
-        <author>
-            <name>Mel Choyce</name>
         </author>
     </entry>
     <entry>
