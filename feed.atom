@@ -1,10 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-04T01:13:18.279Z</id>
+    <id>urn:2022-01-05T01:15:25.778Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-04T01:13:18.279Z</updated>
+    <updated>2022-01-05T01:15:25.778Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Async Callbacks in JavaScript...Without Callbacks?]]></title>
+        <id>61d392f6d2d9de084285b76f</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-async-callbacks-in-javascript/"/>
+        <updated>2022-01-04T23:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Noodling about on Discord today, the same question came up a few times on a few different servers. I thought it was a great question, and it seems my brain doesn't work quite the way others might expect.  Here's the question: "So I have a fetch function, and I'm doing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Better Git Commit Messages – A Step-By-Step Guide]]></title>
+        <id>61d1c911a700150888933fb8</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/"/>
+        <updated>2022-01-04T22:34:45.000Z</updated>
+        <summary type="html"><![CDATA[When first introduced to Git, it's typical for developers to feel uncomfortable with the process.  You might feel uncertainty when encountering the Git commit message, unsure how to properly summarize the changes you've made and why you've made them. But the earlier in your career you can develop good committing]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Open Visual Studio Code From Your Terminal]]></title>
+        <id>61d3917cd2d9de084285b707</id>
+        <link href="https://www.freecodecamp.org/news/how-to-open-visual-studio-code-from-your-terminal/"/>
+        <updated>2022-01-04T21:13:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, we'll go over how you can open the VS Code text editor (Visual Studio Code) from your Mac terminal.  Opening your text editor from your terminal is a quick, easy way to open up new projects and begin coding faster.  How to Download and Open VS CodeThe]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Should CSS Override Default Browser Styles?]]></title>
+        <id>https://css-tricks.com/?p=359880</id>
+        <link href="https://css-tricks.com/should-css-override-default-styles/"/>
+        <updated>2022-01-04T19:50:18.000Z</updated>
+        <summary type="html"><![CDATA[CSS overrides can change the default look of almost anything:
+You can use CSS to override what a checkbox or radio button looks like, but if you don’t, the checkbox will look like a default checkbox on your operating system 
+…
+Should CSS Override Default Browser Styles? originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Tag in HTML – What is Metadata and Meta Description Example]]></title>
+        <id>61c1ad52755c160824908a23</id>
+        <link href="https://www.freecodecamp.org/news/meta-tag-in-html-what-is-metadata-and-meta-description-example/"/>
+        <updated>2022-01-04T18:52:11.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn what meta tags are in HTML and how to use them. Then we'll go over some of the most important meta tags that you need to include in every new HTML project.  Let's get started!  How to set up an HTML project When setting up]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Software Development Training – New Data for Choosing the Best IT Career Training Resource]]></title>
+        <id>61d22dd0a700150888934505</id>
+        <link href="https://www.freecodecamp.org/news/types-of-software-development-training-new-data-for-choosing-the-best-it-career-training-resource/"/>
+        <updated>2022-01-04T17:59:53.000Z</updated>
+        <summary type="html"><![CDATA[A long, long time ago – back in late November, 2021 to be precise – I wrote "A Data Analysis of IT Career Training Tool Efficacy" to help with the difficult task of making smart career education choices.  Believe it or not, there have already been some important updates. That article began]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Beautiful Box Shadows in HTML and CSS]]></title>
+        <id>61d1a886a700150888933e3c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-beautiful-box-shadows-in-html-and-css/"/>
+        <updated>2022-01-04T16:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Whenever you're designing a card in HTML, box shadows play a vital role in making the cards stand out.  Whether its a pricing page card or even an e-commerce product listing card, box shadows can make or break the look and the entire message that that cards need to convey.]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Git Works Under the Hood]]></title>
+        <id>6176cded33422e07df363fa2</id>
+        <link href="https://www.freecodecamp.org/news/git-under-the-hood/"/>
+        <updated>2022-01-04T16:34:00.000Z</updated>
+        <summary type="html"><![CDATA[As developers, we all use some form of version control system, and the most popular one is Git.  A lot of us use Git, but very few know how it really works under the hood. We mostly just use it with a GUI client or the ones built into our]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add Search Functionality to a Frontend Application]]></title>
+        <id>61c05f65aabf6478ea746281</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-search-to-frontend-app/"/>
+        <updated>2022-01-04T16:28:58.000Z</updated>
+        <summary type="html"><![CDATA[As a software developer, part of your job is to deliver the best user experience possible to those using your site or product.  And building a helpful and efficient search function is one way you can do this. So if you are looking for the right way to build out]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automount a Storage Partition on Startup in Linux]]></title>
+        <id>61c55981755c16082490a553</id>
+        <link href="https://www.freecodecamp.org/news/automount-a-storage-partition-on-startup-in-linux/"/>
+        <updated>2022-01-04T16:09:16.000Z</updated>
+        <summary type="html"><![CDATA[By default, Linux OS does not automount any other partition at startup other than the root and the home partition.  You can mount other partitions very easily later, but you might want to enable some kind of automount feature on startup. This means that you won't need to mount them]]></summary>
+        <author>
+            <name>freeCodeCamp.org</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Underlines Are Too Thin and Too Low in Chrome]]></title>
+        <id>https://css-tricks.com/?p=359838</id>
+        <link href="https://css-tricks.com/css-underlines-are-too-thin-and-too-low-in-chrome/"/>
+        <updated>2022-01-04T15:30:18.000Z</updated>
+        <summary type="html"><![CDATA[I’ve encountered two bugs in Chrome while testing the new CSS text-decoration-thickness and text-underline-offset properties, and I want to share them with you here in this article.
+But first, let’s acknowledge one thing:
+Default underlines are inconsistent
+Let’s add a …
+CSS Underlines Are Too Thin and Too Low in Chrome originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Šime Vidas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jetpack Features We Love and Use at CSS-Tricks]]></title>
+        <id>https://css-tricks.com/?p=360452</id>
+        <link href="https://css-tricks.com/jetpack-features-we-love-and-use-at-css-tricks/"/>
+        <updated>2022-01-04T15:28:03.000Z</updated>
+        <summary type="html"><![CDATA[(This is a sponsored post.)
+We use and love Jetpack around here. It’s a WordPress plugin that brings a whole suite of functionality to your site ranging from security to marketing with lots of ridiculously useful stuff in between! …
+Jetpack Features We Love and Use at CSS-Tricks originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
+        <author>
+            <name>Chris Coyier</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Web Workers Work in JavaScript – With a Practical JS Example]]></title>
         <id>61cfe874a7001508889339e4</id>
@@ -16,74 +145,14 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HTML Best Practices – How to Build a Better HTML-Based Website]]></title>
-        <id>61bd0e47297c7107e8ad859b</id>
-        <link href="https://www.freecodecamp.org/news/html-best-practices/"/>
-        <updated>2022-01-03T23:42:00.000Z</updated>
-        <summary type="html"><![CDATA[HTML is the backbone of any website. It's the first thing people see. Without it, there would be no website.  Because of this, it's important that you stick to good coding practices. If you don't follow the best practices, you will create a bad user experience for the web user.]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is IT Infrastructure? A Beginner&#x27;s Guide]]></title>
-        <id>61b0b0b1946db661defb8a7c</id>
-        <link href="https://www.freecodecamp.org/news/what-is-it-infrastructure/"/>
-        <updated>2022-01-03T22:24:55.000Z</updated>
-        <summary type="html"><![CDATA[It is difficult to imagine a business that operates without at least some basic IT infrastructure.  Digital solutions and hardware that are linked together help boost a company's productivity. And good infrastructure improves internal processes and communication between different departments. IT infrastructure is based on various components that aim to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSS-Based Fingerprinting]]></title>
         <id>https://css-tricks.com/?p=360385</id>
         <link href="https://css-tricks.com/css-based-fingerprinting/"/>
         <updated>2022-01-03T21:45:10.000Z</updated>
         <summary type="html"><![CDATA[Fingerprinting is bad. It’s a term that refers to building up enough metadata about a user that you can essentially figure out who they are. JavaScript has access to all sorts of fingerprinting possibilities, which then combined with the IP …
-CSS-Based Fingerprinting originally published on CSS-Tricks]]></summary>
+CSS-Based Fingerprinting originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make an Animated Back to Top Button Using Only CSS]]></title>
-        <id>61c5d090755c16082490a758</id>
-        <link href="https://www.freecodecamp.org/news/css-only-back-to-top-button/"/>
-        <updated>2022-01-03T21:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Having a "back to top" button on a website is important. It allows users to easily scroll back to the top of the page.  Most websites rely on JavaScript to toggle the visibility of the button based on the amount of scroll. In this post, I will show you how]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Tutorial – How to Create a URL Shortener using Flask]]></title>
-        <id>61c823d0755c16082490af8f</id>
-        <link href="https://www.freecodecamp.org/news/python-tutorial-how-to-create-a-url-shortener-using-flask/"/>
-        <updated>2022-01-03T18:26:36.000Z</updated>
-        <summary type="html"><![CDATA[In this tutorial, we will build a URL shortener using Flask. This tool takes any URL and generates a shorter, more readable version like bit.ly.  The application will allow users to enter a URL and an optional custom short id and generate a shorter version. Here's what we're going]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Coding – Computer Program Definition and Code Meaning]]></title>
-        <id>61bf7fab297c7107e8ad90d5</id>
-        <link href="https://www.freecodecamp.org/news/computer-coding-computer-program-definition-and-code-meaning/"/>
-        <updated>2022-01-03T17:32:46.000Z</updated>
-        <summary type="html"><![CDATA[When you start learning to code, one of the questions you probably ask yourself is "What lannguage should I learn first?"  One of the most exciting – and at times overwhelming – things about learning to code is just how much there is to learn.  But instead of just focusing]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Java – Free Java Courses for Beginners]]></title>
-        <id>61b207db946db661defb945e</id>
-        <link href="https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/"/>
-        <updated>2022-01-03T17:06:06.000Z</updated>
-        <summary type="html"><![CDATA[Java is a really popular programming language that has been around for over 25+ years. If you are interested in learning Java, then there are plenty of free online courses to choose from. Java Tutorial for Beginners - Programming with MoshJava Course - SoloLearnJava Programming: Solving Problems with Software -]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -92,7 +161,7 @@ CSS-Based Fingerprinting originally published on CSS-Tricks]]></summary>
         <link href="https://css-tricks.com/how-to-create-a-browser-extension/"/>
         <updated>2022-01-03T15:12:31.000Z</updated>
         <summary type="html"><![CDATA[I’ll bet you are using browser extensions right now. Some of them are extremely popular and useful, like ad blockers, password managers, and PDF viewers. These extensions (or “add-ons”) are not limited to those purposes — you can do a …
-How to Create a Browser Extension originally published on CSS-Tricks]]></summary>
+How to Create a Browser Extension originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Lars Kölker</name>
         </author>
@@ -114,7 +183,7 @@ How to Create a Browser Extension originally published on CSS-Tricks]]></summary
         <updated>2022-01-01T17:50:59.000Z</updated>
         <summary type="html"><![CDATA[The year has come to a close and it’s time again for our end-of-year wrapup. The most important message is this: thank you. (thankyouthankyou)
 Thanks for stopping by and reading this site. If you didn’t, I’d be out …
-Thank You (2021 Edition) originally published on CSS-Tricks]]></summary>
+Thank You (2021 Edition) originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -126,19 +195,9 @@ Thank You (2021 Edition) originally published on CSS-Tricks]]></summary>
         <updated>2021-12-31T18:41:47.000Z</updated>
         <summary type="html"><![CDATA[Ahmad Shadeed nails it again with “Defensive CSS.” The idea is that you should write CSS to be ready for issues caused by dynamic content. 
 More items than you thought would be there? No problem, the area can expand or …
-Defensive CSS originally published on CSS-Tricks]]></summary>
+Defensive CSS originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Free Accredited Bachelor&#x27;s Degree in Computer Science – How Do We Get There?]]></title>
-        <id>61cb5f2f755c16082490be2f</id>
-        <link href="https://www.freecodecamp.org/news/free-accredited-bachelors-degrees-in-computer-science-how-do-we-get-there/"/>
-        <updated>2021-12-31T16:26:19.000Z</updated>
-        <summary type="html"><![CDATA[2021 has been a big year for the freeCodeCamp community: We provided more than 2.1 billion minutes of learning to millions of people around the world.We published our 300-hour Relational Database Certification teaching SQL, Linux, and Git interactively – right inside VS Code.We shipped a project-oriented learning overhaul]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -157,7 +216,7 @@ Defensive CSS originally published on CSS-Tricks]]></summary>
         <link href="https://css-tricks.com/the-web-is-more-gooder-and-other-observations-on-todays-web-tech/"/>
         <updated>2021-12-30T20:08:07.000Z</updated>
         <summary type="html"><![CDATA[I’m actually working on a talk (whew! been a while! kinda feels good!) about just how good the world of building websites has gotten. I plan to cover a wide swath of web tech, on purpose, because I …
-The Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks]]></summary>
+The Web is More Gooder, and Other Observations on Today’s Web Tech originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -168,7 +227,7 @@ The Web is More Gooder, and Other Observations on Today’s Web Tech originally 
         <link href="https://css-tricks.com/add-less/"/>
         <updated>2021-12-30T16:23:29.000Z</updated>
         <summary type="html"><![CDATA[When you’re about to start a new website, what do you think first? Do you start with a library or framework you know, like React or Vue, or a meta-framework on top of that, like Next or Nuxt? Do you …
-Add Less originally published on CSS-Tricks]]></summary>
+Add Less originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Cassidy Williams</name>
         </author>
@@ -180,29 +239,9 @@ Add Less originally published on CSS-Tricks]]></summary>
         <updated>2021-12-30T16:18:38.000Z</updated>
         <summary type="html"><![CDATA[(This is a sponsored post.)
 High-velocity, online businesses produce multiple digital assets like banners, images, videos, PDFs, etc., to promote their businesses online. For such businesses, Digital Asset Management (DAM) solutions are essential. These solutions help centrally store, manage, …
-New Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tricks]]></summary>
+New Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>ImageKit</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take the 2022 Become-a-Dev New Year&#x27;s Resolution Challenge]]></title>
-        <id>61cdc903a700150888933394</id>
-        <link href="https://www.freecodecamp.org/news/2022-become-a-dev-new-years-resolution-challenge/"/>
-        <updated>2021-12-30T15:54:07.000Z</updated>
-        <summary type="html"><![CDATA[Every year, millions of people create New Year's Resolutions. A vast majority of these will fail. But I've created one for you that I'm optimistic you can succeed with. This is all free and you'll learn a ton. There will be a lot of other people doing this challenge alongside]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top freeCodeCamp Contributors of 2021]]></title>
-        <id>61cdb310a70015088893319b</id>
-        <link href="https://www.freecodecamp.org/news/2021-top-contributors/"/>
-        <updated>2021-12-30T14:56:08.000Z</updated>
-        <summary type="html"><![CDATA[2021 was a big year for the freeCodeCamp community: We provided more than 2.1 billion minutes of learning to millions of people around the world.We published our 300-hour Relational Database Certification teaching SQL, Linux, and Git interactively – right inside VS Code.We shipped a project-oriented learning overhaul to]]></summary>
-        <author>
-            <name>freeCodeCamp.org</name>
         </author>
     </entry>
     <entry>
@@ -211,7 +250,7 @@ New Age DAM APIs to Simplify Your Media Workflows originally published on CSS-Tr
         <link href="https://css-tricks.com/empathetic-animation/"/>
         <updated>2021-12-29T16:04:16.000Z</updated>
         <summary type="html"><![CDATA[Animation on the web is often a contentious topic. I think, in part, it’s because bad animation is blindingly obvious, whereas well-executed animation fades seamlessly into the background. When handled well, animation can really elevate a website, whether it’s just …
-Empathetic Animation originally published on CSS-Tricks]]></summary>
+Empathetic Animation originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Cassie Evans</name>
         </author>
@@ -222,7 +261,7 @@ Empathetic Animation originally published on CSS-Tricks]]></summary>
         <link href="https://css-tricks.com/on-yak-shaving-and-md-block-a-new-html-element-for-markdown/"/>
         <updated>2021-12-29T16:03:44.000Z</updated>
         <summary type="html"><![CDATA[Lea Verou made a Web Component for processing Markdown. Looks like there were a couple of others out there already, but I agree with Lea in that this is a good use case for the light DOM (as opposed …
-On Yak Shaving and md-block, a new HTML element for Markdown originally published on CSS-Tricks]]></summary>
+On Yak Shaving and md-block, a new HTML element for Markdown originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -243,7 +282,7 @@ On Yak Shaving and md-block, a new HTML element for Markdown originally publishe
         <link href="https://css-tricks.com/add-a-service-worker-to-your-site/"/>
         <updated>2021-12-28T16:14:23.000Z</updated>
         <summary type="html"><![CDATA[One of the best things you can do for your website in 2022 is add a service worker, if you don’t have one in place already. Service workers give your website super powers. Today, I want to show you some …
-Add a Service Worker to Your Site originally published on CSS-Tricks]]></summary>
+Add a Service Worker to Your Site originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Ferdinandi</name>
         </author>
@@ -256,7 +295,7 @@ Add a Service Worker to Your Site originally published on CSS-Tricks]]></summary
         <summary type="html"><![CDATA[I hadn’t heard of most of the Chrome extensions that Sarem Gizaw lists as 2021 favorites. Here are my hot takes on all of them, except the virtual learning specific ones that aren’t very relevant to me.
 LoomOh that’s 
 …
-Our favorite Chrome extensions of 2021 originally published on CSS-Tricks]]></summary>
+Our favorite Chrome extensions of 2021 originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
         </author>
@@ -267,7 +306,7 @@ Our favorite Chrome extensions of 2021 originally published on CSS-Tricks]]></su
         <link href="https://css-tricks.com/honor-prefers-color-scheme-in-the-css-paint-api-with-custom-properties/"/>
         <updated>2021-12-27T14:39:00.000Z</updated>
         <summary type="html"><![CDATA[One of the coolest things I’ve been messing with in the last couple years is the CSS Paint API. I love it. I did a talk on it, and made a little gallery of my own paint worklets…
-Honor prefers-color-scheme in the CSS Paint API with Custom Properties originally published on CSS-Tricks]]></summary>
+Honor prefers-color-scheme in the CSS Paint API with Custom Properties originally published on CSS-Tricks. You should get the newsletter and become a supporter.]]></summary>
         <author>
             <name>Jeremy Wagner</name>
         </author>
@@ -280,40 +319,6 @@ Honor prefers-color-scheme in the CSS Paint API with Custom Properties originall
         <summary type="html"><![CDATA[Have you already built and published a Gatsby theme? In this article, Paulina Hetman explains how Gatsby themes work and what problems they can solve by comparing Gatsby themes with their WordPress counterparts.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paulina Hetman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strut Your Stuff With a Custom Scrollbar]]></title>
-        <id>https://css-tricks.com/?p=358956</id>
-        <link href="https://css-tricks.com/strut-your-stuff-with-a-custom-scrollbar/"/>
-        <updated>2021-12-24T22:58:49.000Z</updated>
-        <summary type="html"><![CDATA[The first time I had my breath taken away by a humble scrollbar was on this very site. When CSS-Tricks v17 rolled out with its FAT CHONKY BOI, my jaw dropped.
-I didn’t know you could do that on …
-Strut Your Stuff With a Custom Scrollbar originally published on CSS-Tricks]]></summary>
-        <author>
-            <name>Shawn Wang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Care for the Text]]></title>
-        <id>https://css-tricks.com/?p=358565</id>
-        <link href="https://css-tricks.com/care-for-the-text/"/>
-        <updated>2021-12-24T12:33:11.000Z</updated>
-        <summary type="html"><![CDATA[How do you make a great website? Everyone has an answer at the ready: Flashy animations! The latest punk-rock CSS trick! Gradients! Illustrations! Colors to pack a punch! Vite! And, sure, all these things might make a website better. But …
-Care for the Text originally published on CSS-Tricks]]></summary>
-        <author>
-            <name>Robin Rendle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remember You Are Not the User]]></title>
-        <id>https://css-tricks.com/?p=358936</id>
-        <link href="https://css-tricks.com/remember-you-are-not-the-user/"/>
-        <updated>2021-12-23T19:31:04.000Z</updated>
-        <summary type="html"><![CDATA[One thing people can do to make their websites better is to remember that you are not representative of all your users. Our life experiences and how we interact with the web are not indicative of how everyone interacts with …
-Remember You Are Not the User originally published on CSS-Tricks]]></summary>
-        <author>
-            <name>Emma Bostian</name>
         </author>
     </entry>
     <entry>
